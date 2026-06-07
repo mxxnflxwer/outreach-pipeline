@@ -1,0 +1,2948 @@
+{
+  "seed_domain": "beyondthedreamentertainmentinc.com",
+  "companies": [
+    {
+      "company": {
+        "domain": "zoho.com",
+        "countries": [
+          "ae",
+          "cn",
+          "gb",
+          "in",
+          "jp",
+          "nl",
+          "us"
+        ],
+        "primaryCountry": "in",
+        "companySize": "10001-50000",
+        "industryCategories": [
+          "Information Technology",
+          "Software",
+          "Sales and Marketing"
+        ],
+        "industries": [
+          "Information Technology",
+          "Software",
+          "Enterprise Software",
+          "SaaS",
+          "CRM"
+        ],
+        "linkedinIndustry": "Software Development",
+        "keywords": [
+          "accounting",
+          "book-keeping",
+          "business software",
+          "collaboration and business productivity suite",
+          "crm",
+          "customer experience",
+          "email marketing",
+          "email service",
+          "employee experience software",
+          "enterprise it management",
+          "human resources management system",
+          "invoicing",
+          "low code no code platform",
+          "network management",
+          "online office",
+          "productivity",
+          "sales",
+          "social media management",
+          "recommend zoho",
+          "enterprise\u2014zoho",
+          "zoho serves",
+          "zoho",
+          "zia makes",
+          "zoho continues",
+          "zoho social\u2014now",
+          "zoho ecosystem",
+          "efficiently manage",
+          "business management",
+          "profitable organization",
+          "zia",
+          "management",
+          "efficiently",
+          "efficiency",
+          "company",
+          "business operations",
+          "customer-first philosophy",
+          "affordable collaboration",
+          "ceo",
+          "growing business",
+          "powerful software",
+          "entire business",
+          "business",
+          "business growth",
+          "businesses",
+          "manage",
+          "customer-first",
+          "complete business",
+          "marketing",
+          "clients' potential",
+          "improved",
+          "profitable",
+          "organization",
+          "highly recommend",
+          "efficiency tenfold",
+          "end-to-end business",
+          "mid-sized company",
+          "based mobile",
+          "business sees",
+          "device management",
+          "small business",
+          "complex business",
+          "business processes",
+          "subsidiary",
+          "users",
+          "recommend",
+          "customers' trust",
+          "makes recommendations",
+          "customer",
+          "software helps",
+          "collaboration",
+          "customers",
+          "collaboration solution",
+          "mobile",
+          "applications",
+          "facilitate",
+          "mdm",
+          "productivity services",
+          "large business",
+          "operating",
+          "business faces",
+          "brands",
+          "recommendations",
+          "app",
+          "chief operating",
+          "uae",
+          "dubai",
+          "software",
+          "good",
+          "media marketing",
+          "local businesses",
+          "robust",
+          "automate",
+          "mobile device",
+          "cheaper",
+          "technology",
+          "effectively addressing",
+          "based"
+        ],
+        "employeeCountOcean": 21328,
+        "employeeCountLinkedin": 30490,
+        "revenue": "500-1000M",
+        "yearFounded": 2009,
+        "description": "Zoho offers beautifully smart software to help you grow your business. With over 130M+ users worldwide, Zoho's 55+ products aid your sales and marketing, support and collaboration, finance, and recruitment needs\u2014letting you focus only on your business. Zoho respects user privacy and does not have an ad-revenue model in any part of its business, including its free products. Zoho Corporation is privately held and profitable, with its headquarters in Chennai, India, and offices across the globe.",
+        "emails": [
+          "sales@zoho.jp"
+        ],
+        "phones": [
+          {
+            "number": "+1 925-924-9500",
+            "country": "us"
+          },
+          {
+            "number": "+1 833-957-3953",
+            "country": "us"
+          },
+          {
+            "number": "+52 55 5091 2446",
+            "country": "mx"
+          },
+          {
+            "number": "+52 800 272 0326",
+            "country": "mx"
+          },
+          {
+            "number": "+86 10 8273 8868",
+            "country": "cn"
+          },
+          {
+            "number": "+65 6723 1040",
+            "country": "sg"
+          },
+          {
+            "number": "+27 80 022 1023",
+            "country": "za"
+          },
+          {
+            "number": "+254 800 230 076",
+            "country": "ke"
+          },
+          {
+            "number": "+234 708 060 1544",
+            "country": "ng"
+          },
+          {
+            "number": "+1 877-834-4428",
+            "country": "us"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/zoho.com/fcd89f6db3406bd490401f8025625cb9db04e643.png",
+        "technologies": [
+          "HSTS",
+          "Issuu",
+          "RSS",
+          "phpRS",
+          "PHP",
+          "YouTube"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Widgets",
+          "Video players",
+          "Security",
+          "Miscellaneous",
+          "Programming languages"
+        ],
+        "mobileApps": [
+          {
+            "link": "https://apps.apple.com/app/id413017364",
+            "name": "Zoho Invoice - Billing App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id511887920",
+            "name": "Zoho Projects"
+          },
+          {
+            "link": "https://apps.apple.com/app/id388384804",
+            "name": "Zoho Docs"
+          },
+          {
+            "link": "https://apps.apple.com/app/id444908810",
+            "name": "Zoho CRM - Sales & Marketing"
+          },
+          {
+            "link": "https://apps.apple.com/app/id582922932",
+            "name": "Zoho Assist - Remote Desktop"
+          },
+          {
+            "link": "https://apps.apple.com/app/id710446064",
+            "name": "Zoho Books - Online Accounting"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1184196693",
+            "name": "Zoho Subscriptions"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1522425694",
+            "name": "Zoho Sheet\u2014Spreadsheet on iPad"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1546626355",
+            "name": "Zoho Creator On-Premise"
+          },
+          {
+            "link": "https://apps.apple.com/app/id804728901",
+            "name": "Zoho Campaigns-Email Marketing"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1201234839",
+            "name": "Estimate Generator - Zoho"
+          },
+          {
+            "link": "https://apps.apple.com/app/id805565969",
+            "name": "Mobile Forms App - Zoho Forms"
+          },
+          {
+            "link": "https://apps.apple.com/app/id808719064",
+            "name": "Zoho Writer - Document Editor"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1555277097",
+            "name": "Zoho Sheet - Spreadsheet App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id588799392",
+            "name": "Card Scanner"
+          },
+          {
+            "link": "https://apps.apple.com/app/id966094166",
+            "name": "Zoho Expense - Expense Reports"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1094699978",
+            "name": "Zoho SalesIQ - Live Chat App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1096516989",
+            "name": "Zoho Mail Admin"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1342534979",
+            "name": "Expense Report Generator"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1348702782",
+            "name": "Zoho Survey - Survey Tool"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1476546723",
+            "name": "Zoho CRM Analytics"
+          },
+          {
+            "link": "https://apps.apple.com/app/id634857858",
+            "name": "Zoho Vault - Password Manager"
+          },
+          {
+            "link": "https://apps.apple.com/app/id650742465",
+            "name": "Zoho Connect"
+          },
+          {
+            "link": "https://apps.apple.com/app/id973801089",
+            "name": "Notebook - Notes,To-do,Journal"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1361557068",
+            "name": "Revenue Forecaster"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1456241226",
+            "name": "Mobilisten by Zoho SalesIQ"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1514783321",
+            "name": "Support EZ"
+          },
+          {
+            "link": "https://apps.apple.com/app/id902365462",
+            "name": "Zoho Analytics - Mobile BI App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1117388935",
+            "name": "CRM Platform"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1236146442",
+            "name": "E-signature app - Zoho Sign"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1562808051",
+            "name": "Zoho Analytics - Dashboards"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1552703050",
+            "name": "Zoho Contracts"
+          },
+          {
+            "link": "https://apps.apple.com/app/id909262651",
+            "name": "Zoho Mail - Email and Calendar"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1408591221",
+            "name": "Zoho WorkDrive"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1417937496",
+            "name": "Zoho One - The Business Suite"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1324912655",
+            "name": "Zoho Backstage for Attendees"
+          },
+          {
+            "link": "https://apps.apple.com/app/id680525956",
+            "name": "HR management - Zoho People"
+          },
+          {
+            "link": "https://apps.apple.com/app/id692742510",
+            "name": "Zoho Desk"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1037960494",
+            "name": "Zoho Inventory - Inventory App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id981522421",
+            "name": "Zoho Recruit - Recruiting CRM"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1142928979",
+            "name": "Zoho OneAuth - Authenticator"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1146710936",
+            "name": "Customer Portal - Zoho Creator"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1277551323",
+            "name": "Zoho Assist - Customer"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1477983677",
+            "name": "Zoho Lens"
+          },
+          {
+            "link": "https://apps.apple.com/app/id692005267",
+            "name": "Zoho Creator"
+          },
+          {
+            "link": "https://apps.apple.com/app/id925226444",
+            "name": "ShowTime Viewer from Zoho"
+          },
+          {
+            "link": "https://apps.apple.com/app/id925233601",
+            "name": "ShowTime Presenter from Zoho"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1127272574",
+            "name": "Chartistic - Charting App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1279756583",
+            "name": "Zoho Sprints"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1277602149",
+            "name": "Zoho Meeting - Online Meetings"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1309156447",
+            "name": "Zoho Show - Presentation App"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1437808763",
+            "name": "Zoho Workerly-For Temp Workers"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1531879760",
+            "name": "Zoho Survey - Offline Survey"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1441768336",
+            "name": "Radar for Zoho Desk"
+          },
+          {
+            "link": "https://apps.apple.com/app/id906377559",
+            "name": "Zoho Social"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1061863220",
+            "name": "Invoice Generator - Zoho"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1056478397",
+            "name": "Zoho Cliq - Team Communication"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1146252869",
+            "name": "Streams - for Zoho Mail"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1444416745",
+            "name": "Zoho Bookings"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1437263937",
+            "name": "Zoho BugTracker"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1446883164",
+            "name": "Zoho Backstage for Organizers"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1444390753",
+            "name": "Search across Zoho- Zia Search"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1450810850",
+            "name": "Zoho Payroll - Employee Portal"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1454212098",
+            "name": "Bigin by Zoho CRM"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1539392262",
+            "name": "Purchase Order Generator Zoho"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1601972886",
+            "name": "Zoho Directory"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1509013474",
+            "name": "Zoho FSM for Field Agents"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1523646131",
+            "name": "Zoho TeamInbox"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1564294772",
+            "name": "Zoho People Kiosk"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1538133078",
+            "name": "Zoho Workplace"
+          }
+        ],
+        "webTraffic": {
+          "visits": 49600000,
+          "pageViews": 585776020,
+          "pagesPerVisit": 11.8100004196167,
+          "bounceRate": 0.2691
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/zoho",
+            "handle": "zoho",
+            "name": "Zoho",
+            "specialties": [
+              "accounting",
+              "book-keeping",
+              "business software",
+              "collaboration and business productivity suite",
+              "crm",
+              "customer experience",
+              "email marketing",
+              "email service",
+              "employee experience software",
+              "enterprise it management",
+              "human resources management system",
+              "invoicing",
+              "low code no code platform",
+              "network management",
+              "online office",
+              "productivity",
+              "sales",
+              "social media management"
+            ]
+          },
+          "twitter": {
+            "url": "http://twitter.com/zoho",
+            "handle": "zoho"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/live/rfJayePq4-w",
+            "handle": "rfjayepq4-w"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/cnbcyoungturks/videos/1478039785595850/?hc_ref=ARRqCcdLQANqsqNBZAiJe7KjvgPuLfwpgXTA6I5oesZZ-5JtKqxuSCVWRiiFtlYHDyM",
+            "handle": "1478039785595850"
+          }
+        },
+        "name": "Zoho",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 22.35111427307129,
+            "longitude": 78.66773986816406,
+            "country": "in",
+            "locality": "Chennai",
+            "postalCode": "603202",
+            "streetAddress": "Zoho Corporation Pvt. Ltd, Estancia IT Park, Plot No. 140 & 151,"
+          },
+          {
+            "latitude": 12.831077575683594,
+            "longitude": 80.04935455322266,
+            "country": "in",
+            "locality": "Chengalpattu",
+            "postalCode": "603202",
+            "streetAddress": "Estancia IT Park,Vallancherry, Plot No. 140 & 151, \u0917\u094d\u0930\u0948\u0902\u0921 \u0938\u0926\u0930\u094d\u0928 \u091f\u094d\u0930\u0902\u0915 \u092e\u093e\u0930\u094d\u0917"
+          },
+          {
+            "latitude": 37.68612289428711,
+            "longitude": -121.89374542236328,
+            "country": "us",
+            "locality": "Pleasanton",
+            "region": "California",
+            "postalCode": "94588",
+            "streetAddress": "4141 Hacienda Drive",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 12.843422889709473,
+            "longitude": 80.05525970458984,
+            "country": "in",
+            "locality": "Chennai",
+            "postalCode": "603202",
+            "streetAddress": "Plot No. 140 & 151, GST Road, Vallancherry Village, Chengalpattu Taluk"
+          },
+          {
+            "latitude": 30.262861251831055,
+            "longitude": -97.69618225097656,
+            "country": "us",
+            "locality": "Austin",
+            "postalCode": "78702",
+            "streetAddress": "Springdale Rd Suite 123"
+          },
+          {
+            "latitude": 29.89164924621582,
+            "longitude": -96.24434661865234,
+            "country": "us",
+            "locality": "Austin",
+            "postalCode": "78744",
+            "streetAddress": "6800 Burleson Road"
+          },
+          {
+            "latitude": 39.697715759277344,
+            "longitude": -76.06237030029297,
+            "country": "us"
+          },
+          {
+            "latitude": 52.07990646362305,
+            "longitude": 5.0924248695373535,
+            "country": "nl",
+            "locality": "Utrecht",
+            "postalCode": "3527 HT",
+            "streetAddress": "Beneluxlaan 4b"
+          },
+          {
+            "latitude": 27.478302001953125,
+            "longitude": -99.46076202392578,
+            "country": "us",
+            "locality": "Del Valle",
+            "postalCode": "78617",
+            "streetAddress": "4708 Highway 71 E"
+          },
+          {
+            "latitude": 41.08308792114258,
+            "longitude": 141.24781799316406,
+            "country": "jp",
+            "locality": "Yokohama",
+            "postalCode": "221-0056",
+            "streetAddress": "Yokohama Kinkocho building 6F"
+          },
+          {
+            "latitude": 39.97504425048828,
+            "longitude": 116.34021759033203,
+            "country": "cn",
+            "locality": "Beijing",
+            "postalCode": "100088",
+            "streetAddress": "B-1104, 11F, Horizon International Tower"
+          },
+          {
+            "latitude": 25.074281692504883,
+            "longitude": 55.18853759765625,
+            "country": "ae",
+            "locality": "Dubai",
+            "postalCode": "643708",
+            "streetAddress": "Cluster W, JLT"
+          },
+          {
+            "latitude": 52.00065231323242,
+            "longitude": -0.7387639284133911,
+            "country": "gb"
+          },
+          {
+            "latitude": 52.073001861572266,
+            "longitude": 5.0960001945495605,
+            "country": "nl",
+            "locality": "Utrecht",
+            "region": "Utrecht|Utrecht",
+            "postalCode": "3527 Gv",
+            "streetAddress": "Churchilllaan 11"
+          },
+          {
+            "latitude": 39.976322174072266,
+            "longitude": 116.33582305908203,
+            "country": "cn",
+            "locality": "Haidian District"
+          },
+          {
+            "latitude": 35.46858596801758,
+            "longitude": 139.62557983398438,
+            "country": "jp",
+            "locality": "Yokohama",
+            "postalCode": "221-0056",
+            "streetAddress": "Yokohama Kinkocho Building, 6f, 6-3 Kink\u014dch\u014d"
+          },
+          {
+            "latitude": 30.1873779296875,
+            "longitude": -97.59308624267578,
+            "country": "us",
+            "locality": "Del Valle",
+            "postalCode": "78617",
+            "streetAddress": "4708 E Hwy 71"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 195
+          },
+          {
+            "department": "Board",
+            "size": 7
+          },
+          {
+            "department": "Business Support",
+            "size": 1301
+          },
+          {
+            "department": "Customer Relations",
+            "size": 730
+          },
+          {
+            "department": "Design",
+            "size": 813
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 270
+          },
+          {
+            "department": "Engineering",
+            "size": 1662
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 73
+          },
+          {
+            "department": "Healthcare",
+            "size": 33
+          },
+          {
+            "department": "HR",
+            "size": 221
+          },
+          {
+            "department": "Legal",
+            "size": 38
+          },
+          {
+            "department": "Management",
+            "size": 964
+          },
+          {
+            "department": "Manufacturing",
+            "size": 21
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 676
+          },
+          {
+            "department": "Operations",
+            "size": 505
+          },
+          {
+            "department": "Other",
+            "size": 6830
+          },
+          {
+            "department": "PR and Communications",
+            "size": 42
+          },
+          {
+            "department": "Procurement",
+            "size": 13
+          },
+          {
+            "department": "Product",
+            "size": 1284
+          },
+          {
+            "department": "Quality Control",
+            "size": 670
+          },
+          {
+            "department": "R&D",
+            "size": 5162
+          },
+          {
+            "department": "Sales",
+            "size": 798
+          },
+          {
+            "department": "Security",
+            "size": 110
+          },
+          {
+            "department": "Supply Chain",
+            "size": 15
+          }
+        ],
+        "rootUrl": "https://www.zoho.com",
+        "updatedAt": "2026-03-13T18:05:57+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "anu-biz.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Software",
+          "Information Technology",
+          "Professional Services"
+        ],
+        "industries": [
+          "Software",
+          "Information Technology",
+          "Small and Medium Businesses",
+          "SaaS"
+        ],
+        "linkedinIndustry": "IT Services and IT Consulting",
+        "keywords": [
+          "consultation & advisement",
+          "development services",
+          "integration w/ other applications",
+          "support & maintenance",
+          "training",
+          "zoho crm / crm plus",
+          "zoho financial suite",
+          "zoho one",
+          "anu-biz\nbusiness systems\nzoho\nconsulting",
+          "ebizcharge",
+          "zoho consulting",
+          "business applications",
+          "automation made",
+          "business systems",
+          "automation",
+          "systems zoho",
+          "zoho desk",
+          "applications",
+          "app",
+          "zoho crm",
+          "integrated applications",
+          "app builder",
+          "software",
+          "software solutions",
+          "helps businesses",
+          "business",
+          "payment tool",
+          "zoho creator",
+          "builder zoho",
+          "zoho",
+          "businesses",
+          "zoho offers",
+          "business payment",
+          "custom app",
+          "consulting",
+          "payment processing",
+          "customer",
+          "businesses collect",
+          "collect customer",
+          "zoho books",
+          "processing",
+          "processing solution",
+          "tool",
+          "processing payments",
+          "transaction reporting",
+          "transaction",
+          "cloud-based software",
+          "integrated",
+          "systems",
+          "customer payments",
+          "platform",
+          "desk",
+          "embedded payment",
+          "accessing transaction",
+          "easier collection",
+          "crm",
+          "cloud-based platform",
+          "offers cloud-based",
+          "payment",
+          "easier",
+          "payments faster",
+          "payment links",
+          "cloud-based"
+        ],
+        "employeeCountOcean": 2,
+        "employeeCountLinkedin": 2,
+        "revenue": "0-1M",
+        "yearFounded": 2019,
+        "description": "Expertise without the attitude. We are Zoho partners and developers with over 20 years experience - Zoho Partner since 2009. Anu Biz is experienced in integration & development.with Zoho One, Zoho Creator and apps including CRM Suites, Financial Suites, Connect and Cliq. You search for a Zoho Partner ends here.",
+        "emails": [
+          "info@anu-biz.com"
+        ],
+        "logo": "https://cdn.ocean.io/logos/anu-biz.com/58fb1be9c20a3d278f3e810eb7635104cf71fb88.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Zoho",
+          "RSS",
+          "Zoho PageSense",
+          "Google Analytics",
+          "HSTS"
+        ],
+        "technologyCategories": [
+          "A/B Testing",
+          "Tag managers",
+          "Personalisation",
+          "Analytics",
+          "Security",
+          "Miscellaneous",
+          "CRM"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/anu-biz",
+            "handle": "anu-biz",
+            "name": "Anu Business Consulting",
+            "specialties": [
+              "consultation & advisement",
+              "development services",
+              "integration w/ other applications",
+              "support & maintenance",
+              "training",
+              "zoho crm / crm plus",
+              "zoho financial suite",
+              "zoho one"
+            ]
+          }
+        },
+        "name": "Anu Business Consulting",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 37.538509368896484,
+            "longitude": -77.43428039550781,
+            "country": "us",
+            "locality": "Richmond",
+            "region": "Virginia",
+            "regionCode": "VA"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Business Support",
+            "size": 1
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 1
+          },
+          {
+            "department": "Management",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://www.anu-biz.com",
+        "updatedAt": "2026-04-03T12:12:19+02:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "three30group.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Information Technology",
+          "Sales and Marketing",
+          "Software"
+        ],
+        "industries": [
+          "CRM",
+          "Information Technology",
+          "Software",
+          "Enterprise Software",
+          "SaaS"
+        ],
+        "linkedinIndustry": "IT Services and IT Consulting",
+        "keywords": [
+          "business intelligence",
+          "crm",
+          "marketing automation",
+          "microsoft sharepoint",
+          "reporting",
+          "salesforce.com",
+          "software development",
+          "software integrations",
+          "web development",
+          "websites",
+          "zoho analytics",
+          "zoho campaigns",
+          "zoho crm",
+          "zoho crm plus",
+          "zoho consulting",
+          "zoho program",
+          "integrate zoho",
+          "zoho-authorized partner",
+          "zoho-authorized",
+          "zoho",
+          "zoho features",
+          "zoho products",
+          "company-wide collaboration",
+          "collaboration",
+          "organization experiences",
+          "organization",
+          "company-wide",
+          "company",
+          "helps businesses",
+          "industries manage",
+          "industry-leading",
+          "industry-leading integration",
+          "management",
+          "experts organize",
+          "project management",
+          "consulting",
+          "enterprise",
+          "operational disciplines",
+          "operational",
+          "business operations",
+          "manager",
+          "wyn enterprise",
+          "businesses",
+          "program",
+          "organize",
+          "initiatives",
+          "industries",
+          "industry",
+          "application developers",
+          "improve customer",
+          "customer support",
+          "business",
+          "program integration",
+          "designing software",
+          "customer experience",
+          "application development",
+          "manage",
+          "implement",
+          "custom productivity",
+          "cost-effective",
+          "automate business",
+          "discovery meeting",
+          "tech park",
+          "applications",
+          "project",
+          "tech",
+          "profitable",
+          "departments",
+          "developers",
+          "application",
+          "cost-effective tools",
+          "streamlined operations",
+          "integrated",
+          "customer",
+          "technology",
+          "industry vertical",
+          "productivity solutions",
+          "meet",
+          "mobile applications",
+          "development",
+          "operations",
+          "analytics",
+          "platforms",
+          "holistic",
+          "marketing",
+          "philadelphia",
+          "consolidate",
+          "software",
+          "actionable insights",
+          "office",
+          "analytics tools",
+          "specializing",
+          "integration tools",
+          "custom application",
+          "software solutions",
+          "office productivity",
+          "sales initiatives",
+          "integrated solution",
+          "working",
+          "processes",
+          "increase productivity",
+          "helping",
+          "integrate",
+          "unnecessary activities",
+          "designing",
+          "start helping",
+          "partner specializing",
+          "information",
+          "automate",
+          "effectively consolidate",
+          "support"
+        ],
+        "employeeCountOcean": 13,
+        "employeeCountLinkedin": 13,
+        "revenue": "0-1M",
+        "yearFounded": 2003,
+        "description": "As your technology partner, Three30 Group has the expertise to analyze and solve major issues with your technology integration, and create a wide array of custom software solutions that help bridge the gaps in your company\u2019s business technology processes. Zoho One: Three30 Group\u2019s in-house Zoho experts possess deep knowledge of the entire Zoho product line including its flagship all-inclusive suite, Zoho One, that enables users to integrate sales, marketing, e-commerce, event management, forms and surveys, live chat functionality, customer support, email hosting, project management, accounting and more. Zoho CRM: We make learning and implementing Zoho CRM a breeze. Three30 Group helps your team build the sales funnel and automations they need to successfully engage with clients, track progress, and close sales. Whether you\u2019re targeting B2B or B2C, our training modules prepare your team to fully maximize Zoho CRM\u2019s multifaceted capabilities. Custom Software Development & Integration: Three30 Group has over 20 years of expertise creating custom applications and software integrations including web portals and reporting that help fill operational gaps and maximize your existing investment in technology. From PHP and .NET, MySQL and SQL Server, to Zoho Analytics, QuickBooks and SAP, Three30 Group connects your processes with third party apps to create the custom solutions your company needs. Dashboard & BI: Our team of application developers and data visualization experts organize your data into meaningful reports and dashboards so you\u2019re able to manage and track key business metrics and trends that impact your operation across product offerings and departments. Using Microsoft Power BI, Zoho Analytics, and Wyn Enterprise, Three30 Group delivers the tools and training to empower your team and inform decisions through comprehensive analysis.",
+        "emails": [
+          "info@three30group.com"
+        ],
+        "phones": [
+          {
+            "number": "+1 330-339-4017",
+            "country": "us",
+            "primary": true
+          }
+        ],
+        "logo": "https://cdn2.ocean.io/logos/three30group.com/6ddad9db8c27b4503f6636c8bf11e25b72ff9293.png",
+        "technologies": [
+          "Google Tag Manager",
+          "WordPress",
+          "Animate.css",
+          "Priority Hints",
+          "WP Engine",
+          "Facebook Pixel",
+          "Dealer Spike",
+          "MySQL",
+          "RSS",
+          "Mautic",
+          "PHP",
+          "Google Analytics",
+          "jQuery",
+          "TinyMCE",
+          "Contact Form 7",
+          "jQuery Migrate",
+          "HTTP/3",
+          "Cloudflare",
+          "Cloudflare Bot Management",
+          "Google Font API",
+          "Divi"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Analytics",
+          "Blogs",
+          "Security",
+          "Font scripts",
+          "Miscellaneous",
+          "Rich text editors",
+          "Programming languages",
+          "CDN",
+          "Marketing automation",
+          "Databases",
+          "Advertising",
+          "Tag managers",
+          "Page builders",
+          "JavaScript libraries",
+          "PaaS",
+          "UI frameworks",
+          "WordPress themes",
+          "WordPress plugins",
+          "Hosting",
+          "Performance",
+          "Form builders"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/three30group",
+            "handle": "three30group",
+            "name": "Three30 Group - Software for Sales Service AND Marketing",
+            "specialties": [
+              "business intelligence",
+              "crm",
+              "marketing automation",
+              "microsoft sharepoint",
+              "reporting",
+              "salesforce.com",
+              "software development",
+              "software integrations",
+              "web development",
+              "websites",
+              "zoho analytics",
+              "zoho campaigns",
+              "zoho crm",
+              "zoho crm plus"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/Three30Group",
+            "handle": "three30group"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/Three30Group",
+            "handle": "three30group"
+          }
+        },
+        "name": "Three30 Group - Software for Sales Service AND Marketing",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 40.51980209350586,
+            "longitude": -81.46949005126953,
+            "country": "us",
+            "locality": "Dover",
+            "region": "Ohio",
+            "postalCode": "44622",
+            "streetAddress": "East Broadway Street",
+            "regionCode": "OH"
+          },
+          {
+            "latitude": 40.48920440673828,
+            "longitude": -81.44518280029297,
+            "country": "us",
+            "locality": "New Philadelphia",
+            "postalCode": "44663",
+            "streetAddress": "108 E High Ave #2"
+          },
+          {
+            "latitude": 40.47299575805664,
+            "longitude": -81.40483856201172,
+            "country": "us",
+            "locality": "New Philadelphia",
+            "region": "Ohio",
+            "postalCode": "44663",
+            "streetAddress": "Tech Park Drive Northeast  1776",
+            "regionCode": "OH"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Business Support",
+            "size": 1
+          },
+          {
+            "department": "Management",
+            "size": 1
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 1
+          },
+          {
+            "department": "Operations",
+            "size": 1
+          },
+          {
+            "department": "R&D",
+            "size": 9
+          },
+          {
+            "department": "Sales",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://www.three30group.com",
+        "updatedAt": "2026-03-07T05:14:47+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "gobizit.com",
+        "countries": [
+          "au",
+          "es",
+          "nz"
+        ],
+        "primaryCountry": "nz",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Software",
+          "Information Technology",
+          "Sales and Marketing"
+        ],
+        "industries": [
+          "Software",
+          "CRM",
+          "Information Technology",
+          "SaaS",
+          "Enterprise Software"
+        ],
+        "linkedinIndustry": "IT Services and IT Consulting",
+        "keywords": [
+          "artificial intelligence",
+          "business automation",
+          "crm",
+          "customer relationship management",
+          "hubspot",
+          "pipedrive",
+          "sales force",
+          "zoho",
+          "zoho crm",
+          "zoho one",
+          "zoho implementation",
+          "zoho customer",
+          "zoho advanced",
+          "zoho partner",
+          "zoho expert",
+          "zoho campaign",
+          "awesome zoho",
+          "zoho remotely",
+          "zoho solutions",
+          "integrated business",
+          "managing",
+          "management",
+          "advanced organization",
+          "collaborate",
+          "managing smart",
+          "integrate",
+          "integrated",
+          "application development",
+          "company",
+          "entire business",
+          "integrates",
+          "manage",
+          "organization",
+          "productivity applications",
+          "customer relationship",
+          "applications",
+          "relationship management",
+          "optimize",
+          "business processes",
+          "customer support",
+          "customer-related",
+          "business",
+          "deployment manage",
+          "application",
+          "business activities",
+          "crm platform",
+          "crm philosophy",
+          "support software",
+          "consulting",
+          "consulting options",
+          "customer-related information",
+          "business today",
+          "clients",
+          "productive",
+          "user",
+          "agent performance",
+          "marketing",
+          "apps",
+          "customer",
+          "synchronize",
+          "advanced partner",
+          "software",
+          "implementation",
+          "crm account",
+          "favourite crm"
+        ],
+        "employeeCountOcean": 1,
+        "employeeCountLinkedin": 4,
+        "yearFounded": 2012,
+        "description": "GoBizIT specializes in AI-powered tools and intelligent automation with out-of-the-box integrations into leading CRM platforms, including Zoho, Salesforce, Pipedrive, HubSpot, and more. We work with advanced AI platforms such as SuperAGI and Darwin AI to embed AI agents, automation, and decision intelligence directly into CRM environments- helping businesses streamline operations, improve visibility, and scale efficiently. GoBizIT focuses on practical, production-ready AI solutions that deliver measurable business value.",
+        "phones": [
+          {
+            "number": "+64 9 940 8101",
+            "country": "nz",
+            "primary": true
+          },
+          {
+            "number": "+1 424-208-0299",
+            "country": "us"
+          },
+          {
+            "number": "+61 493 606 626",
+            "country": "au"
+          },
+          {
+            "number": "+64 21 330 266",
+            "country": "nz"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/gobizit.com/6987b1721ae20a8424c9e75629391a398a9a11cb.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Python",
+          "Zoho",
+          "Zoho PageSense",
+          "Font Awesome",
+          "WordPress",
+          "Hello Elementor",
+          "Select2",
+          "Yoast SEO",
+          "Animate.css",
+          "Priority Hints",
+          "Reddit",
+          "Swiper",
+          "Linkedin Ads",
+          "Linkedin Insight Tag",
+          "ProfilePress",
+          "WhatsApp Business Chat",
+          "RSS",
+          "Elementor",
+          "MySQL",
+          "Slider Revolution",
+          "PHP",
+          "ShareThis",
+          "jQuery",
+          "prettyPhoto",
+          "Cloudflare",
+          "jQuery Migrate",
+          "HTTP/3",
+          "Site Kit",
+          "MailChimp",
+          "Google Font API",
+          "Acquire Live Chat",
+          "Twitter Emoji (Twemoji)"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Message boards",
+          "Widgets",
+          "Photo galleries",
+          "Analytics",
+          "Blogs",
+          "Font scripts",
+          "Miscellaneous",
+          "Programming languages",
+          "CDN",
+          "Marketing automation",
+          "Databases",
+          "Advertising",
+          "Tag managers",
+          "Page builders",
+          "Live chat",
+          "CRM",
+          "SEO",
+          "JavaScript libraries",
+          "UI frameworks",
+          "A/B Testing",
+          "Email",
+          "Personalisation",
+          "WordPress themes",
+          "WordPress plugins",
+          "Performance"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/gobizit",
+            "handle": "gobizit",
+            "name": "Go Biz IT",
+            "specialties": [
+              "artificial intelligence",
+              "business automation",
+              "crm",
+              "customer relationship management",
+              "hubspot",
+              "pipedrive",
+              "sales force",
+              "zoho",
+              "zoho crm",
+              "zoho one"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/gobizit",
+            "handle": "gobizit"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/c/GoBizIT",
+            "handle": "gobizit"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/mygobizit",
+            "handle": "mygobizit"
+          }
+        },
+        "name": "Go Biz IT",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": -36.85209655761719,
+            "longitude": 174.76318359375,
+            "country": "nz",
+            "locality": "Kaip\u0101tiki",
+            "region": "Auckland",
+            "postalCode": "1010",
+            "streetAddress": "41 Alabert Street",
+            "regionCode": "AUK"
+          },
+          {
+            "latitude": -35.30926513671875,
+            "longitude": 149.13656616210938,
+            "country": "au",
+            "locality": "South Canberra",
+            "region": "Australian Capital Territory",
+            "postalCode": "2600",
+            "streetAddress": "Brisbane Avenue Brisbane Avenue after Macquarie Street",
+            "regionCode": "ACT"
+          },
+          {
+            "latitude": 39.68195724487305,
+            "longitude": -0.7654405832290649,
+            "country": "es",
+            "locality": "Valencia",
+            "region": "Valencian Community",
+            "regionCode": "VC"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Business Support",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://www.gobizit.com",
+        "updatedAt": "2026-03-09T22:55:46+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "repathsolutions.com",
+        "countries": [
+          "cy",
+          "de",
+          "gb",
+          "gr"
+        ],
+        "primaryCountry": "gr",
+        "companySize": "11-50",
+        "industryCategories": [
+          "Information Technology",
+          "Sales and Marketing",
+          "Software",
+          "Professional Services",
+          "Apps"
+        ],
+        "industries": [
+          "CRM",
+          "Information Technology",
+          "Software",
+          "Enterprise Software",
+          "Consulting",
+          "Information Services",
+          "Enterprise Applications",
+          "Enterprise Resource Planning (ERP)"
+        ],
+        "linkedinIndustry": "IT Services and IT Consulting",
+        "keywords": [
+          "customer journey",
+          "marketing automation",
+          "zoho",
+          "integrated applications",
+          "acumen international",
+          "tailored software",
+          "entire business",
+          "project coordinator",
+          "project manager",
+          "applications",
+          "solutions architect",
+          "project management",
+          "innovative",
+          "integrated",
+          "custom automations",
+          "ultimate software",
+          "customizable apps",
+          "customised crm",
+          "apps",
+          "company",
+          "integrate",
+          "collaborates",
+          "collaborate",
+          "collaboration",
+          "software",
+          "businesses",
+          "automations",
+          "business insights",
+          "interoperability",
+          "implementation",
+          "crafting innovative",
+          "dedicated platform",
+          "project",
+          "consultant",
+          "online collaboration",
+          "strategic",
+          "zoho desk",
+          "strategy",
+          "zoho solutions",
+          "implementation process",
+          "management",
+          "crm systems",
+          "strategic transformation",
+          "projects",
+          "clients",
+          "business analyst",
+          "smarter business",
+          "crm solutions",
+          "business",
+          "manage",
+          "studio",
+          "crm solution",
+          "platform",
+          "zoho premium",
+          "expertise",
+          "managing",
+          "specialize",
+          "integrations",
+          "business online",
+          "world-link",
+          "automate",
+          "business goals",
+          "leading zoho",
+          "zoho partner",
+          "coordinator",
+          "crm",
+          "acumen",
+          "ultimate operating",
+          "world-link communications",
+          "modern business",
+          "customizable",
+          "providing",
+          "abl group",
+          "custom solutions",
+          "comprehensive",
+          "optimize",
+          "kiosk studio",
+          "optimize operations",
+          "abl",
+          "customised",
+          "offers custom",
+          "approach",
+          "customer engagement",
+          "powerful zoho",
+          "resources",
+          "comprehensive solution",
+          "work creating",
+          "entire",
+          "zoho people",
+          "global",
+          "architect",
+          "creating",
+          "zoho suite",
+          "transformation journey",
+          "transformative solutions",
+          "hr consultant",
+          "international",
+          "manager",
+          "transformative",
+          "tailored",
+          "custom",
+          "challenges"
+        ],
+        "employeeCountOcean": 15,
+        "employeeCountLinkedin": 18,
+        "revenue": "0-1M",
+        "yearFounded": 2020,
+        "description": "Repath is a Premium Zoho Partner with over 300 projects in over 16 countries. Our mission is to empower companies to achieve more through CRM and Process Automation. Our vision is to become the enablers of automation, productivity, development, growth, and customer experience.",
+        "phones": [
+          {
+            "number": "+30 21 0647 5600",
+            "country": "gr",
+            "primary": true
+          },
+          {
+            "number": "+30 21 0608 4140",
+            "country": "gr"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/repathsolutions.com/a8d2880047c78d1e1a9a3d9bcefd1b2b6488f705.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Python",
+          "Font Awesome",
+          "WordPress",
+          "CookieYes",
+          "Hello Elementor",
+          "Priority Hints",
+          "Reddit",
+          "Swiper",
+          "Linkedin Ads",
+          "YouTube",
+          "Linkedin Insight Tag",
+          "MySQL",
+          "RSS",
+          "Elementor",
+          "Elementor Header & Footer Builder",
+          "PHP",
+          "Google Analytics",
+          "jQuery",
+          "Cloudflare",
+          "jQuery Migrate",
+          "reCAPTCHA",
+          "HTTP/3",
+          "Twitter Emoji (Twemoji)"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Message boards",
+          "Analytics",
+          "Blogs",
+          "Video players",
+          "Security",
+          "Font scripts",
+          "Miscellaneous",
+          "Programming languages",
+          "CDN",
+          "Databases",
+          "Advertising",
+          "Tag managers",
+          "Page builders",
+          "JavaScript libraries",
+          "Cookie compliance",
+          "WordPress themes",
+          "WordPress plugins",
+          "Performance"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/repath",
+            "handle": "repath",
+            "name": "Repath Solutions",
+            "specialties": [
+              "customer journey",
+              "marketing automation",
+              "zoho"
+            ]
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/repathsolution",
+            "handle": "repathsolution"
+          }
+        },
+        "name": "Repath Solutions",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 37.975563049316406,
+            "longitude": 23.734832763671875,
+            "country": "gr",
+            "locality": "Athens",
+            "postalCode": "15232",
+            "streetAddress": "23 Thiseos"
+          },
+          {
+            "latitude": 38.02408218383789,
+            "longitude": 23.789939880371094,
+            "country": "gr",
+            "locality": "Chalandri",
+            "postalCode": "152 32",
+            "streetAddress": "Leof. Kifisias 312"
+          },
+          {
+            "latitude": 34.98847961425781,
+            "longitude": 33.985782623291016,
+            "country": "cy",
+            "locality": "Ayia Napa",
+            "region": "Famagusta District",
+            "postalCode": "5330",
+            "streetAddress": "Nissi Avenue",
+            "regionCode": "04"
+          },
+          {
+            "latitude": 38.05455780029297,
+            "longitude": 23.805906295776367,
+            "country": "gr",
+            "locality": "Marousi",
+            "region": "Attica",
+            "postalCode": "15124",
+            "streetAddress": "\u0398\u03b7\u03c3\u03ad\u03c9\u03c2",
+            "regionCode": "I"
+          },
+          {
+            "latitude": 51.523834228515625,
+            "longitude": -0.14351190626621246,
+            "country": "gb",
+            "locality": "Foxham",
+            "region": "Wiltshire, England",
+            "postalCode": "SN15 4NF",
+            "streetAddress": "West End",
+            "regionCode": "WIL"
+          },
+          {
+            "latitude": 52.517147064208984,
+            "longitude": 13.388117790222168,
+            "country": "de",
+            "locality": "Berlin",
+            "region": "Berlin",
+            "postalCode": "10117",
+            "regionCode": "BE"
+          },
+          {
+            "latitude": 34.98939895629883,
+            "longitude": 33.97914123535156,
+            "country": "cy",
+            "locality": "Ayia Napa",
+            "streetAddress": "Nissi 68"
+          },
+          {
+            "latitude": 37.99051284790039,
+            "longitude": 23.760887145996094,
+            "country": "gr",
+            "locality": "Athens",
+            "region": "Attica",
+            "postalCode": "115 23",
+            "regionCode": "I"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Business Support",
+            "size": 1
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 2
+          },
+          {
+            "department": "Management",
+            "size": 2
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 1
+          },
+          {
+            "department": "Operations",
+            "size": 1
+          },
+          {
+            "department": "R&D",
+            "size": 9
+          }
+        ],
+        "rootUrl": "https://repathsolutions.com",
+        "updatedAt": "2026-03-13T16:57:14+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "businessonlinesolutions.nl",
+        "countries": [
+          "nl"
+        ],
+        "primaryCountry": "nl",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Information Technology",
+          "Sales and Marketing",
+          "Software",
+          "Professional Services"
+        ],
+        "industries": [
+          "CRM",
+          "Information Technology",
+          "Software",
+          "Marketing Automation",
+          "Sales Automation",
+          "Consulting",
+          "Enterprise Resource Planning (ERP)"
+        ],
+        "linkedinIndustry": "IT Services and IT Consulting",
+        "keywords": [
+          "online crm",
+          "online helpdesk software",
+          "online hrm",
+          "online projectmanagement",
+          "zoho applications",
+          "zoho implementation",
+          "zoho projects",
+          "zoho customers",
+          "existing zoho",
+          "zoho products",
+          "zoho mail",
+          "zoho",
+          "bespoke zoho",
+          "zoho crm",
+          "zoho desk",
+          "zoho takes",
+          "online solutions",
+          "clients",
+          "applications",
+          "pieter zijlema",
+          "successful project",
+          "business online",
+          "application",
+          "clients continue",
+          "application programming",
+          "implemented",
+          "customer-centric",
+          "satisfied customers",
+          "users",
+          "software",
+          "implementation",
+          "zijlema",
+          "consulting",
+          "effectively manage",
+          "apps",
+          "lasting success",
+          "work customer-centric",
+          "manage",
+          "business process",
+          "complete software",
+          "successful",
+          "functionality",
+          "enterprise",
+          "business processes",
+          "customer",
+          "entire business",
+          "business",
+          "success",
+          "specific business",
+          "organization",
+          "software package",
+          "zapier",
+          "company",
+          "customers",
+          "microsoft office",
+          "businesses",
+          "online",
+          "services",
+          "google workspace",
+          "support",
+          "powerful crm",
+          "crm offers",
+          "professional support",
+          "external applications",
+          "programming",
+          "project",
+          "microsoft",
+          "detailed project",
+          "marketing efforts",
+          "enables",
+          "market research",
+          "offering",
+          "ensure lasting",
+          "dutch software",
+          "crm system",
+          "optimize",
+          "highly customizable",
+          "developers",
+          "automate",
+          "integrated",
+          "business growth",
+          "limited functionality",
+          "programming interface",
+          "office",
+          "works",
+          "satisfied",
+          "process",
+          "built-in integrations",
+          "manage leads",
+          "google",
+          "marketing",
+          "research",
+          "free",
+          "consultation",
+          "capabilities",
+          "projects",
+          "smart",
+          "crm",
+          "processes",
+          "solutions",
+          "overview",
+          "seo solution",
+          "efforts",
+          "free version"
+        ],
+        "employeeCountOcean": 1,
+        "employeeCountLinkedin": 2,
+        "revenue": "0-1M",
+        "yearFounded": 2008,
+        "description": "Business Online Solutions: uw online CRM systeem invertrouwde handen Bent u op zoek naar een goed online CRM systeem en zoekt u een ervaren partij om u daarbij te begeleiden? Wilt u het liefst direct beginnen en hecht u tegelijk waarde aan een professionele aanpak, continu\u00efteit, gebruikersvriendelijkheid en flexibiliteit? Wilt u de zorg voor uw online CRM systeem invertrouwde handen leggen? Dan bent u bij Business Online Solutions aan het juiste adres. Neem direct contact met ons op en wij helpen u graag verder. Kijk op www.b-crm.nl of bel 06-44563462.",
+        "phones": [
+          {
+            "number": "+31 6 44563462",
+            "country": "nl",
+            "primary": true
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/businessonlinesolutions.nl/7fa59510d7fea2a51420e1c4621397962ed133ab.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Python",
+          "Font Awesome",
+          "WordPress",
+          "Select2",
+          "Lightbox",
+          "Priority Hints",
+          "Reddit",
+          "Swiper",
+          "Nginx",
+          "MySQL",
+          "Underscore.js",
+          "ProfilePress",
+          "Material Design Lite",
+          "RSS",
+          "Elementor",
+          "Redux Framework",
+          "Slider Revolution",
+          "PHP",
+          "Google Analytics",
+          "jQuery",
+          "TDesign",
+          "Contact Form 7",
+          "jQuery Migrate",
+          "HTTP/2",
+          "Google Font API",
+          "MailChimp",
+          "MailChimp for WordPress",
+          "Site Kit",
+          "Twitter Emoji (Twemoji)",
+          "WooCommerce"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Message boards",
+          "Widgets",
+          "Ecommerce",
+          "Photo galleries",
+          "Analytics",
+          "Blogs",
+          "Font scripts",
+          "Miscellaneous",
+          "Web servers",
+          "Programming languages",
+          "Marketing automation",
+          "Databases",
+          "Tag managers",
+          "Page builders",
+          "JavaScript libraries",
+          "Reverse proxies",
+          "UI frameworks",
+          "Email",
+          "WordPress plugins",
+          "Performance",
+          "Form builders"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/business-online-solutions",
+            "handle": "business-online-solutions",
+            "name": "Business Online Solutions",
+            "specialties": [
+              "online crm",
+              "online helpdesk software",
+              "online hrm",
+              "online projectmanagement"
+            ]
+          }
+        },
+        "name": "Business Online Solutions",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 52.29576110839844,
+            "longitude": 5.163363456726074,
+            "country": "nl",
+            "locality": "Naarden",
+            "region": "North Holland",
+            "streetAddress": "-",
+            "regionCode": "NH"
+          },
+          {
+            "latitude": 52.30717849731445,
+            "longitude": 5.131897926330566,
+            "country": "nl",
+            "locality": "Naarden",
+            "region": "North Holland",
+            "postalCode": "1411 GE",
+            "streetAddress": "Rijksweg  79",
+            "regionCode": "NH"
+          },
+          {
+            "latitude": 52.289947509765625,
+            "longitude": 5.149234771728516,
+            "country": "nl",
+            "locality": "Naarden",
+            "region": "North Holland",
+            "postalCode": "1412 AS",
+            "streetAddress": "Graaf Willem de Oudelaan  193",
+            "regionCode": "NH"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Management",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://businessonlinesolutions.nl",
+        "updatedAt": "2026-03-19T23:55:15+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "sedraconsulting.com",
+        "countries": [
+          "ae"
+        ],
+        "primaryCountry": "ae",
+        "companySize": "11-50",
+        "industryCategories": [
+          "Information Technology",
+          "Sales and Marketing",
+          "Software",
+          "Apps"
+        ],
+        "industries": [
+          "CRM",
+          "Information Technology",
+          "Software",
+          "Enterprise Software",
+          "SaaS",
+          "Enterprise Applications"
+        ],
+        "linkedinIndustry": "Software Development",
+        "keywords": [
+          "api integration & automation",
+          "business process automation",
+          "cloud-based business solutions",
+          "custom software solutions",
+          "digital transformation strategy",
+          "it consulting & managed services",
+          "mobile app development",
+          "odoo erp customization",
+          "process digitalization",
+          "salesforce integration",
+          "web application development",
+          "zoho creator development",
+          "zoho crm",
+          "zoho crm implementation",
+          "automation services",
+          "automation strategies",
+          "data-driven automation",
+          "automated job",
+          "intelligent software",
+          "empowering businesses",
+          "workflow automation",
+          "enterprises",
+          "smart crm",
+          "automation",
+          "automated",
+          "automating",
+          "service workflow",
+          "connect business",
+          "clients",
+          "business processes",
+          "business integrations",
+          "management",
+          "integrated zoho",
+          "service operations",
+          "automation tips",
+          "job management",
+          "business ecosystem",
+          "services",
+          "enterprises modernize",
+          "businesses",
+          "software development",
+          "software design",
+          "business",
+          "chatbot development",
+          "data-driven",
+          "operational excellence",
+          "mobile solutions",
+          "service",
+          "automating property",
+          "expertise includes",
+          "zoho-powered solutions",
+          "expertise",
+          "industry",
+          "digitized merchant",
+          "contract management",
+          "implementation",
+          "smarter zoho",
+          "software",
+          "zoho platforms",
+          "innovating",
+          "implemented",
+          "combine innovation",
+          "custom software",
+          "server management",
+          "valued clients",
+          "implement",
+          "intelligent",
+          "client",
+          "customer",
+          "zoho setup",
+          "crm solutions",
+          "chatbot",
+          "zoho-powered",
+          "job creation",
+          "contact info",
+          "unified business",
+          "client speak",
+          "technology",
+          "strategies",
+          "job",
+          "operational",
+          "workflow",
+          "innovation",
+          "smart",
+          "systems",
+          "microsoft",
+          "processes",
+          "crm",
+          "partner management",
+          "expert guidance",
+          "job requests",
+          "analytics",
+          "business goals",
+          "excel-based operations",
+          "workflows",
+          "integrated",
+          "seamless operations",
+          "operations",
+          "expert",
+          "implemented end-to-end",
+          "real-time monitoring",
+          "server architecture",
+          "expert insights",
+          "empowering",
+          "zoho",
+          "custom solutions",
+          "global platforms",
+          "project",
+          "customers",
+          "contact",
+          "integrated real",
+          "apis",
+          "integrations"
+        ],
+        "employeeCountOcean": 2,
+        "employeeCountLinkedin": 2,
+        "yearFounded": 2022,
+        "description": "Sedra Consulting is a global leader in premium software and digital transformation solutions, empowering businesses to thrive in an increasingly digital world. We specialize in delivering end-to-end solutions using platforms like Zoho, Odoo, and Salesforce, alongside custom software development, automation, and analytics. Our team of experts designs and implements tailored solutions that streamline operations, optimize workflows, and enable data-driven decision-making. From CRM implementations to enterprise software solutions, we help organizations scale, innovate, and achieve measurable results with precision and reliability. Key Highlights: Expertise in Zoho, Odoo, Salesforce, and custom software solutions Business Process Automation & Digital Transformation CRM Implementations and Workflow Optimization Advanced Data Analytics & Business Intelligence Solutions Focused on Innovation, Scalability, and Operational Excellence",
+        "emails": [
+          "info@sedraconsulting.com"
+        ],
+        "phones": [
+          {
+            "number": "+91 70035 57856",
+            "country": "in"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/sedraconsulting.com/8559df50e6738bf322f8d62335653ed35fe8ee77.png",
+        "technologies": [
+          "Priority Hints",
+          "HSTS",
+          "Vercel",
+          "React"
+        ],
+        "technologyCategories": [
+          "Security",
+          "Performance",
+          "JavaScript frameworks",
+          "PaaS"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/sedra-consulting-services",
+            "handle": "sedra-consulting-services",
+            "name": "Sedra Consulting Services",
+            "specialties": [
+              "api integration & automation",
+              "business process automation",
+              "cloud-based business solutions",
+              "custom software solutions",
+              "digital transformation strategy",
+              "it consulting & managed services",
+              "mobile app development",
+              "odoo erp customization",
+              "process digitalization",
+              "salesforce integration",
+              "web application development",
+              "zoho creator development",
+              "zoho crm",
+              "zoho crm implementation"
+            ]
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/leads2crm?igsh=Nm5qb2V2cXp0eXl2",
+            "handle": "leads2crm"
+          }
+        },
+        "name": "Sedra Consulting Services",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 25.074281692504883,
+            "longitude": 55.18853759765625,
+            "country": "ae",
+            "locality": "Dubai",
+            "region": "Dubai",
+            "regionCode": "DU"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "R&D",
+            "size": 2
+          }
+        ],
+        "rootUrl": "https://www.sedraconsulting.com",
+        "updatedAt": "2026-02-26T16:13:05+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "iadcx.com",
+        "countries": [
+          "vn"
+        ],
+        "primaryCountry": "vn",
+        "companySize": "11-50",
+        "industryCategories": [
+          "Information Technology",
+          "Software",
+          "Apps",
+          "Professional Services"
+        ],
+        "industries": [
+          "Information Technology",
+          "Software",
+          "Enterprise Applications",
+          "Enterprise Software",
+          "Product Management",
+          "Information Services"
+        ],
+        "linkedinIndustry": "Business Consulting and Services",
+        "keywords": [
+          "corporate trainings",
+          "employee transport management",
+          "executive coaching",
+          "executive search",
+          "hr outsourcing",
+          "hris",
+          "human capital management",
+          "leadership management",
+          "sales programs",
+          "talent assessment",
+          "zoho",
+          "adcx",
+          "it solutions",
+          "digital transformation",
+          "cx optimisation",
+          "innovative it services",
+          "enterprise vietnam",
+          "software vietnam",
+          "hanoi zoho",
+          "platform vietnam",
+          "automation vietnam",
+          "management vietnam",
+          "analytics vietnam",
+          "vietnam zoho",
+          "vietnamese businesses",
+          "zoho vietnam",
+          "smes vietnam",
+          "technology consulting",
+          "vietnamese organizations",
+          "crm vietnam",
+          "enabling businesses",
+          "enterprises",
+          "vietnamese crm",
+          "enterprise",
+          "crm vietnamese",
+          "zoho crm",
+          "hanoi",
+          "innovative",
+          "minh city",
+          "compliance vietnam",
+          "enterprise software",
+          "businesses aiming",
+          "integration vietnam",
+          "businesses",
+          "smes",
+          "supports digital",
+          "customer experience",
+          "software platform",
+          "zoho hr",
+          "software development",
+          "hr vietnam",
+          "modern customer",
+          "business",
+          "innovation",
+          "management\u2014on",
+          "smes alike",
+          "hrms vietnam",
+          "technology",
+          "minh",
+          "company",
+          "performance management\u2014on",
+          "mobile crm",
+          "business process",
+          "zoho partner",
+          "vietnam",
+          "crm platform",
+          "experience software",
+          "management",
+          "organizations",
+          "exceptional customer",
+          "zoho people",
+          "vietnamese",
+          "marketing automation",
+          "customer experiences",
+          "performance management",
+          "chi minh",
+          "platform designed",
+          "business solutions",
+          "customer support",
+          "consulting",
+          "support crm",
+          "marketing crm",
+          "crm app",
+          "app",
+          "digital",
+          "robust marketing",
+          "platform offers",
+          "workflow capabilities",
+          "collaborate",
+          "collaborate seamlessly",
+          "specialising",
+          "automation crm",
+          "customer relationships",
+          "customer",
+          "resource management",
+          "mobile",
+          "unified customer",
+          "crm software",
+          "customer relationship",
+          "marketing tools\u2014all",
+          "development",
+          "customer interaction",
+          "user-friendly",
+          "crm integration",
+          "software",
+          "employee portals",
+          "provider",
+          "software compliance",
+          "training company",
+          "optimisation"
+        ],
+        "employeeCountOcean": 6,
+        "employeeCountLinkedin": 10,
+        "yearFounded": 2016,
+        "description": "We are fully committed to delivering an outstanding client experience. IADC offers a fully-integrated, bespoke approach to professional services delivered by some of the leading minds in the industry. We co-create a custom portfolio of service offerings with clients that not only align with their current needs, but also offer the flexibility to shift service allocations as their requirements change. Clients can start anywhere \u2013 go anywhere \u2013 and pivot seamlessly as needed. IADC approach creates advantage, generates speed, synergy, and the certainty of execution clients deserve. We eliminate blind spots, close gaps, and unlock hidden value in the areas of your business that matter the most.",
+        "emails": [
+          "helpdesk@iadcx.com"
+        ],
+        "phones": [
+          {
+            "number": "+84 769 881 839",
+            "country": "vn",
+            "primary": true
+          },
+          {
+            "number": "+84 906 198 879",
+            "country": "vn"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/iadcx.com/f7b10a1cff06321a0022293ddb3320008e0944b1.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Zoho",
+          "RSS",
+          "Zoho PageSense",
+          "Google Analytics",
+          "Dealer Spike",
+          "jQuery",
+          "HSTS",
+          "jQuery UI",
+          "Java",
+          "Handlebars",
+          "Catch"
+        ],
+        "technologyCategories": [
+          "Marketing automation",
+          "Advertising",
+          "Programming languages",
+          "Payment processors",
+          "A/B Testing",
+          "Tag managers",
+          "Personalisation",
+          "Analytics",
+          "JavaScript frameworks",
+          "Security",
+          "Miscellaneous",
+          "CRM",
+          "JavaScript libraries"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/iadcx",
+            "handle": "iadcx",
+            "name": "IADCX",
+            "specialties": [
+              "corporate trainings",
+              "employee transport management",
+              "executive coaching",
+              "executive search",
+              "hr outsourcing",
+              "hris",
+              "human capital management",
+              "leadership management",
+              "sales programs",
+              "talent assessment",
+              "zoho"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/iadcvietnam",
+            "handle": "iadcvietnam"
+          },
+          "youtube": {
+            "url": "http://www.youtube.com/c/Iamdreamcatcheriamdc",
+            "handle": "iamdreamcatcheriamdc"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/iadcvietnam",
+            "handle": "iadcvietnam"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/iadcvietnam/",
+            "handle": "iadcvietnam"
+          }
+        },
+        "name": "Iadcx",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 10.763294219970703,
+            "longitude": 106.6960220336914,
+            "country": "vn",
+            "locality": "Saigon",
+            "postalCode": "71010",
+            "streetAddress": "De Tham Street  30"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Founder/Owner",
+            "size": 1
+          },
+          {
+            "department": "HR",
+            "size": 2
+          },
+          {
+            "department": "Management",
+            "size": 1
+          },
+          {
+            "department": "Operations",
+            "size": 1
+          },
+          {
+            "department": "Other",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://www.iadcx.com",
+        "updatedAt": "2026-04-02T17:40:06+02:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "dxyra.com",
+        "countries": [
+          "in"
+        ],
+        "primaryCountry": "in",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Information Technology",
+          "Professional Services",
+          "Software"
+        ],
+        "industries": [
+          "Human Resources",
+          "Information Technology",
+          "Software",
+          "SaaS",
+          "Enterprise Software",
+          "Task Management"
+        ],
+        "linkedinIndustry": "Software Development",
+        "keywords": [
+          "bgv",
+          "finance management",
+          "human resource management",
+          "inter company communication",
+          "mail",
+          "payroll management",
+          "project management",
+          "time attendance",
+          "onboarding",
+          "growing business",
+          "profitable organization",
+          "organizational",
+          "businesses",
+          "business faces",
+          "increase organizational",
+          "entire business",
+          "business",
+          "business solutions",
+          "organizational efficiency",
+          "innovating",
+          "digital workplace",
+          "employees manage",
+          "company",
+          "organization",
+          "enable managers",
+          "employ smart",
+          "project profitability",
+          "workplace",
+          "managers",
+          "smart hr",
+          "employee preferences",
+          "profitability efficiently",
+          "management",
+          "customer-first philosophy",
+          "in-office",
+          "performance management",
+          "powerful software",
+          "profitability",
+          "hr software",
+          "modern hr",
+          "employees",
+          "embrace self-accountability",
+          "employee",
+          "profitable",
+          "high-performing culture",
+          "employ",
+          "million employees",
+          "manage",
+          "software",
+          "customers' trust",
+          "employee issues",
+          "self-accountability",
+          "project",
+          "hiring",
+          "hr app",
+          "efficiency",
+          "software suite",
+          "hr helps",
+          "customer",
+          "customer-first",
+          "efficiently",
+          "empower",
+          "hire",
+          "smart",
+          "analytics",
+          "performance culture",
+          "apps",
+          "smart goals",
+          "employees clock",
+          "hr",
+          "development",
+          "long-term commitment",
+          "manage time",
+          "designed",
+          "global brands",
+          "challenges",
+          "maximize talent",
+          "work",
+          "departments",
+          "high-performing",
+          "brands",
+          "culture driven",
+          "reliable help-desk",
+          "long-term",
+          "app",
+          "performance",
+          "powerful insights",
+          "establish",
+          "market",
+          "project timesheet",
+          "customers",
+          "payroll",
+          "operating",
+          "insights",
+          "working",
+          "help-desk",
+          "resource",
+          "gain powerful",
+          "digital",
+          "personalized dashboards",
+          "information",
+          "changing world",
+          "featured apps",
+          "products",
+          "built",
+          "goodwill",
+          "tasks"
+        ],
+        "employeeCountLinkedin": 2,
+        "yearFounded": 2025,
+        "description": "Dxyra is an all-in-one enterprise management platform designed to help small businesses streamline operations efficiently. With a comprehensive suite of tools, Dxyra simplifies HR, payroll, project management, communication, compliance, and financial processes\u2014all in one place. Key Features: HR & Payroll Management \u2013 Automate hiring, payroll processing, and leave tracking. Project & Task Management \u2013 Improve team collaboration and workflow tracking. Secure Communication & Chat \u2013 Built-in messaging for seamless team interactions. Background Verification & Compliance \u2013 Ensure smooth hiring with integrated verification. GST Reconciliation & Financial Tools \u2013 Simplify taxation and financial reporting. Scalable & Customizable \u2013 Businesses can add features as they grow. By integrating essential business functions into a single, affordable and scalable platform, Dxyra empowers small enterprises to operate efficiently and focus on growth. \ud83d\ude80",
+        "phones": [
+          {
+            "number": "+91 87690 20445",
+            "country": "in",
+            "primary": true
+          },
+          {
+            "number": "+91 81042 91629",
+            "country": "in"
+          },
+          {
+            "number": "+91 96800 29092",
+            "country": "in"
+          },
+          {
+            "number": "+91 94256 45147",
+            "country": "in"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/dxyra.com/d2ac8f130cc04d79701ebe80734d96b832e882ae.png",
+        "technologies": [
+          "HSTS",
+          "Vercel",
+          "phpRS",
+          "PHP",
+          "Priority Hints",
+          "Dealer Spike",
+          "React"
+        ],
+        "technologyCategories": [
+          "Marketing automation",
+          "CMS",
+          "Advertising",
+          "JavaScript frameworks",
+          "Security",
+          "Programming languages",
+          "Performance",
+          "PaaS"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/dxyra",
+            "handle": "dxyra",
+            "name": "dxyra",
+            "specialties": [
+              "bgv",
+              "finance management",
+              "human resource management",
+              "inter company communication",
+              "mail",
+              "payroll management",
+              "project management"
+            ]
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/profile.php?id=61579311902829",
+            "handle": "profile.php"
+          }
+        },
+        "name": "Dxyra",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 26.84058952331543,
+            "longitude": 75.82994842529297,
+            "country": "in",
+            "locality": "Jaipur Municipal Corporation",
+            "region": "Rajasthan",
+            "postalCode": "302017",
+            "regionCode": "RJ"
+          }
+        ],
+        "rootUrl": "https://www.dxyra.com/",
+        "updatedAt": "2026-01-13T14:53:38+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "crm7.com.br",
+        "countries": [
+          "br",
+          "pt"
+        ],
+        "primaryCountry": "br",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Information Technology",
+          "Sales and Marketing",
+          "Software"
+        ],
+        "industries": [
+          "CRM",
+          "Information Technology",
+          "Software",
+          "SaaS",
+          "Enterprise Software",
+          "Management Information Systems"
+        ],
+        "linkedinIndustry": "Software Development",
+        "keywords": [
+          "zoho consulting",
+          "zoho consultant",
+          "company zoho",
+          "consulting company",
+          "enterprise",
+          "consulting",
+          "optimize business",
+          "helps companies",
+          "company",
+          "clients",
+          "consultant",
+          "management",
+          "enterprise software",
+          "solutions company",
+          "businesses partnered",
+          "customer relationship",
+          "app analytics",
+          "zoho certified",
+          "consultancy",
+          "certified zoho",
+          "business processes",
+          "companies",
+          "strategic partnership",
+          "customer",
+          "business",
+          "app performance",
+          "lifelong users",
+          "businesses",
+          "entire company",
+          "manage",
+          "business activities",
+          "certified consultancy",
+          "business departments",
+          "applications",
+          "zoho",
+          "application",
+          "strategic",
+          "clients faster",
+          "analytics tool",
+          "work partnered",
+          "zoho started",
+          "mobile app",
+          "partnership",
+          "existing customers",
+          "client requirements",
+          "analytics",
+          "software",
+          "integrated applications",
+          "process structuring",
+          "client",
+          "relationship management",
+          "business evolution",
+          "app",
+          "users",
+          "agencies",
+          "temporary databases",
+          "project",
+          "customers",
+          "mobile",
+          "based",
+          "work based",
+          "analyse usage",
+          "manage timetables",
+          "databases",
+          "software solutions",
+          "first-time users",
+          "partnered",
+          "process",
+          "processes",
+          "advanced software",
+          "companies improve",
+          "schedule work",
+          "projects",
+          "operating",
+          "optimize",
+          "automate",
+          "usage trends",
+          "software package",
+          "analyse",
+          "business growth",
+          "experience",
+          "registered",
+          "integrated",
+          "platform",
+          "tool",
+          "system developed",
+          "approach",
+          "trends",
+          "structuring",
+          "schedule",
+          "developed",
+          "connect",
+          "needed"
+        ],
+        "revenue": "0-1M",
+        "yearFounded": 2018,
+        "description": "Empresa de Curitiba, focada em prospec\u00e7\u00e3o ativa e agendamento de reuni\u00e3o para o mercado de e-commerce. O melhor time de agentes SDR para fornecedores de e-commerce.",
+        "logo": "https://cdn.ocean.io/logos/leadscore.com.br/d410297b4fb484cbbbfbcabb25611a6dd0237931.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Zoho",
+          "Zoho PageSense",
+          "WordPress",
+          "CookieYes",
+          "Yoast SEO",
+          "wpBakery",
+          "Priority Hints",
+          "Swiper",
+          "Apache HTTP Server",
+          "YouTube",
+          "MySQL",
+          "RSS",
+          "PHP",
+          "jQuery",
+          "TDesign",
+          "HSTS",
+          "Google Font API"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Blogs",
+          "Video players",
+          "Security",
+          "Font scripts",
+          "Miscellaneous",
+          "Web servers",
+          "Programming languages",
+          "Databases",
+          "Tag managers",
+          "Page builders",
+          "CRM",
+          "SEO",
+          "JavaScript libraries",
+          "UI frameworks",
+          "Cookie compliance",
+          "A/B Testing",
+          "Personalisation",
+          "WordPress plugins",
+          "Performance"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/leadscorebrasil",
+            "handle": "leadscorebrasil",
+            "name": "LeadScore"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/@crm7",
+            "handle": "@crm7"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/CRM7-1347269071991765/",
+            "handle": "crm7-1347269071991765"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/crm7brasil/",
+            "handle": "crm7brasil"
+          }
+        },
+        "name": "LeadScore",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": -26.994014739990234,
+            "longitude": -48.64010238647461,
+            "country": "br",
+            "locality": "Balne\u00e1rio Cambori\u00fa",
+            "postalCode": "88330-586",
+            "streetAddress": "R. 906, 711"
+          },
+          {
+            "latitude": -27.544902801513672,
+            "longitude": -48.50016784667969,
+            "country": "br",
+            "locality": "Florian\u00f3polis",
+            "postalCode": "88032-005",
+            "streetAddress": "Rodovia SC 401, 4100 - Km4"
+          },
+          {
+            "latitude": -26.240825653076172,
+            "longitude": -48.88226318359375,
+            "country": "br",
+            "locality": "Joinville",
+            "postalCode": "89219-600",
+            "streetAddress": "R. Dona Francisca, 8300"
+          },
+          {
+            "latitude": 38.77375411987305,
+            "longitude": -9.098072052001953,
+            "country": "pt",
+            "locality": "Lisbon",
+            "postalCode": "1990-019",
+            "streetAddress": "Concelho de Lisboa / Freguesia, Av. do Atl\u00e2ntico 16 escrit\u00f3rio 5.07"
+          }
+        ],
+        "rootUrl": "https://crm7.com.br",
+        "updatedAt": "2026-03-17T15:00:38+01:00"
+      },
+      "relevance": "A"
+    }
+  ],
+  "count": 10
+}

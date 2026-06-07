@@ -1,0 +1,26 @@
+[
+  {
+    "domain": "universal.at",
+    "name": "Universal Versand",
+    "industry": "E-Commerce",
+    "country": "at",
+    "employees": "11-50",
+    "linkedin": "https://www.linkedin.com/company/universal-versand-gmbh"
+  },
+  {
+    "domain": "bonprix.de",
+    "name": "Bonprix",
+    "industry": "E-Commerce",
+    "country": "de",
+    "employees": "1001-5000",
+    "linkedin": "https://www.linkedin.com/company/bonprix"
+  },
+  {
+    "domain": "aboutyou.de",
+    "name": "About You",
+    "industry": "E-Commerce",
+    "country": "de",
+    "employees": "1001-5000",
+    "linkedin": "https://www.linkedin.com/company/about-you"
+  }
+]

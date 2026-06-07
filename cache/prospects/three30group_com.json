@@ -1,0 +1,266 @@
+{
+  "domain": "three30group.com",
+  "prospects": [
+    {
+      "person": {
+        "person_id": "aaaaad8373cb73b3c33a3ac5",
+        "first_name": "Brian",
+        "last_name": "Harr",
+        "full_name": "Brian Harr",
+        "linkedin_url": "https://www.linkedin.com/in/brianharr",
+        "current_job_title": "President",
+        "current_job_key": null,
+        "headline": null,
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "President",
+            "company_name": "Three30 Group - Software for Sales, Service & Marketing",
+            "logo_url": "30adca46-6cab-4f35-8f4d-47bc8efccb07.jpg",
+            "current": true,
+            "start_year": 2003,
+            "start_month": 6,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 276,
+            "departments": [],
+            "seniority": "Vice President",
+            "company_id": "cccc1e80883785ba0f0ef1f7",
+            "job_key": "42244522"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+1 330-2**-****",
+          "mobile_national": "(330) 2**-****",
+          "mobile_international": "+1 330-2**-****",
+          "mobile_country": "United States",
+          "mobile_country_code": "US"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "email": "b********@three30group.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Google"
+        },
+        "location": {
+          "country": "United States",
+          "country_code": "US",
+          "state": "Ohio",
+          "city": "New Philadelphia",
+          "time_zone": "America/New_York",
+          "time_zone_offset": -4.0
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "cccc1e80883785ba0f0ef1f7",
+        "name": "Three30 Group - Software for Sales, Service & Marketing",
+        "website": "https://three30group.com",
+        "domain": "three30group.com",
+        "other_websites": [],
+        "description": "As your technology partner, Three30 Group has the expertise to analyze and solve major issues with your technology integration, and create a wide array of custom software solutions that help bridge the gaps in your company\u2019s business technology processes.\n\nZoho One:\nThree30 Group\u2019s in-house Zoho experts possess deep knowledge of the entire Zoho product line including its flagship all-inclusive suite, Zoho One, that enables users to integrate sales, marketing, e-commerce, event management, forms and surveys, live chat functionality, customer support, email hosting, project management, accounting and more.\n\nZoho CRM:\nWe make learning and implementing Zoho CRM a breeze. Three30 Group helps your team build the sales funnel and automations they need to successfully engage with clients, track progress, and close sales. Whether you\u2019re targeting B2B or B2C, our training modules prepare your team to fully maximize Zoho CRM\u2019s multifaceted capabilities.\n\nCustom Software Development & Integration:\nThree30 Group has over 20 years of expertise creating custom applications and software integrations including web portals and reporting that help fill operational gaps and maximize your existing investment in technology.   \n\n\nFrom PHP and .NET, MySQL and SQL Server, to Zoho Analytics, QuickBooks and SAP, Three30 Group connects your processes with third party apps to create the custom solutions your company needs.\n\nDashboard & BI:\nOur team of application developers and data visualization experts organize your data into meaningful reports and dashboards so you\u2019re able to manage and track key business metrics and trends that impact your operation across product offerings and departments. Using Microsoft Power BI, Zoho Analytics, and Wyn Enterprise, Three30 Group delivers the tools and training to empower your team and inform decisions through comprehensive analysis.",
+        "description_seo": "Three30 Group is a Zoho-authorized partner specializing in Zoho consulting, development, and support, plus consulting on custom software solutions.",
+        "description_ai": "Three30 Group is a leading zoho-authorized partner specializing in zoho implementation, application development, training, and support, along with consulting on custom software and it solutions.",
+        "type": "Private",
+        "industry": "IT Services and IT Consulting",
+        "employee_count": 12,
+        "employee_count_on_prospeo": 10,
+        "employee_range": "11-20",
+        "location": {
+          "country": "United States",
+          "country_code": "US",
+          "state": null,
+          "city": null,
+          "raw_address": "1776 Tech Park Dr NE, Suite #207, New Philadelphia, Ohio 44663, US"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [
+          "5415",
+          "54151",
+          "541511",
+          "541519"
+        ],
+        "email_tech": {
+          "domain": "three30group.com",
+          "mx_provider": "Google"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/three30group",
+        "twitter_url": "https://x.com/three30group",
+        "facebook_url": "https://www.facebook.com/three30group",
+        "crunchbase_url": "https://www.crunchbase.com/organization/three30-group",
+        "instagram_url": null,
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+13303394017",
+          "phone_hq_national": "(330) 339-4017",
+          "phone_hq_international": "+13303394017",
+          "phone_hq_country": "United States",
+          "phone_hq_country_code": "US"
+        },
+        "linkedin_id": null,
+        "founded": 2003,
+        "revenue_range": {
+          "min": 1000000,
+          "max": 5000000
+        },
+        "revenue_range_printed": "1M",
+        "keywords": [
+          "Microsoft Sharepoint",
+          "Business Intelligence",
+          "Web Development",
+          "Websites",
+          "Marketing Automation",
+          "Software Development",
+          "CRM",
+          "Reporting",
+          "Zoho Crm",
+          "Software Integrations",
+          "Zoho Campaigns",
+          "Zoho Crm Plus",
+          "Zoho Analytics"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/30adca46-6cab-4f35-8f4d-47bc8efccb07.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": false,
+          "has_free_trial": true,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": false,
+          "has_pricing": false
+        },
+        "funding": null,
+        "technology": {
+          "count": 23,
+          "technology_names": [
+            "reCAPTCHA",
+            "Cloudflare Bot Management",
+            "Magento",
+            "jQuery Migrate",
+            "Cloudflare",
+            "jQuery",
+            "HTTP/3",
+            "PHP",
+            "WordPress",
+            "Divi",
+            "Zoho",
+            "Google Analytics",
+            "Google Workspace",
+            "Google Tag Manager",
+            "GoDaddy",
+            "Facebook Pixel",
+            "core-js",
+            "WP Engine",
+            "RSS",
+            "Google Font API",
+            "Open Graph",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "reCAPTCHA",
+              "category": "Security"
+            },
+            {
+              "name": "Cloudflare Bot Management",
+              "category": "Security"
+            },
+            {
+              "name": "Magento",
+              "category": "Ecommerce"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Cloudflare",
+              "category": "CDN"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "HTTP/3",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "Divi",
+              "category": "Page builders"
+            },
+            {
+              "name": "Zoho",
+              "category": "CRM"
+            },
+            {
+              "name": "Google Analytics",
+              "category": "Analytics"
+            },
+            {
+              "name": "Google Workspace",
+              "category": "Email"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "GoDaddy",
+              "category": "Hosting"
+            },
+            {
+              "name": "Facebook Pixel",
+              "category": "Analytics"
+            },
+            {
+              "name": "core-js",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "WP Engine",
+              "category": "Hosting"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": null
+      }
+    }
+  ],
+  "count": 1
+}

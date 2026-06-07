@@ -1,0 +1,2550 @@
+{
+  "seed_domain": "google.com",
+  "companies": [
+    {
+      "company": {
+        "domain": "yandex.com",
+        "countries": [
+          "br",
+          "by",
+          "ch",
+          "cl",
+          "cn",
+          "cz",
+          "fi",
+          "id",
+          "il",
+          "kz",
+          "nl",
+          "ru",
+          "tr",
+          "us"
+        ],
+        "primaryCountry": "ru",
+        "companySize": "10001-50000",
+        "industryCategories": [
+          "Information Technology",
+          "Software",
+          "Internet Services"
+        ],
+        "industries": [
+          "Information Technology",
+          "Software",
+          "Search Engine"
+        ],
+        "linkedinIndustry": "Software Development",
+        "keywords": [
+          "ad exchange",
+          "ad network",
+          "adtech",
+          "advertising",
+          "advertising network",
+          "advertising on search",
+          "app ads",
+          "autotargeting",
+          "banners",
+          "digital advertising",
+          "digital marketing",
+          "display ad",
+          "dsp",
+          "dynamic ads",
+          "ecommerce",
+          "finance",
+          "in-app advertising",
+          "insurance",
+          "interstitial ads",
+          "marketing",
+          "martech",
+          "native ads",
+          "publishing",
+          "real estate",
+          "remarketing",
+          "retail",
+          "retargeting",
+          "rewarded ads",
+          "search ads",
+          "services",
+          "ssp",
+          "tourism",
+          "travel",
+          "user acquisition",
+          "video ads",
+          "web ads",
+          "technology company",
+          "product manager",
+          "project manager",
+          "information services",
+          "companies",
+          "services powered",
+          "company",
+          "developed market-leading",
+          "offices worldwide",
+          "intelligent products",
+          "account manager",
+          "backend developer",
+          "manager",
+          "ydb",
+          "site reliability",
+          "apps",
+          "financial manager",
+          "market-leading",
+          "businesses",
+          "mobile applications",
+          "developer",
+          "reliability engineer",
+          "offices",
+          "web",
+          "delivered world-class",
+          "market-leading on-demand",
+          "applications",
+          "technology",
+          "online",
+          "navigation products",
+          "reliability",
+          "intelligent",
+          "supports",
+          "project",
+          "offline world",
+          "mobile",
+          "artificial intelligence",
+          "transportation services",
+          "builds intelligent",
+          "machine",
+          "armenia",
+          "on-demand",
+          "account",
+          "skilled professinals",
+          "consumers",
+          "information",
+          "product",
+          "site",
+          "cooperation",
+          "signatories",
+          "nasdaq",
+          "high-quality",
+          "skilled",
+          "key account",
+          "intelligence",
+          "machine learning",
+          "web pages",
+          "webpages",
+          "autonomous",
+          "initiators",
+          "products"
+        ],
+        "employeeCountOcean": 16374,
+        "employeeCountLinkedin": 124,
+        "revenue": ">1000M",
+        "yearFounded": 2000,
+        "description": "Yandex is a technology company that builds intelligent products and services powered by machine learning. Our goal is to help consumers and businesses better navigate the online and offline world. Since 1997, we have delivered world-class, locally relevant search and information services. Additionally, we have developed market-leading on-demand transportation services, navigation products, and other mobile applications for millions of consumers across the globe. Yandex, which has 34 offices worldwide, has been listed on the NASDAQ since 2011.",
+        "phones": [
+          {
+            "number": "+31 20 206 6970",
+            "country": "nl"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/yandex.com/23288ad569a8afc502172adfec84075aa76e3d91.png",
+        "technologies": [
+          "Yandex.Metrika",
+          "BEM",
+          "FontServer",
+          "Animate.css",
+          "Quill",
+          "Priority Hints",
+          "Yandex SmartCaptcha",
+          "Highcharts",
+          "Dealer Spike",
+          "Turbo",
+          "RSS",
+          "KaTeX",
+          "Prototype",
+          "jQuery",
+          "HSTS",
+          "Chart.js",
+          "RequireJS",
+          "Vitals",
+          "styled-components",
+          "Loadable-Components",
+          "Convert",
+          "React",
+          "Yandex.Direct"
+        ],
+        "technologyCategories": [
+          "Marketing automation",
+          "UI frameworks",
+          "Advertising",
+          "Shopify apps",
+          "Analytics",
+          "A/B Testing",
+          "JavaScript frameworks",
+          "Development",
+          "Security",
+          "Font scripts",
+          "Miscellaneous",
+          "Rich text editors",
+          "JavaScript graphics",
+          "JavaScript libraries",
+          "Performance"
+        ],
+        "mobileApps": [
+          {
+            "link": "https://apps.apple.com/app/id313877526",
+            "name": "Yandex.Maps & Navigator"
+          },
+          {
+            "link": "https://apps.apple.com/app/id520797969",
+            "name": "Yandex Music and Podcasts"
+          },
+          {
+            "link": "https://apps.apple.com/app/id483693909",
+            "name": "Yandex Browser"
+          },
+          {
+            "link": "https://apps.apple.com/app/id957324816",
+            "name": "Yandex.Key\u2013one-time passwords"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1343242452",
+            "name": "Zen: personalized stories feed"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1148059310",
+            "name": "Yandex.Metrica"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1282350367",
+            "name": "Toloka: Earn online"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1282946899",
+            "name": "AppMetrica"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1437157286",
+            "name": "Yango taxi"
+          },
+          {
+            "link": "https://apps.apple.com/app/id1549304623",
+            "name": "Yandex.Courier"
+          }
+        ],
+        "webTraffic": {
+          "visits": 184800000,
+          "pageViews": 1849848042,
+          "pagesPerVisit": 10.010000228881836,
+          "bounceRate": 0.3285
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/yandex-ads",
+            "handle": "yandex-ads",
+            "name": "Yandex Ads",
+            "specialties": [
+              "ad exchange",
+              "ad network",
+              "adtech",
+              "advertising",
+              "advertising network",
+              "advertising on search",
+              "app ads",
+              "autotargeting",
+              "banners",
+              "digital advertising",
+              "digital marketing",
+              "display ad",
+              "dsp",
+              "dynamic ads",
+              "ecommerce",
+              "finance",
+              "in-app advertising",
+              "insurance",
+              "interstitial ads",
+              "marketing",
+              "martech",
+              "native ads",
+              "publishing",
+              "real estate",
+              "remarketing",
+              "retail",
+              "retargeting",
+              "rewarded ads",
+              "search ads",
+              "services",
+              "ssp",
+              "tourism",
+              "travel",
+              "user acquisition",
+              "video ads",
+              "web ads"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/yandexcom",
+            "handle": "yandexcom"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/channel/UCzsYCgK-O4Po33OSJ-rbSfg",
+            "handle": "uczsycgk-o4po33osj-rbsfg"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/YandexCom",
+            "handle": "yandexcom"
+          }
+        },
+        "name": "Yandex",
+        "legalName": "yandex.taxi b.v.",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 55.625579833984375,
+            "longitude": 37.60639190673828,
+            "country": "ru",
+            "locality": "Moscow",
+            "region": "Moscow",
+            "postalCode": "119021",
+            "streetAddress": "16, Leo Tolstoy St",
+            "regionCode": "MOW"
+          },
+          {
+            "latitude": 52.308326721191406,
+            "longitude": 4.758890151977539,
+            "country": "nl",
+            "locality": "Schiphol",
+            "region": "Noord-Holland|Haarlemmermeer",
+            "postalCode": "1118 BG",
+            "streetAddress": "Schiphol Boulevard 165",
+            "regionCode": "NH"
+          },
+          {
+            "latitude": 55.733673095703125,
+            "longitude": 37.5875244140625,
+            "country": "ru",
+            "locality": "Moscow",
+            "postalCode": "119021",
+            "streetAddress": "Lva Tolstogo, 16",
+            "regionCode": "MOW"
+          },
+          {
+            "latitude": 32.076995849609375,
+            "longitude": 34.787147521972656,
+            "country": "il",
+            "locality": "Tel Aviv"
+          },
+          {
+            "latitude": 32.07133483886719,
+            "longitude": 34.787601470947266,
+            "country": "il",
+            "locality": "Tel Aviv",
+            "postalCode": "6701203",
+            "streetAddress": "Aluf Kalman Magen  3"
+          },
+          {
+            "latitude": 47.04685974121094,
+            "longitude": 8.314909934997559,
+            "country": "ch",
+            "locality": "Lucerne",
+            "region": "Lucerne",
+            "postalCode": "6005",
+            "streetAddress": "Werftestrasse  4",
+            "regionCode": "LU"
+          },
+          {
+            "latitude": 50.0816650390625,
+            "longitude": 14.4174222946167,
+            "country": "cz",
+            "locality": "Capital City of Prague",
+            "region": "Capital City of Prague",
+            "postalCode": "110 00",
+            "streetAddress": "N\u00e1rodn\u00ed  135/14",
+            "regionCode": "10"
+          },
+          {
+            "latitude": 42.80915069580078,
+            "longitude": -70.87069702148438,
+            "country": "us",
+            "locality": "Newburyport",
+            "region": "Massachusetts",
+            "postalCode": "01950",
+            "streetAddress": "State Street",
+            "regionCode": "MA"
+          },
+          {
+            "latitude": 41.079776763916016,
+            "longitude": 29.0086727142334,
+            "country": "tr",
+            "locality": "\u015ei\u015fli",
+            "region": "Istanbul",
+            "postalCode": "34394",
+            "streetAddress": "Talatpa\u015fa Caddesi  5,34330",
+            "regionCode": "34"
+          },
+          {
+            "latitude": 41.025634765625,
+            "longitude": 29.09630584716797,
+            "country": "tr",
+            "locality": "\u00dcmraniye",
+            "region": "Istanbul",
+            "postalCode": "34773",
+            "streetAddress": "Aybars Caddesi",
+            "regionCode": "34"
+          },
+          {
+            "latitude": 41.076602935791016,
+            "longitude": 29.052494049072266,
+            "country": "tr",
+            "locality": "\u00dcmraniye",
+            "region": "Istanbul",
+            "streetAddress": "Dudullu OSB Mh. Des-2 Cad. Teknopark Binas\u0131 No:8, \u0130\u00e7 Kap\u0131 No:103 \u00dcmraniye/\u0130stanbul",
+            "regionCode": "34"
+          },
+          {
+            "latitude": 43.2515983581543,
+            "longitude": 76.95545959472656,
+            "country": "kz",
+            "locality": "Almaty",
+            "region": "Almaty",
+            "postalCode": "050010",
+            "streetAddress": "Dostyk Avenue  43",
+            "regionCode": "75"
+          },
+          {
+            "latitude": 31.230987548828125,
+            "longitude": 121.43618774414062,
+            "country": "cn",
+            "locality": "Jing'an District",
+            "region": "Shanghai",
+            "postalCode": "200040",
+            "streetAddress": "Yanping Road  135",
+            "regionCode": "SH"
+          },
+          {
+            "latitude": 53.90247344970703,
+            "longitude": 27.56182289123535,
+            "country": "by",
+            "locality": "Minsk",
+            "region": "Minsk",
+            "postalCode": "220069",
+            "streetAddress": "Prospekt Dzerzhinskogo 5",
+            "regionCode": "HM"
+          },
+          {
+            "latitude": -15.803257942199707,
+            "longitude": -47.885475158691406,
+            "country": "br",
+            "locality": "Bras\u00edlia",
+            "region": "Federal District",
+            "postalCode": "70074-900",
+            "streetAddress": "SBS Quadra 3  Bloco B",
+            "regionCode": "DF"
+          },
+          {
+            "latitude": 43.236392974853516,
+            "longitude": 76.94572448730469,
+            "country": "kz",
+            "locality": "Almaty",
+            "region": "Almaty",
+            "regionCode": "75"
+          },
+          {
+            "latitude": -6.283818244934082,
+            "longitude": 106.80486297607422,
+            "country": "id",
+            "locality": "Special capital Region of Jakarta",
+            "region": "Special capital Region of Jakarta, Java",
+            "postalCode": "12950",
+            "streetAddress": "Jl. H.R. Rasuna Said Kav. 3-4",
+            "regionCode": "JK"
+          },
+          {
+            "latitude": 41.06378936767578,
+            "longitude": 28.983163833618164,
+            "country": "tr",
+            "locality": "\u015ei\u015fli",
+            "region": "Istanbul",
+            "regionCode": "34"
+          },
+          {
+            "latitude": 60.15814971923828,
+            "longitude": 24.876619338989258,
+            "country": "fi",
+            "locality": "Helsinki",
+            "region": "Uusimaa",
+            "postalCode": "00200",
+            "streetAddress": "Gyld\u00e9nintie",
+            "regionCode": "18"
+          },
+          {
+            "latitude": -33.43782424926758,
+            "longitude": -70.65105438232422,
+            "country": "cl",
+            "locality": "Santiago",
+            "region": "Santiago Metropolitan Region",
+            "regionCode": "RM"
+          },
+          {
+            "latitude": 55.582027435302734,
+            "longitude": 37.38552474975586,
+            "country": "ru",
+            "locality": "Moscow"
+          },
+          {
+            "latitude": 53.89075469970703,
+            "longitude": 27.5258731842041,
+            "country": "by",
+            "locality": "Minsk",
+            "streetAddress": "Prospekt Dzerzhinskogo 5"
+          },
+          {
+            "latitude": 42.81083297729492,
+            "longitude": -70.8699722290039,
+            "country": "us",
+            "locality": "Newburyport",
+            "postalCode": "01950",
+            "streetAddress": "10 State St"
+          },
+          {
+            "latitude": 31.231279373168945,
+            "longitude": 121.43925476074219,
+            "country": "cn",
+            "locality": "Jing'An",
+            "postalCode": "200042",
+            "streetAddress": "\u5ef6\u5e73\u8def135\u53f7"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 289
+          },
+          {
+            "department": "Board",
+            "size": 18
+          },
+          {
+            "department": "Business Support",
+            "size": 478
+          },
+          {
+            "department": "Customer Relations",
+            "size": 332
+          },
+          {
+            "department": "Design",
+            "size": 457
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 144
+          },
+          {
+            "department": "Engineering",
+            "size": 954
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 52
+          },
+          {
+            "department": "Healthcare",
+            "size": 34
+          },
+          {
+            "department": "HR",
+            "size": 676
+          },
+          {
+            "department": "Legal",
+            "size": 110
+          },
+          {
+            "department": "Management",
+            "size": 1817
+          },
+          {
+            "department": "Manufacturing",
+            "size": 58
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 553
+          },
+          {
+            "department": "Operations",
+            "size": 818
+          },
+          {
+            "department": "Other",
+            "size": 2430
+          },
+          {
+            "department": "PR and Communications",
+            "size": 134
+          },
+          {
+            "department": "Procurement",
+            "size": 64
+          },
+          {
+            "department": "Product",
+            "size": 900
+          },
+          {
+            "department": "Quality Control",
+            "size": 682
+          },
+          {
+            "department": "R&D",
+            "size": 5087
+          },
+          {
+            "department": "Sales",
+            "size": 251
+          },
+          {
+            "department": "Security",
+            "size": 104
+          },
+          {
+            "department": "Supply Chain",
+            "size": 46
+          }
+        ],
+        "rootUrl": "https://yandex.com",
+        "fundingRound": {
+          "date": "2020-06-25T00:00:00+02:00",
+          "type": "Post-IPO Equity",
+          "moneyRaisedInUsd": 1000000000
+        },
+        "updatedAt": "2026-02-15T03:33:12+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "alecchase.com",
+        "countries": [
+          "ca",
+          "dk",
+          "fr",
+          "in",
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "0-1",
+        "industryCategories": [
+          "Design",
+          "Software",
+          "Apps",
+          "Mobile",
+          "Information Technology",
+          "Internet Services"
+        ],
+        "industries": [
+          "Software",
+          "Web Design",
+          "Web Development",
+          "Mobile Apps",
+          "Web Apps",
+          "Information Technology",
+          "Internet"
+        ],
+        "linkedinIndustry": "Graphic Design",
+        "ecommerce": true,
+        "keywords": [
+          "buy domain",
+          "free transaction",
+          "sell domain",
+          "transaction support",
+          "secure transactions",
+          "free payments",
+          "transaction",
+          "update domain",
+          "domain",
+          "local currency",
+          "domain settings",
+          "domain names",
+          "great customer",
+          "transactions",
+          "customer",
+          "domains",
+          "customer service",
+          "customer experience",
+          "lease",
+          "customer support",
+          "transfers",
+          "customers",
+          "buy",
+          "forsale lander",
+          "payments",
+          "free",
+          "hassle free",
+          "cart",
+          "sell",
+          "consumer reviews",
+          "transfer simple",
+          "knowledgeable customer",
+          "sale",
+          "consumer",
+          "forsale",
+          "secure",
+          "sales",
+          "top-tier customer",
+          "transfer",
+          "currency",
+          "trusted companies",
+          "offer",
+          "ownership",
+          "trustscore",
+          "account",
+          "shoppers",
+          "passed verification",
+          "clients web",
+          "godaddy account",
+          "good services",
+          "checkout",
+          "received",
+          "share reviews",
+          "lander",
+          "access",
+          "lost access",
+          "trusted",
+          "card",
+          "local",
+          "clients",
+          "verification",
+          "client lost",
+          "web hosting",
+          "reviews"
+        ],
+        "employeeCountOcean": 1,
+        "employeeCountLinkedin": 1,
+        "revenue": "0-1M",
+        "yearFounded": 2008,
+        "description": "Freelance Graphic Design studio specializing in small business and startup Print, Web and Identity projects. Owned and operated by Lead Designer, Alec Chase. AlecChase Design is located in Lafayette, IN. Although small businesses and startups are the main clientele, those who come to AlecChase Design range from 2 man operations to multi-million dollar companies. No job is too small or too big.",
+        "phones": [
+          {
+            "number": "+1 480-505-8877",
+            "country": "us",
+            "primary": true
+          },
+          {
+            "number": "+254 114 148480",
+            "country": "ke"
+          },
+          {
+            "number": "+1 480-651-9741",
+            "country": "us"
+          }
+        ],
+        "logo": "https://cdn2.ocean.io/logos/alecchase.com/bcd9f1e380b99e9d32a50d9abbfb7e9616de7e62.png",
+        "technologies": [
+          "Akamai",
+          "Akamai Bot Manager",
+          "Astro",
+          "Marked",
+          "OneTrust",
+          "Prototype",
+          "Accesso",
+          "Amazon Associates",
+          "HSTS",
+          "reCAPTCHA",
+          "Amazon CloudFront",
+          "HTTP/2",
+          "RequireJS",
+          "Amazon S3",
+          "eSyndiCat",
+          "Amazon Web Services",
+          "Acquire Live Chat",
+          "React",
+          "Amplitude",
+          "Envoy",
+          "Segment",
+          "New Relic",
+          "Webpack",
+          "Next.js",
+          "Stackbit",
+          "Twitter Flight",
+          "Trustpilot",
+          "YouTube",
+          "RSS",
+          "Node.js",
+          "Exhibit",
+          "Google AdSense",
+          "PHP",
+          "jQuery",
+          "Ramda",
+          "Hotjar",
+          "Google Maps",
+          "Moment.js",
+          "Facebook Chat Plugin",
+          "Google Sign-in",
+          "Facebook Pixel"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Ecommerce",
+          "Analytics",
+          "JavaScript frameworks",
+          "Video players",
+          "Security",
+          "Web frameworks",
+          "Miscellaneous",
+          "Web servers",
+          "JavaScript graphics",
+          "Programming languages",
+          "CDN",
+          "Maps",
+          "Advertising",
+          "Page builders",
+          "Live chat",
+          "Static site generator",
+          "JavaScript libraries",
+          "PaaS",
+          "Reverse proxies",
+          "Cookie compliance",
+          "Authentication",
+          "Affiliate programs",
+          "Appointment scheduling",
+          "RUM",
+          "Reviews",
+          "Customer data platform"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/alecchase-design",
+            "handle": "alecchase-design",
+            "name": "alecchase design"
+          },
+          "twitter": {
+            "url": "https://x.com/Trustpilot",
+            "handle": "trustpilot"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/c/trustpilotreviews",
+            "handle": "trustpilotreviews"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/Trustpilot/",
+            "handle": "trustpilot"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/trustpilot/",
+            "handle": "trustpilot"
+          }
+        },
+        "name": "Alecchase design",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 33.84805679321289,
+            "longitude": -117.88046264648438,
+            "country": "us",
+            "locality": "Anaheim",
+            "region": "California",
+            "postalCode": "92806",
+            "streetAddress": "Miraloma Avenue",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 41.970550537109375,
+            "longitude": -87.6915054321289,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60625",
+            "streetAddress": "West Ainslie Street  2501",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 34.01993179321289,
+            "longitude": -118.45388793945312,
+            "country": "us",
+            "locality": "Santa Monica",
+            "region": "California",
+            "postalCode": "90405",
+            "streetAddress": "Ocean Park Boulevard",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 25.913230895996094,
+            "longitude": -80.32939147949219,
+            "country": "us",
+            "locality": "Miami Lakes",
+            "region": "Florida",
+            "postalCode": "33016",
+            "streetAddress": "Northwest 154th Street",
+            "regionCode": "FL"
+          },
+          {
+            "latitude": 41.88044738769531,
+            "longitude": -87.62985229492188,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60603",
+            "streetAddress": "West Monroe Street  55",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 40.721717834472656,
+            "longitude": -73.63109588623047,
+            "country": "us",
+            "locality": "Village of Garden City",
+            "region": "New York",
+            "postalCode": "11530",
+            "streetAddress": "Franklin Avenue  401",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 41.924835205078125,
+            "longitude": -87.71897888183594,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60647",
+            "streetAddress": "West Fullerton Avenue  3648",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 41.79513168334961,
+            "longitude": -87.76331329345703,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60638",
+            "streetAddress": "South Archer Avenue  5915-5919",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 30.341480255126953,
+            "longitude": -97.75492095947266,
+            "country": "us",
+            "locality": "Austin",
+            "region": "Texas",
+            "postalCode": "78731",
+            "streetAddress": "Balcones Drive  5900",
+            "regionCode": "TX"
+          },
+          {
+            "latitude": 34.02806091308594,
+            "longitude": -117.95309448242188,
+            "country": "us",
+            "locality": "La Puente",
+            "region": "California",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 39.929840087890625,
+            "longitude": -75.35128021240234,
+            "country": "us",
+            "locality": "Springfield Township",
+            "region": "Pennsylvania",
+            "postalCode": "19064",
+            "streetAddress": "West Sproul Road",
+            "regionCode": "PA"
+          },
+          {
+            "latitude": 34.05900573730469,
+            "longitude": -118.44214630126953,
+            "country": "us",
+            "locality": "Los Angeles",
+            "region": "California",
+            "postalCode": "90024",
+            "streetAddress": "Wilshire Boulevard  10866",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 56.20137023925781,
+            "longitude": 10.190372467041016,
+            "country": "dk",
+            "locality": "Aarhus",
+            "region": "Central Denmark Region",
+            "postalCode": "8200",
+            "streetAddress": "P.O. Pedersens Vej  2",
+            "regionCode": "82"
+          },
+          {
+            "latitude": 34.032833099365234,
+            "longitude": -118.45812225341797,
+            "country": "us",
+            "locality": "Los Angeles",
+            "region": "California",
+            "postalCode": "90064",
+            "streetAddress": "West Olympic Boulevard  12333",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 30.30588150024414,
+            "longitude": -97.74301147460938,
+            "country": "us",
+            "locality": "Austin",
+            "region": "Texas",
+            "postalCode": "78756",
+            "streetAddress": "North Lamar Boulevard  3800",
+            "regionCode": "TX"
+          },
+          {
+            "latitude": 33.808021545410156,
+            "longitude": -118.19344329833984,
+            "country": "us",
+            "locality": "Long Beach",
+            "region": "California",
+            "postalCode": "90806",
+            "streetAddress": "W 28th Street",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 42.11811447143555,
+            "longitude": -79.29366302490234,
+            "country": "us",
+            "region": "New York",
+            "postalCode": "14742",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 34.15097427368164,
+            "longitude": -117.58936309814453,
+            "country": "us",
+            "locality": "Rancho Cucamonga",
+            "region": "California",
+            "postalCode": "91737",
+            "streetAddress": "Birchbay Court",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 33.669639587402344,
+            "longitude": -117.64519500732422,
+            "country": "us",
+            "locality": "Lake Forest",
+            "region": "California",
+            "postalCode": "92610",
+            "streetAddress": "Icon",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 35.18910598754883,
+            "longitude": -84.8878173828125,
+            "country": "us",
+            "locality": "Cleveland",
+            "region": "Tennessee",
+            "postalCode": "37311",
+            "streetAddress": "Mount Vernon Drive Northwest",
+            "regionCode": "TN"
+          },
+          {
+            "latitude": 41.5842399597168,
+            "longitude": -93.85531616210938,
+            "country": "us",
+            "locality": "Waukee",
+            "region": "Iowa",
+            "postalCode": "50263",
+            "streetAddress": "Southeast Encompass Drive",
+            "regionCode": "IA"
+          },
+          {
+            "latitude": 41.88099670410156,
+            "longitude": -87.72541046142578,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60624",
+            "streetAddress": "West Madison Street  3954-3960",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 41.8855094909668,
+            "longitude": -87.62250518798828,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60601",
+            "streetAddress": "North Stetson Avenue  180",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 28.54045295715332,
+            "longitude": -81.37287139892578,
+            "country": "us",
+            "locality": "Orlando",
+            "region": "Florida",
+            "postalCode": "32801",
+            "streetAddress": "East Church Street",
+            "regionCode": "FL"
+          },
+          {
+            "latitude": 36.58625793457031,
+            "longitude": -119.46341705322266,
+            "country": "us",
+            "locality": "Reedley",
+            "region": "California",
+            "postalCode": "93654",
+            "streetAddress": "Redwood Drive",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 26.904706954956055,
+            "longitude": 75.78057098388672,
+            "country": "in",
+            "locality": "Jaipur",
+            "region": "Rajasthan",
+            "postalCode": "302006",
+            "streetAddress": "Sawai Pratap Singh Road  1 Shivaji Nagar, Civil Lines, jaipur \u2013 302006, Rajasthan, India",
+            "regionCode": "RJ"
+          },
+          {
+            "latitude": 27.982946395874023,
+            "longitude": -82.55052947998047,
+            "country": "us",
+            "locality": "Tampa",
+            "region": "Florida",
+            "postalCode": "33634",
+            "streetAddress": "George Road",
+            "regionCode": "FL"
+          },
+          {
+            "latitude": 33.38946533203125,
+            "longitude": -111.67093658447266,
+            "country": "us",
+            "locality": "Mesa",
+            "region": "Arizona",
+            "postalCode": "85209",
+            "streetAddress": "East Hampton Avenue  7457",
+            "regionCode": "AZ"
+          },
+          {
+            "latitude": 34.239418029785156,
+            "longitude": -118.5220947265625,
+            "country": "us",
+            "locality": "Los Angeles",
+            "region": "California",
+            "postalCode": "91325",
+            "streetAddress": "Prairie Street",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 48.845672607421875,
+            "longitude": 2.417701482772827,
+            "country": "fr",
+            "locality": "Saint-Mand\u00e9",
+            "region": "Val-de-Marne, Ile-de-France",
+            "postalCode": "94160",
+            "streetAddress": "Avenue du G\u00e9n\u00e9ral de Gaulle  5",
+            "regionCode": "IDF"
+          },
+          {
+            "latitude": 40.77201461791992,
+            "longitude": -73.93026733398438,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "11102",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 43.56929397583008,
+            "longitude": -79.63847351074219,
+            "country": "ca",
+            "locality": "Mississauga",
+            "region": "Ontario",
+            "postalCode": "L5C 1T8",
+            "streetAddress": "Mavis Road  3174",
+            "regionCode": "ON"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Design",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://alecchase.com/",
+        "updatedAt": "2026-01-28T06:58:10+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "hylton72degrees.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Professional Services",
+          "Commerce and Shopping",
+          "Real Estate",
+          "Science and Engineering"
+        ],
+        "industries": [
+          "Service Industry",
+          "Customer Service",
+          "Commercial",
+          "Home Services",
+          "Consumer",
+          "Field Support",
+          "Mechanical Engineering"
+        ],
+        "keywords": [
+          "heating and air conditioning",
+          "Sevierville Heat and Air",
+          "HVAC repair",
+          "cooling specialists",
+          "air conditioning",
+          "insulation service",
+          "experienced heating",
+          "cooling system",
+          "trusted hvac",
+          "hvac",
+          "heating systems",
+          "heating",
+          "cooling",
+          "attic insulation",
+          "sevierville heat",
+          "heat pumps",
+          "air quality",
+          "thermal",
+          "heating furnace",
+          "heat",
+          "includes heat",
+          "insulation",
+          "maintenance service",
+          "conditioning services",
+          "furnaces",
+          "furnace systems",
+          "energy loss",
+          "service provider",
+          "conditioning service",
+          "maintenance",
+          "energy",
+          "sevierville attic",
+          "residential attic",
+          "technicians",
+          "experiencing energy",
+          "preventative maintenance",
+          "service sevierville",
+          "blow-in residential",
+          "furnace",
+          "gas furnaces",
+          "humidity",
+          "conditioning hire",
+          "service work",
+          "geo thermal",
+          "conditioning experts",
+          "attic",
+          "employees",
+          "air solutions",
+          "workmanship",
+          "provider",
+          "humidity levels",
+          "filtration",
+          "customer service",
+          "caliber employees",
+          "utility",
+          "service",
+          "poor workmanship",
+          "call today",
+          "services",
+          "conditioning",
+          "pumps",
+          "exceptional customer",
+          "needed",
+          "prompt services",
+          "air",
+          "equipment",
+          "experts",
+          "unit\u2019s operating",
+          "residential",
+          "work",
+          "operate",
+          "higher utility",
+          "specialists",
+          "maintenance pricing",
+          "service includes",
+          "premier service",
+          "serving sevierville",
+          "clean",
+          "performance",
+          "technology",
+          "fuel systems",
+          "customer satisfaction",
+          "professonial services",
+          "latest technology",
+          "preventative",
+          "commercial preventative",
+          "conditioning repairs",
+          "support",
+          "call",
+          "hire",
+          "community",
+          "improve",
+          "reduced performance",
+          "ensure",
+          "sevierville",
+          "repair hire",
+          "customer",
+          "gatlinburg"
+        ],
+        "revenue": "0-1M",
+        "name": "Hylton72degrees",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 35.89627456665039,
+            "longitude": -83.42916870117188,
+            "country": "us",
+            "locality": "Sevierville",
+            "postalCode": "37876",
+            "streetAddress": "135 S Flat Creek Rd"
+          }
+        ],
+        "rootUrl": "http://hylton72degrees.com",
+        "updatedAt": "2026-02-13T02:20:17+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "sanctifiedrealestate.com",
+        "countries": [
+          "au",
+          "ca",
+          "in",
+          "it",
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Real Estate",
+          "Sales and Marketing"
+        ],
+        "industries": [
+          "Real Estate",
+          "Residential",
+          "Property Management",
+          "Sales"
+        ],
+        "linkedinIndustry": "Real Estate",
+        "ecommerce": true,
+        "keywords": [
+          "domain",
+          "tld domain",
+          "secure purchase",
+          "godaddy sell",
+          "domains",
+          "trusted companies",
+          "trusted",
+          "trustscore",
+          "customers globally",
+          "sell",
+          "registrar",
+          "sale",
+          "sold",
+          "consumer",
+          "forsale",
+          "customer service",
+          "customer",
+          "scamming",
+          "consumer reviews",
+          "customers",
+          "forsale lander",
+          "market",
+          "purchase",
+          "online store",
+          "buy",
+          "contacted customer",
+          "bought",
+          "market leader",
+          "recently bought",
+          "trust",
+          "online presence",
+          "horrible customer",
+          "secure",
+          "store",
+          "godaddy account",
+          "store catalog",
+          "seo-friendly",
+          "literally scamming",
+          "registering",
+          "securing",
+          "service told",
+          "share",
+          "share reviews",
+          "company",
+          "dedicated support",
+          "company details",
+          "shoppers",
+          "companies",
+          "lander",
+          "indian citizen",
+          "difficulty registering",
+          "online",
+          "catalog",
+          "service",
+          "citizen",
+          "godaddy offers",
+          "godaddy reviews",
+          "trustpilot today",
+          "checkout cart",
+          "refund",
+          "cart",
+          "catalogue",
+          "courteous",
+          "dedicated",
+          "tld"
+        ],
+        "employeeCountLinkedin": 1,
+        "revenue": "0-1M",
+        "description": "SANCTIFIED REAL ESTATE, INC. is a real estate company based out of 2590 ALDERWOOD DR, SAN JOSE, California, United States.",
+        "phones": [
+          {
+            "number": "+1 480-651-9713",
+            "country": "us",
+            "primary": true
+          },
+          {
+            "number": "+1 480-505-8877",
+            "country": "us"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/sanctifiedrealestate.com/bc6be5e3b04c5adbbcd8923542c34dc7cb10889c.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Astro",
+          "Marked",
+          "OneTrust",
+          "Linkedin Insight Tag",
+          "Prototype",
+          "Accesso",
+          "HSTS",
+          "HTTP/2",
+          "reCAPTCHA",
+          "Amazon CloudFront",
+          "RequireJS",
+          "Amazon S3",
+          "eSyndiCat",
+          "Amazon Web Services",
+          "Acquire Live Chat",
+          "React",
+          "Amplitude",
+          "Envoy",
+          "Segment",
+          "New Relic",
+          "Webpack",
+          "Next.js",
+          "Stackbit",
+          "Quill",
+          "Twitter Flight",
+          "Trustpilot",
+          "YouTube",
+          "RSS",
+          "Node.js",
+          "Exhibit",
+          "Google AdSense",
+          "PHP",
+          "Google Analytics",
+          "jQuery",
+          "Ramda",
+          "Hotjar",
+          "Google Maps",
+          "Moment.js",
+          "Facebook Chat Plugin",
+          "Google Sign-in",
+          "Facebook Pixel"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Ecommerce",
+          "Analytics",
+          "JavaScript frameworks",
+          "Video players",
+          "Security",
+          "Web frameworks",
+          "Miscellaneous",
+          "Web servers",
+          "Rich text editors",
+          "JavaScript graphics",
+          "Programming languages",
+          "CDN",
+          "Maps",
+          "Advertising",
+          "Tag managers",
+          "Page builders",
+          "Live chat",
+          "Static site generator",
+          "JavaScript libraries",
+          "PaaS",
+          "Reverse proxies",
+          "Cookie compliance",
+          "Authentication",
+          "Appointment scheduling",
+          "RUM",
+          "Reviews",
+          "Customer data platform"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/sanctified-real-estate-inc.",
+            "handle": "sanctified-real-estate-inc.",
+            "name": "SANCTIFIED REAL ESTATE"
+          },
+          "twitter": {
+            "url": "https://x.com/Trustpilot",
+            "handle": "trustpilot"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/c/trustpilotreviews",
+            "handle": "trustpilotreviews"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/Trustpilot/",
+            "handle": "trustpilot"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/trustpilot/",
+            "handle": "trustpilot"
+          }
+        },
+        "name": "Sanctified real estate",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 37.384727478027344,
+            "longitude": -121.92127990722656,
+            "country": "us",
+            "locality": "San Jose",
+            "postalCode": "95131",
+            "streetAddress": "2375 Zanker Rd"
+          },
+          {
+            "latitude": 37.33616638183594,
+            "longitude": -121.89059448242188,
+            "country": "us",
+            "locality": "San Jose",
+            "region": "California",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 38.64330291748047,
+            "longitude": -121.17974853515625,
+            "country": "us",
+            "locality": "Folsom",
+            "region": "California",
+            "postalCode": "95630",
+            "streetAddress": "Iron Point Road  1024",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 40.62724304199219,
+            "longitude": -73.9466323852539,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "11210",
+            "streetAddress": "Nostrand Avenue  2361",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 37.74361801147461,
+            "longitude": -122.43978881835938,
+            "country": "us",
+            "locality": "San Francisco",
+            "region": "California",
+            "postalCode": "94131",
+            "streetAddress": "Diamond Heights Boulevard  5214F",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 40.490623474121094,
+            "longitude": -98.94723510742188,
+            "country": "us",
+            "region": "Nebraska",
+            "regionCode": "NE"
+          },
+          {
+            "latitude": 41.79649353027344,
+            "longitude": -87.75741577148438,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60638",
+            "streetAddress": "South Archer Avenue",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 40.716331481933594,
+            "longitude": -73.9590835571289,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "11211",
+            "streetAddress": "Bedford Avenue  223",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 45.54412841796875,
+            "longitude": -73.62091827392578,
+            "country": "ca",
+            "locality": "Montreal",
+            "region": "Quebec",
+            "postalCode": "H2R 1J4",
+            "streetAddress": "Rue Saint-Hubert  7680",
+            "regionCode": "QC"
+          },
+          {
+            "latitude": 40.724788665771484,
+            "longitude": -74.10877990722656,
+            "country": "us",
+            "locality": "Kearny",
+            "region": "New Jersey",
+            "postalCode": "07032",
+            "streetAddress": "John Miller Way  78",
+            "regionCode": "NJ"
+          },
+          {
+            "latitude": 40.74945831298828,
+            "longitude": -73.99427032470703,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "10001",
+            "streetAddress": "West 30th Street  251",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 43.699405670166016,
+            "longitude": -70.284912109375,
+            "country": "us",
+            "locality": "Portland",
+            "region": "Maine",
+            "postalCode": "04103",
+            "streetAddress": "Northport Drive  43",
+            "regionCode": "ME"
+          },
+          {
+            "latitude": 40.909297943115234,
+            "longitude": -74.07331085205078,
+            "country": "us",
+            "region": "New Jersey",
+            "postalCode": "07662",
+            "regionCode": "NJ"
+          },
+          {
+            "latitude": 40.715152740478516,
+            "longitude": -74.00569152832031,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "10007",
+            "streetAddress": "Broadway  299",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 37.98365020751953,
+            "longitude": 13.69555377960205,
+            "country": "it",
+            "locality": "Termini Imerese",
+            "region": "Palermo, Sicily",
+            "postalCode": "90018",
+            "regionCode": "PA"
+          },
+          {
+            "latitude": 26.904706954956055,
+            "longitude": 75.78057098388672,
+            "country": "in",
+            "locality": "Jaipur",
+            "region": "Rajasthan",
+            "postalCode": "302006",
+            "streetAddress": "Sawai Pratap Singh Road  1 Shivaji Nagar, Civil Lines, jaipur \u2013 302006, Rajasthan, India",
+            "regionCode": "RJ"
+          },
+          {
+            "latitude": 41.88044738769531,
+            "longitude": -87.62985229492188,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60603",
+            "streetAddress": "West Monroe Street  55",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 40.835304260253906,
+            "longitude": -73.412841796875,
+            "country": "us",
+            "locality": "Huntington Station",
+            "region": "New York",
+            "postalCode": "11746",
+            "streetAddress": "West 18th Street  18",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": -33.779903411865234,
+            "longitude": 150.7730712890625,
+            "country": "au",
+            "locality": "Sydney",
+            "region": "New South Wales",
+            "postalCode": "2760",
+            "streetAddress": "Margaret Street",
+            "regionCode": "NSW"
+          },
+          {
+            "latitude": 40.71272659301758,
+            "longitude": -74.00601196289062,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 38.90285873413086,
+            "longitude": -77.02741241455078,
+            "country": "us",
+            "locality": "Washington",
+            "region": "District of Columbia",
+            "postalCode": "20071",
+            "streetAddress": "K Street Northwest  1101",
+            "regionCode": "DC"
+          },
+          {
+            "latitude": 40.7847785949707,
+            "longitude": -73.97895050048828,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "10024",
+            "streetAddress": "Broadway  2248",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 41.88099670410156,
+            "longitude": -87.72541046142578,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60624",
+            "streetAddress": "West Madison Street  3954-3960",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 49.286338806152344,
+            "longitude": -123.11909484863281,
+            "country": "ca",
+            "locality": "Vancouver",
+            "region": "British Columbia",
+            "postalCode": "V7X 1M8",
+            "streetAddress": "Burrard Street  555",
+            "regionCode": "BC"
+          },
+          {
+            "latitude": -33.88752365112305,
+            "longitude": 151.20654296875,
+            "country": "au",
+            "locality": "Sydney",
+            "region": "New South Wales",
+            "postalCode": "2010",
+            "streetAddress": "Chalmers Street",
+            "regionCode": "NSW"
+          },
+          {
+            "latitude": 26.187480926513672,
+            "longitude": -80.15673828125,
+            "country": "us",
+            "locality": "Fort Lauderdale",
+            "region": "Florida",
+            "postalCode": "33309",
+            "streetAddress": "Northwest 49th Street",
+            "regionCode": "FL"
+          },
+          {
+            "latitude": 36.04166030883789,
+            "longitude": -79.79683685302734,
+            "country": "us",
+            "locality": "Greensboro",
+            "region": "North Carolina",
+            "postalCode": "27402",
+            "streetAddress": "Soabar Street",
+            "regionCode": "NC"
+          },
+          {
+            "latitude": 41.924835205078125,
+            "longitude": -87.71897888183594,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60647",
+            "streetAddress": "West Fullerton Avenue  3648",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 41.79513168334961,
+            "longitude": -87.76331329345703,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60638",
+            "streetAddress": "South Archer Avenue  5915-5919",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 37.79533767700195,
+            "longitude": -122.44181823730469,
+            "country": "us",
+            "locality": "San Francisco",
+            "region": "California",
+            "postalCode": "94123",
+            "streetAddress": "Green Street",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 47.68587875366211,
+            "longitude": -122.13998413085938,
+            "country": "us",
+            "locality": "Redmond",
+            "region": "Washington",
+            "postalCode": "98052",
+            "streetAddress": "Northeast 95th Street",
+            "regionCode": "WA"
+          },
+          {
+            "latitude": 40.76306915283203,
+            "longitude": -74.23404693603516,
+            "country": "us",
+            "locality": "Orange",
+            "region": "New Jersey",
+            "postalCode": "07050",
+            "streetAddress": "South Center Street",
+            "regionCode": "NJ"
+          },
+          {
+            "latitude": 42.435890197753906,
+            "longitude": -83.37532806396484,
+            "country": "us",
+            "locality": "Livonia",
+            "region": "Michigan",
+            "postalCode": "48152",
+            "streetAddress": "Farmington Road",
+            "regionCode": "MI"
+          },
+          {
+            "latitude": 25.770362854003906,
+            "longitude": -80.19520568847656,
+            "country": "us",
+            "locality": "Miami",
+            "region": "Florida",
+            "postalCode": "33130",
+            "streetAddress": "Southwest 3rd Street  90",
+            "regionCode": "FL"
+          },
+          {
+            "latitude": 41.884727478027344,
+            "longitude": -87.62413024902344,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60601",
+            "streetAddress": "North Michigan Avenue  155",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 25.800933837890625,
+            "longitude": -80.19463348388672,
+            "country": "us",
+            "locality": "Miami",
+            "region": "Florida",
+            "postalCode": "33137",
+            "streetAddress": "North Miami Avenue  2509",
+            "regionCode": "FL"
+          },
+          {
+            "latitude": 41.8855094909668,
+            "longitude": -87.62250518798828,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60601",
+            "streetAddress": "North Stetson Avenue  180",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 40.041988372802734,
+            "longitude": -75.58441162109375,
+            "country": "us",
+            "locality": "East Whiteland Township",
+            "region": "Pennsylvania",
+            "postalCode": "19345",
+            "streetAddress": "Swedesford Road",
+            "regionCode": "PA"
+          },
+          {
+            "latitude": 41.742408752441406,
+            "longitude": -71.43804168701172,
+            "country": "us",
+            "locality": "Warwick",
+            "region": "Rhode Island",
+            "postalCode": "02888",
+            "streetAddress": "Jefferson Boulevard",
+            "regionCode": "RI"
+          },
+          {
+            "latitude": 40.759098052978516,
+            "longitude": -73.9694595336914,
+            "country": "us",
+            "locality": "New York",
+            "region": "New York",
+            "postalCode": "10022",
+            "streetAddress": "East 55th Street  150",
+            "regionCode": "NY"
+          }
+        ],
+        "rootUrl": "https://sanctifiedrealestate.com/",
+        "updatedAt": "2026-01-25T10:27:31+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "ca-wi.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Information Technology"
+        ],
+        "industries": [
+          "Information Technology"
+        ],
+        "linkedinIndustry": "Automation Machinery Manufacturing",
+        "keywords": [
+          "abb irc5 robotics",
+          "allen bradley",
+          "delta motion",
+          "fanuc robotics",
+          "mitsubishi fx-plc",
+          "mitsubishi hmi",
+          "turnkey systems",
+          "computer clock",
+          "malicious sites",
+          "machine downtime",
+          "internet",
+          "server",
+          "anti-virus software",
+          "open site",
+          "time zone",
+          "network security",
+          "corporate network",
+          "site",
+          "block malicious",
+          "computer",
+          "network protocol",
+          "sites",
+          "clock",
+          "downtime",
+          "anti-virus",
+          "network",
+          "security settings",
+          "refresh simcast",
+          "service providers",
+          "causing machine",
+          "security technology",
+          "automation llc",
+          "mozilla",
+          "nightly detected",
+          "maintenance calls",
+          "time",
+          "protocol",
+          "system settings",
+          "mozilla identify",
+          "security threat",
+          "content security",
+          "nightly prevented",
+          "providers",
+          "service",
+          "aging machine",
+          "refresh",
+          "misconfigured",
+          "http",
+          "notify",
+          "maintenance",
+          "security",
+          "malicious",
+          "experienced service",
+          "automation",
+          "settings"
+        ],
+        "employeeCountOcean": 1,
+        "employeeCountLinkedin": 6,
+        "revenue": "0-1M",
+        "yearFounded": 2002,
+        "description": "Control Automation LLC designs, supplies, programs and supports a wide variety of industrial automation equipment, robotics and control systems that enhance and streamline your manufacturing process. Our group has been providing innovative automation solutions for 20+ years with a full commitment to superior customer satisfaction. Based in Waukesha Wisconsin our team of automation engineers can work with your team to develop a solution to your automation needs whether it be retrofitting an old system or designing a completely new operation give us a call today and let us help improve your current processes.",
+        "logo": "https://media.licdn.com/dms/image/C4E0BAQEx0AtYmji9tg/company-logo_400_400/0/1631359685065/control_automation_llc_logo?e=1718841600&t=GZjpvfnddky_9qm63Lcl8SKQPm-7mMCMgKNFL94bSGE&v=beta",
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/control-automation-llc",
+            "handle": "control-automation-llc",
+            "name": "Control Automation",
+            "specialties": [
+              "abb irc5 robotics",
+              "allen bradley",
+              "delta motion",
+              "fanuc robotics",
+              "mitsubishi fx-plc",
+              "mitsubishi hmi",
+              "turnkey systems"
+            ]
+          }
+        },
+        "name": "Control Automation",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 42.7839469909668,
+            "longitude": -88.2236328125,
+            "country": "us",
+            "locality": "Tichigan",
+            "region": "Wisconsin",
+            "postalCode": "53185",
+            "streetAddress": "Mesa Court",
+            "regionCode": "WI"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Engineering",
+            "size": 1
+          },
+          {
+            "department": "Management",
+            "size": 1
+          }
+        ],
+        "rootUrl": "http://ca-wi.com",
+        "updatedAt": "2026-02-11T10:14:47+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "dishdivekitchen.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Food and Beverage"
+        ],
+        "industries": [
+          "Food and Beverage",
+          "Restaurants",
+          "Catering"
+        ],
+        "keywords": [
+          "atlanta-",
+          "atlanta",
+          "atlanta food",
+          "atlanta magazine's",
+          "atlanta magazine-",
+          "atlanta mag-",
+          "winter",
+          "fresh air",
+          "important restaurants",
+          "good food",
+          "long-anticipated restaurants",
+          "cuisine",
+          "creative loafing's",
+          "ajc review",
+          "creative",
+          "fresh",
+          "restaurants",
+          "warmed",
+          "good",
+          "thoughtful chefs",
+          "culinary",
+          "creative american",
+          "important- zagat",
+          "quality",
+          "eater",
+          "thoughtful",
+          "food",
+          "-john kessler",
+          "ajc",
+          "american cuisine",
+          "creative loafing-",
+          "breakfast-for-dinner",
+          "fresh energy",
+          "summer",
+          "selections",
+          "needed",
+          "stewed",
+          "kessler",
+          "important-",
+          "cuisine crafted",
+          "air",
+          "restaurant",
+          "savory",
+          "menu",
+          "cooked",
+          "important",
+          "zagat's",
+          "zagat",
+          "critic pick",
+          "magazine-",
+          "places",
+          "long-anticipated",
+          "glitzy culinary",
+          "byob",
+          "carroll",
+          "gravy",
+          "plenty",
+          "kitchen",
+          "year",
+          "restaurants opening",
+          "dine",
+          "review",
+          "readers pick-",
+          "affordable",
+          "magazine- mar",
+          "meal",
+          "don\u2019t miss",
+          "loafing's",
+          "flavors",
+          "jeff myers",
+          "mar",
+          "dishes",
+          "velvety yolk",
+          "mag- fresh",
+          "pick",
+          "eater atl",
+          "radar restaurant",
+          "dump",
+          "stewed dish",
+          "culinary palaces",
+          "long needed",
+          "dish",
+          "pick-",
+          "big year",
+          "modest selections",
+          "flavor",
+          "critic",
+          "choose",
+          "bold dish",
+          "riff"
+        ],
+        "employeeCountLinkedin": 1,
+        "revenue": "0-1M",
+        "description": "DISH DIVE is a company based out of Atlanta, Georgia, United States.",
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/dish-dive",
+            "handle": "dish-dive",
+            "name": "DISH DIVE"
+          }
+        },
+        "name": "Dish Dive",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 33.76456832885742,
+            "longitude": -84.31420135498047,
+            "country": "us",
+            "locality": "Atlanta",
+            "postalCode": "30317",
+            "streetAddress": "2233 College Ave NE"
+          },
+          {
+            "latitude": 33.748992919921875,
+            "longitude": -84.39026641845703,
+            "country": "us",
+            "locality": "Atlanta",
+            "region": "Georgia",
+            "regionCode": "GA"
+          }
+        ],
+        "rootUrl": "http://dishdivekitchen.com",
+        "updatedAt": "2026-02-13T15:49:04+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "propridecleaning.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Real Estate",
+          "Commerce and Shopping",
+          "Sustainability",
+          "Administrative Services",
+          "Professional Services"
+        ],
+        "industries": [
+          "CleanTech",
+          "Commercial",
+          "Building Maintenance",
+          "Facilities Support Services",
+          "Service Industry",
+          "Janitorial Service",
+          "Facility Management",
+          "Field Support"
+        ],
+        "keywords": [
+          "janitorial cleaning",
+          "floor cleaning",
+          "carpet cleaning",
+          "commercial cleaning",
+          "cleaning",
+          "night cleaning",
+          "upholstery cleaning",
+          "floor maintenance",
+          "perfected cleaning",
+          "customer-driven cleaning",
+          "cleaning solution",
+          "cleaning services",
+          "cleaning systems",
+          "cleaning helps",
+          "quality janitorial",
+          "customized maintenance",
+          "janitorial",
+          "cleanup",
+          "cleaning efficiency",
+          "window cleaning",
+          "cleaning po",
+          "commercial flooring",
+          "carpet flooring",
+          "pro-pride cleaning",
+          "disinfect carpet",
+          "flooring",
+          "construction cleanup",
+          "clean workplace",
+          "clean",
+          "carpet",
+          "doubles cleaning",
+          "tile floor",
+          "maintenance",
+          "carpets \u2022",
+          "maintenance schedule",
+          "customize",
+          "floors",
+          "special maintenance",
+          "choose carpet",
+          "floor",
+          "commercial tile",
+          "carpets",
+          "extraction cleaning",
+          "tile",
+          "commercial carpet",
+          "sanitize",
+          "customized",
+          "washing",
+          "plan today",
+          "drying",
+          "steam cleaning",
+          "carpet appearance",
+          "remodel construction",
+          "\u2022 reduce",
+          "upholstery",
+          "projects",
+          "rooms",
+          "proper commercial",
+          "remodel",
+          "drying time",
+          "\u2022 remove",
+          "professional carpet",
+          "removal",
+          "rinsing",
+          "pressure washing",
+          "clean appearance",
+          "reduce",
+          "uniform carpet",
+          "require proper",
+          "vacuum",
+          "monday",
+          "hallways",
+          "plan",
+          "day",
+          "\u2022 promote",
+          "disinfect",
+          "water rinse",
+          "remove",
+          "construction",
+          "proper",
+          "rinsed",
+          "schedule",
+          "pressurized",
+          "carpet fibers",
+          "commercial",
+          "wet vacuum",
+          "properly",
+          "maintain",
+          "compromised",
+          "spaces",
+          "customer-driven",
+          "today",
+          "remove stains",
+          "promote",
+          "strong rinsing",
+          "require",
+          "waste"
+        ],
+        "revenue": "0-1M",
+        "name": "Propridecleaning",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 33.939998626708984,
+            "longitude": -84.20999908447266,
+            "country": "us",
+            "locality": "Peachtree Corners"
+          }
+        ],
+        "rootUrl": "http://propridecleaning.com",
+        "updatedAt": "2026-02-11T12:21:45+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "demottbuilders.com",
+        "countries": [
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Real Estate",
+          "Design",
+          "Commerce and Shopping"
+        ],
+        "industries": [
+          "Construction",
+          "Home Renovation",
+          "Home Improvement",
+          "Interior Design",
+          "Commercial",
+          "Residential"
+        ],
+        "keywords": [
+          "dream home",
+          "home builder",
+          "house needed",
+          "built home",
+          "home built",
+          "dream kitchen",
+          "dream design",
+          "custom home",
+          "growing home",
+          "house",
+          "\u200b\u200bbuild",
+          "builder",
+          "homes",
+          "home",
+          "home exterior",
+          "home exteriors",
+          "design brings",
+          "dream",
+          "indianapolis",
+          "good design",
+          "design",
+          "built",
+          "construction",
+          "dreams",
+          "remodeling",
+          "kitchen remodel",
+          "design process",
+          "backyard",
+          "contractors wanted",
+          "remodels",
+          "custom built",
+          "bath remodeling",
+          "dream part",
+          "living",
+          "making",
+          "construction management",
+          "remodel",
+          "hardscapes",
+          "bath remodels",
+          "carpenter",
+          "serving indianapolis",
+          "master carpenter",
+          "project",
+          "ahead",
+          "kitchen",
+          "hardscape",
+          "bath design",
+          "wanted",
+          "backyard entertainment",
+          "builers",
+          "contractors",
+          "entire project",
+          "reality",
+          "patio",
+          "kitchen companies",
+          "back yard",
+          "yard"
+        ],
+        "revenue": "0-1M",
+        "yearFounded": 2016,
+        "name": "Demott Builders, LLC",
+        "legalName": "Demott Builders, LLC",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 39.42898178100586,
+            "longitude": -86.41473388671875,
+            "country": "us",
+            "locality": "Martinsville",
+            "region": "IN",
+            "postalCode": "46151",
+            "streetAddress": "1160 E Pike St"
+          }
+        ],
+        "rootUrl": "http://demottbuilders.com",
+        "updatedAt": "2026-02-14T23:35:49+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "dam-projects.com",
+        "countries": [
+          "gb"
+        ],
+        "primaryCountry": "gb",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Education"
+        ],
+        "industries": [
+          "Education",
+          "Primary Education",
+          "Secondary Education",
+          "Higher Education",
+          "Charter Schools"
+        ],
+        "keywords": [
+          "one-day exhibitions",
+          "exhibitions",
+          "temporary exhibitions",
+          "curatorial collective",
+          "curatorial",
+          "uk art",
+          "art scenes",
+          "international art",
+          "art school",
+          "artists",
+          "art",
+          "documentary",
+          "documentary films",
+          "shows",
+          "programme",
+          "venue",
+          "films",
+          "artist",
+          "solo shows",
+          "unorthodox artists",
+          "developments",
+          "collective founded",
+          "events",
+          "founded",
+          "scenes",
+          "artist led",
+          "collective",
+          "political developments",
+          "land february",
+          "march",
+          "recent uk",
+          "august",
+          "history",
+          "years",
+          "emerging",
+          "recent",
+          "image",
+          "land",
+          "led history",
+          "featuring",
+          "video",
+          "debates",
+          "nov"
+        ],
+        "employeeCountOcean": 2,
+        "employeeCountLinkedin": 3,
+        "revenue": "0-1M",
+        "description": "DAM PROJECTS is a curatorial collective founded in 2014 by Daniella Rose King, Amanprit Sandhu and Morgan Quaintance. Inclusive and anti-elitist, the collective use temporary exhibitions, documentary films and events to support emerging, underexposed and unorthodox artists and art scenes, as well as socio-cultural and political developments, discourses and debates.",
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/dam-projects",
+            "handle": "dam-projects",
+            "name": "DAM Projects"
+          }
+        },
+        "name": "DAM Projects",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 51.519073486328125,
+            "longitude": -0.18285547196865082,
+            "country": "gb",
+            "locality": "London",
+            "region": "England",
+            "postalCode": "W2 6BD",
+            "streetAddress": "Kingdom Street  3",
+            "regionCode": "ENG"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Management",
+            "size": 1
+          },
+          {
+            "department": "Other",
+            "size": 1
+          }
+        ],
+        "rootUrl": "http://dam-projects.com",
+        "updatedAt": "2026-02-12T16:56:51+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "kschiwan.com",
+        "countries": [
+          "de"
+        ],
+        "primaryCountry": "de",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Internet Services"
+        ],
+        "industries": [
+          "Internet"
+        ],
+        "revenue": "0-1M",
+        "name": "Kschiwan",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 51.75993347167969,
+            "longitude": 14.159499168395996,
+            "country": "de",
+            "locality": "Kolkwitz",
+            "postalCode": "03099",
+            "streetAddress": "4, Zeppelinstra\u00dfe 3"
+          }
+        ],
+        "rootUrl": "http://kschiwan.com",
+        "updatedAt": "2026-02-16T19:22:06+01:00"
+      },
+      "relevance": "A"
+    }
+  ],
+  "count": 10
+}

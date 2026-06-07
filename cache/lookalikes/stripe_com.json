@@ -1,0 +1,4192 @@
+{
+  "seed_domain": "stripe.com",
+  "companies": [
+    {
+      "company": {
+        "domain": "razorpay.com",
+        "countries": [
+          "in",
+          "sg",
+          "us"
+        ],
+        "primaryCountry": "in",
+        "companySize": "1001-5000",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software",
+          "Lending and Investments"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing",
+          "Credit Cards"
+        ],
+        "linkedinIndustry": "Software Development",
+        "ecommerce": true,
+        "keywords": [
+          "banking services",
+          "e-commerce fraud detection",
+          "financial products",
+          "neobanking",
+          "payment processing",
+          "payout processing",
+          "payroll processing",
+          "working capital loans",
+          "payments india",
+          "global payment",
+          "international payment",
+          "international payments",
+          "online payments",
+          "in-store payments",
+          "payment gateway",
+          "payment-powered",
+          "widest payment",
+          "accept payments",
+          "payment coverage",
+          "accepting payments",
+          "payment",
+          "advanced payment",
+          "transparent payment",
+          "payment solutions",
+          "payment modes",
+          "payments instantly",
+          "payments",
+          "recurring payments",
+          "business payments",
+          "payouts",
+          "payouts success",
+          "india-based support",
+          "unbeatable payouts",
+          "bulk payouts",
+          "payment suite",
+          "india-based",
+          "payment-powered growth",
+          "simplifying payments",
+          "payment merchant",
+          "receive international",
+          "accept international",
+          "india",
+          "money transfers",
+          "credit card",
+          "escrow money",
+          "bank transfers",
+          "automated payroll",
+          "automate payroll",
+          "multi-bank routing",
+          "multi-bank",
+          "api",
+          "apis",
+          "payroll",
+          "debit cards",
+          "fees",
+          "credit",
+          "wallets",
+          "api reference",
+          "checkout",
+          "faster checkout",
+          "account",
+          "e-commerce",
+          "accept cards",
+          "accounts",
+          "local bank",
+          "escrow account",
+          "global business",
+          "easy-to-use apis",
+          "globally",
+          "automate banking",
+          "multiple accounts",
+          "transfers",
+          "automate subscriptions",
+          "effortless banking",
+          "currencies",
+          "netbanking",
+          "low fees",
+          "international",
+          "dynamic multi-bank",
+          "gateway pricing",
+          "e-commerce business",
+          "lowest fees",
+          "current account",
+          "supports netbanking",
+          "merchant services",
+          "bank",
+          "money",
+          "real-time routing",
+          "gift cards",
+          "subscriptions",
+          "in-store",
+          "rbi regulations",
+          "accounting integration",
+          "online",
+          "partner banks",
+          "seamless in-store",
+          "card",
+          "banking",
+          "global today",
+          "receive",
+          "countries",
+          "pricing",
+          "corporate credit"
+        ],
+        "employeeCountOcean": 3497,
+        "employeeCountLinkedin": 4066,
+        "revenue": "500-1000M",
+        "yearFounded": 2014,
+        "description": "Power your finance, grow your business. Razorpay is India\u2019s first full-stack financial solutions company. We are on a mission to enhance the payment experience of over 300 million end consumers. And in doing so, we aim to enable Indian businesses - big and small - accept payments digitally with minimal effort and maximum ease. Razorpay has grown from being a payment gateway provider to a solutions-driven organization boasting of an extensive products suite to accept and disburse payments as well as raise capital and park money. In a nutshell, we fit into every nook and corner where your business touches money. #OutgrowOrdinary We identify ourselves as disruptors in the digital payments space and our vision is to power the financial ecosystem for other disruptors. Like attracts like and Razorpay actively looks to partner with established companies and startups that have either broken the glass ceiling in their industry or are set to. The Razorpay Product Suite today comprises verticals, along with Payment Gateway, like Payment Links, Payment Pages, Subscriptions, Smart Collect, Route, Razorpay Capital, RazorpayX, Payroll and Thirdwatch. Razorpay was started in 2014 by two IIT Roorkee alumni, Harshil Mathur and Shashank Kumar. Just a short few years later, Razorpay has evolved into a 800-odd strong organization with some of the best talents in the country helping some of the best companies manage their money movement seamlessly. Certified cool We are a bunch of spirited, ambitious and fun folks. And no, we\u2019re not saying this ourselves--leading institutions have recognized Razorpay for the high trust and high-performance culture that we maintain. Our strength lies in the people we are and we go to great lengths to nurture a family of coders, designers, sellers, marketers, analysts, writers, runners, photographers, gamers, tinkerers, and above all, people who are dreamers and doers at the same time. Be a part of our exciting journey.",
+        "logo": "https://cdn.ocean.io/logos/razorpay.com/67c8782dfe783a6ea4bc0934bf42db4101460da5.png",
+        "technologies": [
+          "Google Tag Manager",
+          "React",
+          "Amplitude",
+          "Segment",
+          "Microsoft Clarity",
+          "web-vitals",
+          "Priority Hints",
+          "Quora Pixel",
+          "CleverTap",
+          "Framer Sites",
+          "YouTube",
+          "Linkedin Insight Tag",
+          "Sentry",
+          "Prototype",
+          "Criteo",
+          "Amazon Web Services",
+          "Google Analytics",
+          "HSTS",
+          "HTTP/2",
+          "reCAPTCHA",
+          "Amazon CloudFront",
+          "Google Font API",
+          "Razorpay",
+          "styled-components",
+          "Loadable-Components",
+          "WooCommerce",
+          "Facebook Pixel"
+        ],
+        "technologyCategories": [
+          "Ecommerce",
+          "Analytics",
+          "JavaScript frameworks",
+          "Issue trackers",
+          "Video players",
+          "Security",
+          "Font scripts",
+          "Miscellaneous",
+          "CDN",
+          "Marketing automation",
+          "Advertising",
+          "Payment processors",
+          "Tag managers",
+          "Development",
+          "Page builders",
+          "JavaScript libraries",
+          "PaaS",
+          "Retargeting",
+          "RUM",
+          "WordPress plugins",
+          "Performance",
+          "Customer data platform"
+        ],
+        "mobileApps": [
+          {
+            "link": "https://apps.apple.com/app/id1542911810",
+            "name": "RazorpayX"
+          }
+        ],
+        "webTraffic": {
+          "visits": 20600000,
+          "pageViews": 66744000,
+          "pagesPerVisit": 3.240000009536743,
+          "bounceRate": 0.536
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/razorpay",
+            "handle": "razorpay",
+            "name": "Razorpay",
+            "specialties": [
+              "banking services",
+              "e-commerce fraud detection",
+              "financial products",
+              "neobanking",
+              "payment processing",
+              "payout processing",
+              "payroll processing",
+              "working capital loans"
+            ]
+          },
+          "twitter": {
+            "url": "https://x.com/razorpay",
+            "handle": "razorpay"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/Razorpay/",
+            "handle": "razorpay"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/razorpay/",
+            "handle": "razorpay"
+          }
+        },
+        "name": "Razorpay",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 12.97679328918457,
+            "longitude": 77.59008026123047,
+            "country": "in",
+            "locality": "Bengaluru",
+            "region": "Karnataka",
+            "postalCode": "560030",
+            "streetAddress": "1st Floor, SJR Cyber, 22,, Laskar Hosur Road, Adugodi,",
+            "regionCode": "KA"
+          },
+          {
+            "latitude": 28.613895416259766,
+            "longitude": 77.2090072631836,
+            "country": "in",
+            "locality": "New Delhi",
+            "postalCode": "110051",
+            "regionCode": "DL"
+          },
+          {
+            "latitude": 19.059518814086914,
+            "longitude": 83.82489013671875,
+            "country": "in",
+            "locality": "Bhubaneswar Municipal Corporation",
+            "region": "Odisha",
+            "postalCode": "751003",
+            "streetAddress": "LIG 222, Housing board colony",
+            "regionCode": "OD"
+          },
+          {
+            "latitude": 18.503889083862305,
+            "longitude": 73.80767059326172,
+            "country": "in",
+            "locality": "Pune",
+            "region": "Maharashtra",
+            "postalCode": "411038",
+            "streetAddress": "Kothrud",
+            "regionCode": "MH"
+          },
+          {
+            "latitude": 12.915575981140137,
+            "longitude": 77.6323471069336,
+            "country": "in",
+            "locality": "Bengaluru South",
+            "region": "Karnataka",
+            "postalCode": "560102",
+            "streetAddress": "5th Main Road",
+            "regionCode": "KA"
+          },
+          {
+            "latitude": 23.2230224609375,
+            "longitude": 79.9825668334961,
+            "country": "in",
+            "locality": "Jabalpur",
+            "region": "Madhya Pradesh",
+            "postalCode": "482002",
+            "streetAddress": "Flat No. 207 Vijayshree Tower, Ekta Nagar",
+            "regionCode": "MP"
+          },
+          {
+            "latitude": 20.385255813598633,
+            "longitude": 78.1180419921875,
+            "country": "in",
+            "locality": "Yavatmal",
+            "region": "Maharashtra",
+            "postalCode": "445001",
+            "regionCode": "MH"
+          },
+          {
+            "latitude": 1.2899590730667114,
+            "longitude": 103.84001159667969,
+            "country": "sg",
+            "locality": "Singapore",
+            "region": "Central",
+            "regionCode": "01"
+          },
+          {
+            "latitude": 20.31941032409668,
+            "longitude": 85.8282699584961,
+            "country": "in",
+            "locality": "Bhubaneswar"
+          },
+          {
+            "latitude": 25.644084930419922,
+            "longitude": 85.90650939941406,
+            "country": "in",
+            "locality": "vaishali",
+            "region": "Bihar",
+            "regionCode": "BR"
+          },
+          {
+            "latitude": 12.929333686828613,
+            "longitude": 77.60456848144531,
+            "country": "in",
+            "locality": "Bangalore",
+            "region": "Karnataka",
+            "postalCode": "560029",
+            "regionCode": "KA"
+          },
+          {
+            "latitude": 25.575572967529297,
+            "longitude": 85.05801391601562,
+            "country": "in",
+            "locality": "Sheohar/Ludhiana",
+            "region": "Bihar",
+            "postalCode": "843329/141003",
+            "regionCode": "BR"
+          },
+          {
+            "latitude": 25.60024070739746,
+            "longitude": 77.98486328125,
+            "country": "in",
+            "locality": "Maujpur",
+            "region": "Madhya Pradesh",
+            "postalCode": "110053",
+            "streetAddress": "201/6",
+            "regionCode": "MP"
+          },
+          {
+            "latitude": 28.468852996826172,
+            "longitude": 77.03762817382812,
+            "country": "in",
+            "locality": "Gurgaon",
+            "region": "Haryana",
+            "postalCode": "122001",
+            "regionCode": "HR"
+          },
+          {
+            "latitude": 12.942951202392578,
+            "longitude": 77.60787200927734,
+            "country": "in",
+            "locality": "Bengaluru",
+            "region": "Karnataka",
+            "postalCode": "560030",
+            "streetAddress": "Hosur Road",
+            "regionCode": "KA"
+          },
+          {
+            "latitude": 15.977214813232422,
+            "longitude": 75.33283996582031,
+            "country": "in",
+            "locality": "Mumbai"
+          },
+          {
+            "latitude": 25.79076385498047,
+            "longitude": -80.14081573486328,
+            "country": "us",
+            "locality": "Miami Beach",
+            "region": "Florida",
+            "postalCode": "33139",
+            "streetAddress": "Lincoln Road  1111",
+            "regionCode": "FL"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 168
+          },
+          {
+            "department": "Board",
+            "size": 2
+          },
+          {
+            "department": "Business Support",
+            "size": 231
+          },
+          {
+            "department": "Customer Relations",
+            "size": 176
+          },
+          {
+            "department": "Design",
+            "size": 74
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 11
+          },
+          {
+            "department": "Engineering",
+            "size": 323
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 15
+          },
+          {
+            "department": "Healthcare",
+            "size": 4
+          },
+          {
+            "department": "HR",
+            "size": 77
+          },
+          {
+            "department": "Legal",
+            "size": 20
+          },
+          {
+            "department": "Management",
+            "size": 457
+          },
+          {
+            "department": "Manufacturing",
+            "size": 6
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 75
+          },
+          {
+            "department": "Operations",
+            "size": 518
+          },
+          {
+            "department": "Other",
+            "size": 310
+          },
+          {
+            "department": "PR and Communications",
+            "size": 16
+          },
+          {
+            "department": "Procurement",
+            "size": 6
+          },
+          {
+            "department": "Product",
+            "size": 268
+          },
+          {
+            "department": "Quality Control",
+            "size": 41
+          },
+          {
+            "department": "R&D",
+            "size": 817
+          },
+          {
+            "department": "Sales",
+            "size": 143
+          },
+          {
+            "department": "Security",
+            "size": 20
+          },
+          {
+            "department": "Supply Chain",
+            "size": 11
+          }
+        ],
+        "rootUrl": "https://razorpay.com/",
+        "fundingRound": {
+          "date": "2022-05-09T00:00:00+02:00",
+          "type": "Secondary Market",
+          "moneyRaisedInUsd": 75067368
+        },
+        "updatedAt": "2026-01-31T14:17:55+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "cashfree.com",
+        "countries": [
+          "by",
+          "in"
+        ],
+        "primaryCountry": "in",
+        "companySize": "501-1000",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "ecommerce": true,
+        "keywords": [
+          "api banking",
+          "entrepreneur",
+          "escrow account",
+          "fintech",
+          "growth",
+          "imps",
+          "innovation",
+          "internet banking",
+          "invoicing",
+          "maketplace settlements",
+          "marketplace settlements",
+          "neft",
+          "online business",
+          "payment gateway",
+          "payments",
+          "payouts",
+          "rtgs",
+          "startups",
+          "technology",
+          "upi",
+          "upi autopay",
+          "y combinator",
+          "business payment",
+          "shopify payment",
+          "business profile",
+          "business documents",
+          "business requirement",
+          "customized checkout",
+          "customize checkout",
+          "shopify",
+          "checkout experience",
+          "payment options",
+          "payments infrastructure",
+          "running business",
+          "payment collection",
+          "customer",
+          "set-up fee",
+          "business",
+          "customer stories",
+          "intelligent checkout",
+          "payment modes",
+          "business operations",
+          "payments merchants",
+          "transaction matters",
+          "online brand",
+          "customers",
+          "collect payments",
+          "payment expert",
+          "paytm",
+          "payment links",
+          "paypal",
+          "account",
+          "developer guide",
+          "accounts served",
+          "checkout",
+          "google pay",
+          "payment gateways",
+          "preferred payment",
+          "accounts",
+          "accept payments",
+          "banking product",
+          "sdks offered",
+          "transaction",
+          "company",
+          "payment",
+          "automated",
+          "set-up",
+          "send payouts",
+          "customer onboarding",
+          "product features",
+          "online",
+          "developers",
+          "manage international",
+          "bank accounts",
+          "pay",
+          "studio",
+          "amazon pay",
+          "developer",
+          "embedded payments",
+          "bank",
+          "merchants",
+          "platforms",
+          "test api",
+          "sdks",
+          "automated whatsapp",
+          "superfast checkout",
+          "international payments",
+          "options",
+          "activate",
+          "wallet",
+          "test environment",
+          "api credentials",
+          "instant refunds",
+          "industry standard",
+          "banking",
+          "industry",
+          "product",
+          "manage",
+          "share payment",
+          "brand",
+          "logos",
+          "postpaid",
+          "major platforms",
+          "collect",
+          "fee",
+          "program",
+          "infrastructure",
+          "launch",
+          "start accepting",
+          "requirement",
+          "credentials",
+          "integrate quickly",
+          "verification"
+        ],
+        "employeeCountOcean": 774,
+        "employeeCountLinkedin": 901,
+        "revenue": "100-500M",
+        "yearFounded": 2015,
+        "description": "At Cashfree Payments, we\u2019re not just shaping the future of payments - we\u2019re moving fast to help scale businesses of all sizes at different stages of their growth journeys. Founded in 2015, we process transactions worth $80B annually and are trusted by more than 800,000 businesses. Authorised by the Reserve Bank of India, we are one of the first entities to receive critical licences like PA-PG, PA-CB and PPI in the sector. We enable seamless collections, payouts, identity verification, and fraud detection. We are backed by Silicon Valley investor Y Combinator, Apis Partners, KRAFTON Inc, State Bank of India (SBI), and were incubated by PayPal.",
+        "emails": [
+          "care@cashfree.com",
+          "developer@cashfree.com",
+          "dispute@cashfree.com"
+        ],
+        "phones": [
+          {
+            "number": "+91 99999 99999",
+            "country": "in",
+            "primary": true
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/cashfree.com/94e2e06395de2a9ebb678050060ef61625b90b43.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Shopify",
+          "PrestaShop",
+          "PayPal",
+          "Svelte",
+          "SvelteKit",
+          "Cart Functionality",
+          "WHMCS",
+          "Priority Hints",
+          "Gatsby",
+          "MySQL",
+          "Linkedin Insight Tag",
+          "cdnjs",
+          "KaTeX",
+          "HSTS",
+          "Amazon CloudFront",
+          "Bootstrap",
+          "RequireJS",
+          "Amazon Pay",
+          "Emotion",
+          "Amazon S3",
+          "Amazon Web Services",
+          "Branch",
+          "VWO",
+          "React Bricks",
+          "Microsoft Advertising",
+          "Vite",
+          "Microsoft Clarity",
+          "Webpack",
+          "Animate.css",
+          "Next.js",
+          "Vercel",
+          "Quora Pixel",
+          "Highlight.js",
+          "Framer Sites",
+          "YouTube",
+          "WooCommerce",
+          "RSS",
+          "Node.js",
+          "PHP",
+          "Criteo",
+          "Google Analytics",
+          "Cloudflare",
+          "Cloudflare Browser Insights",
+          "Apple Pay",
+          "Wistia",
+          "jsDelivr",
+          "Google Font API",
+          "Razorpay",
+          "PostHog",
+          "Twitter Ads",
+          "React",
+          "Facebook Pixel"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Ecommerce",
+          "Analytics",
+          "JavaScript frameworks",
+          "Video players",
+          "Security",
+          "Font scripts",
+          "Web frameworks",
+          "Miscellaneous",
+          "Web servers",
+          "JavaScript graphics",
+          "Programming languages",
+          "CDN",
+          "Marketing automation",
+          "Databases",
+          "Advertising",
+          "Payment processors",
+          "Tag managers",
+          "Development",
+          "Page builders",
+          "Static site generator",
+          "JavaScript libraries",
+          "PaaS",
+          "UI frameworks",
+          "A/B Testing",
+          "Retargeting",
+          "RUM",
+          "WordPress plugins",
+          "Performance"
+        ],
+        "mobileApps": [
+          {
+            "link": "https://play.google.com/store/apps/details?id=com.cashfree.merchant",
+            "name": "Cashfree Merchant Dashboard"
+          }
+        ],
+        "webTraffic": {
+          "visits": 6300000,
+          "pageViews": 26838001,
+          "pagesPerVisit": 4.260000228881836,
+          "bounceRate": 0.3787
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/cashfree",
+            "handle": "cashfree",
+            "name": "Cashfree Payments",
+            "specialties": [
+              "api banking",
+              "entrepreneur",
+              "escrow account",
+              "fintech",
+              "growth",
+              "imps",
+              "innovation",
+              "internet banking",
+              "invoicing",
+              "maketplace settlements",
+              "marketplace settlements",
+              "neft",
+              "online business",
+              "payment gateway",
+              "payments",
+              "payouts",
+              "rtgs",
+              "startups",
+              "technology",
+              "upi",
+              "upi autopay",
+              "y combinator"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/gocashfree",
+            "handle": "gocashfree"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/channel/UCX06yVYIREbM4lMRwVi_6Aw",
+            "handle": "ucx06yvyirebm4lmrwvi_6aw"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/cashfreepayments/",
+            "handle": "cashfreepayments"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/cashfree.payments/",
+            "handle": "cashfree.payments"
+          }
+        },
+        "name": "Cashfree Payments",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 12.97679328918457,
+            "longitude": 77.59008026123047,
+            "country": "in",
+            "locality": "Bengaluru",
+            "region": "Karnataka",
+            "postalCode": "560034",
+            "streetAddress": "612 4th Floor 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka",
+            "regionCode": "KA"
+          },
+          {
+            "latitude": 12.953997611999512,
+            "longitude": 77.63094329833984,
+            "country": "in",
+            "locality": "Bengaluru"
+          },
+          {
+            "latitude": 53.90247344970703,
+            "longitude": 27.56182289123535,
+            "country": "by",
+            "locality": "Minsk",
+            "region": "Minsk",
+            "postalCode": "220002",
+            "regionCode": "HM"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 21
+          },
+          {
+            "department": "Business Support",
+            "size": 36
+          },
+          {
+            "department": "Customer Relations",
+            "size": 26
+          },
+          {
+            "department": "Design",
+            "size": 16
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 3
+          },
+          {
+            "department": "Engineering",
+            "size": 42
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 4
+          },
+          {
+            "department": "HR",
+            "size": 19
+          },
+          {
+            "department": "Legal",
+            "size": 4
+          },
+          {
+            "department": "Management",
+            "size": 167
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 30
+          },
+          {
+            "department": "Operations",
+            "size": 87
+          },
+          {
+            "department": "Other",
+            "size": 111
+          },
+          {
+            "department": "PR and Communications",
+            "size": 4
+          },
+          {
+            "department": "Product",
+            "size": 52
+          },
+          {
+            "department": "Quality Control",
+            "size": 4
+          },
+          {
+            "department": "R&D",
+            "size": 129
+          },
+          {
+            "department": "Sales",
+            "size": 29
+          },
+          {
+            "department": "Security",
+            "size": 5
+          }
+        ],
+        "rootUrl": "https://www.cashfree.com/",
+        "updatedAt": "2026-01-23T18:55:29+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "adyen.com",
+        "countries": [
+          "au",
+          "be",
+          "br",
+          "ca",
+          "cn",
+          "de",
+          "es",
+          "fr",
+          "gb",
+          "it",
+          "jp",
+          "mx",
+          "nl",
+          "se",
+          "sg",
+          "us"
+        ],
+        "primaryCountry": "nl",
+        "companySize": "1001-5000",
+        "industryCategories": [
+          "Financial Services",
+          "Payments",
+          "Software",
+          "Mobile"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Payments",
+          "Transaction Processing",
+          "Mobile Payments",
+          "Software"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "ecommerce": true,
+        "keywords": [
+          "card payments",
+          "card terminals",
+          "checkout",
+          "compliance",
+          "ecommerce",
+          "financial technology platform",
+          "fintech",
+          "global acquiring",
+          "merchant services",
+          "mobile payments",
+          "online payment gateway",
+          "online payment processing",
+          "online payment service",
+          "online payment solution",
+          "online payment system",
+          "payment service provider",
+          "point-of-sale payments",
+          "risk management",
+          "digital businesses",
+          "payment platform",
+          "explore payment",
+          "digital transformation",
+          "provide customer-friendly",
+          "customer experiences",
+          "customer-friendly",
+          "digital",
+          "offline payment",
+          "technology platform",
+          "online",
+          "financial technology",
+          "connect online",
+          "virtual payment",
+          "in-store payment",
+          "payments system",
+          "payment methods",
+          "payment solutions",
+          "business model",
+          "technology partner",
+          "real transactions",
+          "payment data",
+          "integrated payments",
+          "data ecosystem",
+          "omnichannel businesses",
+          "custom payment",
+          "learning technology",
+          "flexible buying",
+          "customer-friendly authentication",
+          "personal data",
+          "customer",
+          "payment cards",
+          "increase automation",
+          "platforms",
+          "end-to-end payments",
+          "optimize",
+          "technology",
+          "superior customer",
+          "customers",
+          "banking infrastructure",
+          "supported payment",
+          "reveals opportunities",
+          "opportunities",
+          "provide integrated",
+          "buying journeys",
+          "offline",
+          "transparent pay-as-you-go",
+          "in-store",
+          "customers' behaviour",
+          "cross-channel insights",
+          "business",
+          "seamless payments",
+          "businesses",
+          "process payments",
+          "marketplaces",
+          "settle payments",
+          "managing risk",
+          "payout users",
+          "payment",
+          "transactions",
+          "single platform",
+          "offering",
+          "accept payments",
+          "customers pay",
+          "data",
+          "manage spending",
+          "pay-as-you-go pricing",
+          "infrastructure",
+          "ebay",
+          "in-app",
+          "provider",
+          "pay-as-you-go",
+          "transaction",
+          "automation",
+          "financial management",
+          "protect revenue",
+          "manage fraud",
+          "users faster",
+          "global payment",
+          "optimize conversion",
+          "connect",
+          "users",
+          "impacting real",
+          "explore",
+          "platform",
+          "system",
+          "payments",
+          "financial products",
+          "experience",
+          "manage",
+          "finances",
+          "buying",
+          "send funds",
+          "brands realize",
+          "model",
+          "postal",
+          "information",
+          "sale setup",
+          "ambitions faster",
+          "managing"
+        ],
+        "employeeCountOcean": 5123,
+        "employeeCountLinkedin": 5401,
+        "revenue": "500-1000M",
+        "yearFounded": 2006,
+        "description": "Adyen (AMS: ADYEN) is the financial technology platform of choice for leading companies. By providing end-to-end payments capabilities, data-driven insights, and financial products in a single global solution, Adyen helps businesses achieve their ambitions faster. With offices around the world, Adyen works with the likes of Meta, Uber, H&M, eBay, and Microsoft. For support visit: https://support.adyen.com",
+        "emails": [
+          "sales@adyen.com",
+          "germany@adyen.com"
+        ],
+        "phones": [
+          {
+            "number": "+31 85 888 8138",
+            "country": "nl",
+            "primary": true
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/adyen.com/9ebc3a64325c23d7bb90c1ec1f388fca8249cc9e.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Afterpay",
+          "Vue.js",
+          "Shopify",
+          "PrestaShop",
+          "PayPal",
+          "Priority Hints",
+          "Paysafe",
+          "Reddit",
+          "Reddit Ads",
+          "OneTrust",
+          "Catch",
+          "MySQL",
+          "Unpkg",
+          "phpRS",
+          "HSTS",
+          "HTTP/2",
+          "reCAPTCHA",
+          "Convert",
+          "Optimizely",
+          "Python",
+          "Netlify",
+          "web-vitals",
+          "RSS",
+          "Node.js",
+          "Vimeo",
+          "PHP",
+          "Google Analytics",
+          "jQuery",
+          "Nuxt.js",
+          "Raptor",
+          "Apple Pay",
+          "Java",
+          "Frontify",
+          "SAP Commerce Cloud",
+          "Moment.js",
+          "Twitter Flight"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Message boards",
+          "Ecommerce",
+          "Analytics",
+          "JavaScript frameworks",
+          "Video players",
+          "Security",
+          "Web frameworks",
+          "Miscellaneous",
+          "Web servers",
+          "Programming languages",
+          "CDN",
+          "Databases",
+          "Advertising",
+          "Payment processors",
+          "Tag managers",
+          "Static site generator",
+          "JavaScript libraries",
+          "PaaS",
+          "Cookie compliance",
+          "A/B Testing",
+          "Personalisation",
+          "RUM",
+          "Buy now pay later",
+          "Performance",
+          "Digital asset management"
+        ],
+        "mobileApps": [
+          {
+            "link": "https://play.google.com/store/apps/details?id=com.adyen.ui",
+            "name": "Adyen"
+          }
+        ],
+        "webTraffic": {
+          "visits": 35700000,
+          "pageViews": 86394002,
+          "pagesPerVisit": 2.4200000762939453,
+          "bounceRate": 0.4443
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/adyen",
+            "handle": "adyen",
+            "name": "Adyen",
+            "specialties": [
+              "card payments",
+              "card terminals",
+              "checkout",
+              "compliance",
+              "ecommerce",
+              "financial technology platform",
+              "fintech",
+              "global acquiring",
+              "merchant services",
+              "mobile payments",
+              "online payment gateway",
+              "online payment processing",
+              "online payment service",
+              "online payment solution",
+              "online payment system",
+              "payment service provider",
+              "point-of-sale payments",
+              "risk management"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/Adyen",
+            "handle": "adyen"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/AdyenPayments/",
+            "handle": "adyenpayments"
+          },
+          "xing": {
+            "url": "https://www.xing.com/companies/adyen",
+            "handle": "adyen"
+          }
+        },
+        "name": "Adyen",
+        "legalName": "Adyen N.V.",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 52.38222885131836,
+            "longitude": 5.256828308105469,
+            "country": "nl",
+            "locality": "Amsterdam",
+            "region": "North Holland",
+            "postalCode": "1011 DJ",
+            "streetAddress": "Simon Carmiggeltstraat  6",
+            "regionCode": "NH"
+          },
+          {
+            "latitude": 52.375999450683594,
+            "longitude": 4.90500020980835,
+            "country": "nl",
+            "locality": "Amsterdam",
+            "region": "Noord-Holland|Amsterdam",
+            "postalCode": "1011 Dj",
+            "streetAddress": "Simon Carmiggeltstraat 6 5e etage"
+          },
+          {
+            "latitude": 59.33323669433594,
+            "longitude": 18.053850173950195,
+            "country": "se",
+            "locality": "Stockholm",
+            "postalCode": "111 22",
+            "streetAddress": "Kungsbron 16",
+            "regionCode": "AB"
+          },
+          {
+            "latitude": 52.51173400878906,
+            "longitude": 13.389833450317383,
+            "country": "de",
+            "locality": "Berlin",
+            "postalCode": "10117",
+            "streetAddress": "Friedrichstra\u00dfe 63",
+            "regionCode": "BE"
+          },
+          {
+            "latitude": 40.435420989990234,
+            "longitude": -3.6895294189453125,
+            "country": "es",
+            "locality": "Madrid",
+            "postalCode": "28046",
+            "streetAddress": "Paseo de la Castellana, 43",
+            "regionCode": "MD"
+          },
+          {
+            "latitude": -37.81064987182617,
+            "longitude": 144.9703826904297,
+            "country": "au",
+            "locality": "Melbourne",
+            "postalCode": "3000",
+            "streetAddress": "222 Exhibition St",
+            "regionCode": "VIC"
+          },
+          {
+            "latitude": 22.278379440307617,
+            "longitude": 114.17008972167969,
+            "country": "cn",
+            "locality": "Hong Kong",
+            "postalCode": "33 Lockhart Rd",
+            "streetAddress": "Hong Kong",
+            "regionCode": "HK"
+          },
+          {
+            "latitude": 45.47789001464844,
+            "longitude": 9.21290111541748,
+            "country": "it",
+            "locality": "Milan",
+            "postalCode": "2120121",
+            "streetAddress": "Bastioni di Porta Nuova 21",
+            "regionCode": "MI"
+          },
+          {
+            "latitude": 48.87363052368164,
+            "longitude": 2.3284568786621094,
+            "country": "fr",
+            "locality": "Paris",
+            "postalCode": "75009",
+            "streetAddress": "6-8, Boulevard Haussmann",
+            "regionCode": "IDF"
+          },
+          {
+            "latitude": 50.00067901611328,
+            "longitude": -86.0009765625,
+            "country": "ca",
+            "locality": "Toronto",
+            "postalCode": "ON M5V 2C5",
+            "streetAddress": "240 Richmond St W",
+            "regionCode": "ON"
+          },
+          {
+            "latitude": 50.8465576171875,
+            "longitude": 4.351696968078613,
+            "country": "be",
+            "locality": "Brussels",
+            "postalCode": "1050",
+            "streetAddress": "Avenue Arnaud Fraiteur 15-23",
+            "regionCode": "BRU"
+          },
+          {
+            "latitude": -33.88729476928711,
+            "longitude": 151.2122039794922,
+            "country": "au",
+            "locality": "Sydney",
+            "postalCode": "2010",
+            "streetAddress": "255 Riley St",
+            "regionCode": "NSW"
+          },
+          {
+            "latitude": 40.73680877685547,
+            "longitude": -73.9916763305664,
+            "country": "us",
+            "locality": "New York City",
+            "postalCode": "NY 10003",
+            "streetAddress": "18 East 16th St., 7th Floor",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": -23.623416900634766,
+            "longitude": -46.698543548583984,
+            "country": "br",
+            "locality": "S\u00e3o Paulo",
+            "postalCode": "04707-900",
+            "streetAddress": "Av. Roque Petroni Jr. 1089",
+            "regionCode": "SP"
+          },
+          {
+            "latitude": 19.427947998046875,
+            "longitude": -99.15882873535156,
+            "country": "mx",
+            "locality": "Mexico City",
+            "postalCode": "06600",
+            "streetAddress": "Varsovia 36, Oficina 708"
+          },
+          {
+            "latitude": 52.37137222290039,
+            "longitude": 4.893276214599609,
+            "country": "nl",
+            "locality": "Amsterdam",
+            "postalCode": "1012 KK",
+            "streetAddress": "Rokin 49",
+            "regionCode": "NH"
+          },
+          {
+            "latitude": 31.23126983642578,
+            "longitude": 121.47001647949219,
+            "country": "cn",
+            "region": "Shanghai",
+            "regionCode": "SH"
+          },
+          {
+            "latitude": 53.479488372802734,
+            "longitude": -2.245114803314209,
+            "country": "gb",
+            "locality": "Manchester",
+            "region": "Manchester, England",
+            "regionCode": "MAN"
+          },
+          {
+            "latitude": 37.788734436035156,
+            "longitude": -122.40347290039062,
+            "country": "us",
+            "locality": "San Francisco",
+            "region": "California",
+            "postalCode": "94104",
+            "streetAddress": "Kearny Street  88",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 52.37453842163086,
+            "longitude": 4.897975444793701,
+            "country": "nl",
+            "locality": "Amsterdam",
+            "region": "North Holland",
+            "postalCode": "1011 DJ",
+            "streetAddress": "Simon Carmiggeltstraat 6-50, 5th Floor",
+            "regionCode": "NH"
+          },
+          {
+            "latitude": 41.88507080078125,
+            "longitude": -87.64804077148438,
+            "country": "us",
+            "locality": "Chicago",
+            "region": "Illinois",
+            "postalCode": "60607",
+            "streetAddress": "North Green Street  167",
+            "regionCode": "IL"
+          },
+          {
+            "latitude": 35.671875,
+            "longitude": 139.71812438964844,
+            "country": "jp",
+            "locality": "Minato",
+            "postalCode": "160-0013",
+            "streetAddress": "3-6-7 Kitaaoyama"
+          },
+          {
+            "latitude": 31.232343673706055,
+            "longitude": 121.46910095214844,
+            "country": "cn",
+            "locality": "Shanghai",
+            "region": "Shanghai",
+            "postalCode": "200001",
+            "streetAddress": "#04-116, 819 Nanjing West Road",
+            "regionCode": "SH"
+          },
+          {
+            "latitude": 53.477622985839844,
+            "longitude": -2.2543890476226807,
+            "country": "gb",
+            "locality": "Manchester",
+            "region": "Manchester, England",
+            "postalCode": "M3 4AP",
+            "streetAddress": "Lower Byrom Street  18",
+            "regionCode": "MAN"
+          },
+          {
+            "latitude": 51.55392074584961,
+            "longitude": -0.28992190957069397,
+            "country": "gb",
+            "locality": "London",
+            "region": "England",
+            "postalCode": "HA9 6AR",
+            "streetAddress": "High Road Wembley  388",
+            "regionCode": "ENG"
+          },
+          {
+            "latitude": 1.2899174690246582,
+            "longitude": 103.8519058227539,
+            "country": "sg",
+            "locality": "Singapore",
+            "postalCode": "049910",
+            "streetAddress": "11-12th floor"
+          },
+          {
+            "latitude": 37.777706146240234,
+            "longitude": -122.39688110351562,
+            "country": "us",
+            "locality": "San Francisco",
+            "region": "California",
+            "postalCode": "94107",
+            "streetAddress": "Brannan Street  505",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 48.869354248046875,
+            "longitude": 2.325653553009033,
+            "country": "fr",
+            "locality": "Paris",
+            "region": "Paris, Ile-de-France",
+            "postalCode": "75001",
+            "streetAddress": "Boulevard de la Madeleine  21",
+            "regionCode": "IDF"
+          },
+          {
+            "latitude": 48.38749694824219,
+            "longitude": 4.524364471435547,
+            "country": "fr",
+            "locality": "Brienne-le-Ch\u00e2teau",
+            "region": "Aube, Grand Est",
+            "postalCode": "10500",
+            "streetAddress": "Rue Julien Regnier",
+            "regionCode": "GES"
+          },
+          {
+            "latitude": 52.523399353027344,
+            "longitude": 13.402132034301758,
+            "country": "de",
+            "locality": "Berlin",
+            "region": "Berlin",
+            "postalCode": "10178",
+            "streetAddress": "Hackescher Markt  4",
+            "regionCode": "BE"
+          },
+          {
+            "latitude": 50.81747817993164,
+            "longitude": 4.395954132080078,
+            "country": "be",
+            "locality": "Brussels",
+            "postalCode": "1050",
+            "streetAddress": "Av. Arnaud Fraiteur 15"
+          },
+          {
+            "latitude": 45.48004150390625,
+            "longitude": 9.188119888305664,
+            "country": "it",
+            "locality": "Milan",
+            "postalCode": "20121",
+            "streetAddress": "Bastioni di Porta Nuova, 21"
+          },
+          {
+            "latitude": 48.8724479675293,
+            "longitude": 2.3388659954071045,
+            "country": "fr",
+            "locality": "Paris",
+            "postalCode": "75009",
+            "streetAddress": "6-8 Bd Haussmann"
+          },
+          {
+            "latitude": 43.649715423583984,
+            "longitude": -79.38887786865234,
+            "country": "ca",
+            "locality": "Toronto",
+            "streetAddress": "240 Richmond St W"
+          },
+          {
+            "latitude": 19.424646377563477,
+            "longitude": -99.17433166503906,
+            "country": "mx",
+            "locality": "Cuauht\u00e9moc, Mexico City",
+            "postalCode": "06500",
+            "streetAddress": "Av. Paseo de la Reforma 483-48th floor"
+          },
+          {
+            "latitude": 37.77748107910156,
+            "longitude": -122.40457916259766,
+            "country": "us",
+            "locality": "San Francisco",
+            "postalCode": "94107",
+            "streetAddress": "123 Street, Suite 600"
+          },
+          {
+            "latitude": -23.626232147216797,
+            "longitude": -46.68818664550781,
+            "country": "br",
+            "locality": "S\u00e3o Paulo",
+            "postalCode": "04707-000",
+            "streetAddress": "Av. Roque Petroni J\u00fanior, 1089"
+          },
+          {
+            "latitude": 51.522247314453125,
+            "longitude": -0.1146979033946991,
+            "country": "gb",
+            "locality": "London",
+            "postalCode": "Wc1N 2Jg",
+            "streetAddress": "4 Northington St"
+          },
+          {
+            "latitude": -33.8813362121582,
+            "longitude": 151.21327209472656,
+            "country": "au",
+            "locality": "Surry Hills",
+            "postalCode": "2010",
+            "streetAddress": "255 Riley St"
+          },
+          {
+            "latitude": 31.232065200805664,
+            "longitude": 121.47064208984375,
+            "country": "cn",
+            "locality": "Huangpu",
+            "postalCode": "200003",
+            "streetAddress": "Nanjing Rd (W), 288\u53f7\u521b\u5174\u91d1\u878d\u4e2d\u5fc3"
+          },
+          {
+            "latitude": 35.665367126464844,
+            "longitude": 139.71131896972656,
+            "country": "jp",
+            "locality": "Minato City",
+            "postalCode": "107-0061",
+            "streetAddress": "Kitaaoyama, 3 Chome\u22126\u22127 \u9752\u5c71\u30d1\u30e9\u30b7\u30aa\u30bf\u30ef\u30fc 11\u968e"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 306
+          },
+          {
+            "department": "Board",
+            "size": 2
+          },
+          {
+            "department": "Business Support",
+            "size": 414
+          },
+          {
+            "department": "Customer Relations",
+            "size": 632
+          },
+          {
+            "department": "Design",
+            "size": 49
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 21
+          },
+          {
+            "department": "Engineering",
+            "size": 525
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 1
+          },
+          {
+            "department": "Healthcare",
+            "size": 1
+          },
+          {
+            "department": "HR",
+            "size": 178
+          },
+          {
+            "department": "Legal",
+            "size": 43
+          },
+          {
+            "department": "Management",
+            "size": 590
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 139
+          },
+          {
+            "department": "Operations",
+            "size": 277
+          },
+          {
+            "department": "Other",
+            "size": 489
+          },
+          {
+            "department": "PR and Communications",
+            "size": 26
+          },
+          {
+            "department": "Procurement",
+            "size": 17
+          },
+          {
+            "department": "Product",
+            "size": 288
+          },
+          {
+            "department": "Quality Control",
+            "size": 26
+          },
+          {
+            "department": "R&D",
+            "size": 1267
+          },
+          {
+            "department": "Sales",
+            "size": 270
+          },
+          {
+            "department": "Security",
+            "size": 25
+          },
+          {
+            "department": "Supply Chain",
+            "size": 23
+          }
+        ],
+        "rootUrl": "https://www.adyen.com/",
+        "updatedAt": "2026-01-28T18:32:58+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "rapyd.net",
+        "countries": [
+          "gb",
+          "sg",
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "501-1000",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software",
+          "Professional Services"
+        ],
+        "industries": [
+          "Mobile Payments",
+          "Payments",
+          "Financial Services",
+          "FinTech",
+          "Transaction Processing",
+          "Consulting"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "keywords": [
+          "card acquiring",
+          "card issuing",
+          "card payments",
+          "global payments",
+          "global payouts",
+          "multi-currency business accounts",
+          "payment terminals",
+          "acquiring solution",
+          "case study",
+          "payment solutions",
+          "payment solution",
+          "multi-currency business",
+          "card acceptance",
+          "payment processing",
+          "credit card",
+          "industry solutions",
+          "integrate payment",
+          "case",
+          "card",
+          "improve credit",
+          "directly-licensed card",
+          "business",
+          "cases",
+          "turns payments",
+          "payment institution",
+          "accept payments",
+          "complaints policy",
+          "credit",
+          "send payments",
+          "payment",
+          "partner programme",
+          "major payment",
+          "acquiring",
+          "mvb bank",
+          "business accounts",
+          "payments cross-border",
+          "payments",
+          "clients",
+          "commerce",
+          "companies",
+          "money institution",
+          "company",
+          "industries",
+          "fintech work",
+          "financial technology",
+          "fintech company",
+          "creator economy",
+          "industry",
+          "manage",
+          "complaints",
+          "manage funds",
+          "instant payouts",
+          "send payouts",
+          "bank",
+          "merchants",
+          "expertise",
+          "consumer",
+          "selected",
+          "acceptance rates",
+          "solution",
+          "partnership",
+          "online trading",
+          "stablecoin payment",
+          "payouts",
+          "industries worldwide",
+          "uk limited",
+          "financial conduct",
+          "financial",
+          "developers",
+          "limited",
+          "fintech",
+          "solutions",
+          "work partners",
+          "cheaper",
+          "money",
+          "revenue",
+          "contact",
+          "choose",
+          "cashdash uk",
+          "global commerce",
+          "electronic money",
+          "trading",
+          "consumer advisory",
+          "influencer marketing",
+          "accounts"
+        ],
+        "employeeCountOcean": 840,
+        "employeeCountLinkedin": 916,
+        "revenue": "100-500M",
+        "yearFounded": 2016,
+        "description": "Build Bold. Liberate global commerce with all the tools your business needs to create payment, payout and fintech experiences everywhere. Around the world, customers want to pay in a thousand different ways. Businesses and consumers want to get paid faster. And developers want to build new products and possibilities. Rapyd makes it happen, giving you more ways than anyone to make fintech work for your business. With Rapyd, your business can accept and send payments to just about anyone\u2014faster, cheaper and easier. And Rapyd clients see an average of 196% return on investment and spend 70% less time managing payments. Whether you\u2019re building an app, selling a product, sending payments or doing a little of everything, Rapyd has solutions that let you boldly do what you do best. \u2022 Send and receive funds \u2022 Add hundreds of payment methods worldwide \u2022 Issue prepaid virtual and physical cards \u2022 Simplify money management and foreign exchange \u2022 Integrate fintech with APIs",
+        "logo": "https://cdn.ocean.io/logos/rapyd.net/4c893e92c41e63e6d3efaaac4febd70f674ccfcd.png",
+        "technologies": [
+          "Google Tag Manager",
+          "WordPress",
+          "Fastly",
+          "MariaDB",
+          "Lightbox",
+          "Priority Hints",
+          "OneTrust",
+          "Linkedin Ads",
+          "MySQL",
+          "Material Design Lite",
+          "Prototype",
+          "WPML",
+          "Alpine.js",
+          "HSTS",
+          "RequireJS",
+          "UserWay",
+          "Amazon S3",
+          "Amazon Web Services",
+          "HashThemes Total",
+          "New Relic",
+          "Microsoft Clarity",
+          "Varnish",
+          "Yoast SEO",
+          "Webpack",
+          "Animate.css",
+          "Addsearch",
+          "Nginx",
+          "YouTube",
+          "Slick",
+          "RSS",
+          "Vimeo",
+          "PHP",
+          "jQuery",
+          "Cloudflare",
+          "Cloudflare Bot Management",
+          "Google Font API",
+          "Pantheon"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Analytics",
+          "Blogs",
+          "JavaScript frameworks",
+          "Video players",
+          "Security",
+          "Font scripts",
+          "Miscellaneous",
+          "Web servers",
+          "Caching",
+          "Programming languages",
+          "Search engines",
+          "CDN",
+          "Databases",
+          "Advertising",
+          "Tag managers",
+          "SEO",
+          "JavaScript libraries",
+          "PaaS",
+          "Reverse proxies",
+          "UI frameworks",
+          "Cookie compliance",
+          "Accessibility",
+          "RUM",
+          "WordPress themes",
+          "WordPress plugins",
+          "Translation",
+          "Performance"
+        ],
+        "webTraffic": {
+          "visits": 314900,
+          "pageViews": 1344622,
+          "pagesPerVisit": 4.269999980926514,
+          "bounceRate": 0.3333
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/rapydpayments",
+            "handle": "rapydpayments",
+            "name": "Rapyd",
+            "specialties": [
+              "card acquiring",
+              "card issuing",
+              "card payments",
+              "global payments",
+              "global payouts",
+              "multi-currency business accounts",
+              "payment terminals"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/RapydGlobal",
+            "handle": "rapydglobal"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/channel/UCQEgwX9qILl5NAsRULVRZWA",
+            "handle": "ucqegwx9qill5nasrulvrzwa"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/rapydpayments",
+            "handle": "rapydpayments"
+          },
+          "instagram": {
+            "url": "https://www.instagram.com/wearerapyd/",
+            "handle": "wearerapyd"
+          }
+        },
+        "name": "Rapyd",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 37.7950325012207,
+            "longitude": -122.39857482910156,
+            "country": "us",
+            "locality": "San Francisco",
+            "postalCode": "94111",
+            "streetAddress": "2 Embarcadero Ctr"
+          },
+          {
+            "latitude": 51.52118682861328,
+            "longitude": -0.1612991988658905,
+            "country": "gb",
+            "locality": "London",
+            "postalCode": "Nw1 5Pu",
+            "streetAddress": "North West House, 119 Marylebone Rd"
+          },
+          {
+            "latitude": 51.519073486328125,
+            "longitude": -0.18285547196865082,
+            "country": "gb",
+            "locality": "London",
+            "regionCode": "ENG"
+          },
+          {
+            "latitude": 1.278486967086792,
+            "longitude": 103.84168243408203,
+            "country": "sg",
+            "locality": "Singapore",
+            "postalCode": "088849",
+            "streetAddress": "89 Neil Rd"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 95
+          },
+          {
+            "department": "Business Support",
+            "size": 66
+          },
+          {
+            "department": "Customer Relations",
+            "size": 75
+          },
+          {
+            "department": "Design",
+            "size": 5
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 3
+          },
+          {
+            "department": "Engineering",
+            "size": 34
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 2
+          },
+          {
+            "department": "HR",
+            "size": 39
+          },
+          {
+            "department": "Legal",
+            "size": 13
+          },
+          {
+            "department": "Management",
+            "size": 114
+          },
+          {
+            "department": "Manufacturing",
+            "size": 2
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 24
+          },
+          {
+            "department": "Operations",
+            "size": 63
+          },
+          {
+            "department": "Other",
+            "size": 86
+          },
+          {
+            "department": "PR and Communications",
+            "size": 2
+          },
+          {
+            "department": "Procurement",
+            "size": 1
+          },
+          {
+            "department": "Product",
+            "size": 35
+          },
+          {
+            "department": "Quality Control",
+            "size": 17
+          },
+          {
+            "department": "R&D",
+            "size": 177
+          },
+          {
+            "department": "Sales",
+            "size": 45
+          },
+          {
+            "department": "Security",
+            "size": 13
+          },
+          {
+            "department": "Supply Chain",
+            "size": 7
+          }
+        ],
+        "rootUrl": "https://www.rapyd.net",
+        "fundingRound": {
+          "date": "2021-08-03T00:00:00+02:00",
+          "type": "Series E",
+          "moneyRaisedInUsd": 300000000
+        },
+        "updatedAt": "2026-03-06T09:06:24+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "wepay.com",
+        "countries": [
+          "gb",
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "51-200",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software",
+          "Lending and Investments",
+          "Commerce and Shopping"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing",
+          "Credit Cards",
+          "Point of Sale"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "keywords": [
+          "payment facilitator",
+          "payment gateway",
+          "payment facilitators",
+          "payment solutions",
+          "saas provider",
+          "payments experience",
+          "online payment",
+          "payment methods",
+          "payment processing\u2014and",
+          "integrated payment",
+          "payments online",
+          "accepting payments",
+          "payment process",
+          "accept payments",
+          "integrated payments",
+          "payment processing",
+          "full-blown payment",
+          "payments leader",
+          "payment",
+          "payments\u2014quickly",
+          "payments quickly",
+          "monetizing payments\u2014quickly",
+          "monetizing payments",
+          "payment made",
+          "process payments",
+          "payments",
+          "payments immediately",
+          "large payment",
+          "flexible payouts",
+          "provider",
+          "financial services",
+          "cashflow",
+          "account administrators",
+          "credit",
+          "payouts",
+          "partner portal",
+          "end-to-end financial",
+          "account",
+          "transactions",
+          "bank",
+          "saas",
+          "api designed",
+          "capabilities offering",
+          "offering",
+          "digital servicing",
+          "offering sophisticated",
+          "monetizing",
+          "start monetizing",
+          "comprehensive api",
+          "revenue opportunities",
+          "partner center",
+          "facilitator",
+          "easy-to-integrate apis",
+          "card acceptance",
+          "portal",
+          "referral partners",
+          "account instantly",
+          "end-to-end user",
+          "checkout directly",
+          "services",
+          "enable merchants",
+          "processing services",
+          "apis",
+          "revenue",
+          "customers",
+          "api",
+          "fees",
+          "receive",
+          "processing fees",
+          "user experience",
+          "fraud-less revenue",
+          "financial",
+          "facilitators",
+          "maximize revenue",
+          "platform",
+          "checkout",
+          "partnership",
+          "money",
+          "online",
+          "isvs",
+          "core infrastructure",
+          "servicing",
+          "card",
+          "secure",
+          "start accepting",
+          "complete merchant",
+          "fraud-less",
+          "flexible card",
+          "infrastructure",
+          "gateway",
+          "received",
+          "deposits feature",
+          "refer merchants",
+          "deposits",
+          "best-in-class integrated",
+          "opportunities",
+          "referral",
+          "business model",
+          "merchant center",
+          "easy-to-integrate"
+        ],
+        "employeeCountLinkedin": 19,
+        "revenue": "50-100M",
+        "yearFounded": 2017,
+        "description": "FinPAY is the payments and fintech business of TRILLIONX, a global Marquee brand aggregator group.FinPAY provides payment gateway solutions to online businesses through its cutting-edge and award-winning technology. WePAY has mission to o create a safe and secure ecosystem that enables anybody to make or receive payments, bringing convenience and trust through continuous innovation leveraging technology.",
+        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEo7utTa7srpg/company-logo_400_400/company-logo_400_400/0/1699989248951?e=1777507200&t=GNmKerH-19NlXDQQBq9vQj9PXlNK-is4vQuIaN-20kc&v=beta",
+        "technologies": [
+          "Google Cloud Storage",
+          "Varnish",
+          "Google Cloud"
+        ],
+        "technologyCategories": [
+          "Miscellaneous",
+          "IaaS",
+          "Caching"
+        ],
+        "webTraffic": {
+          "visits": 146200,
+          "pageViews": 678367,
+          "pagesPerVisit": 4.639999866485596,
+          "bounceRate": 0.4007
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/finpay-inc",
+            "handle": "finpay-inc",
+            "name": "FinPay"
+          },
+          "twitter": {
+            "url": "http://twitter.com/wepay",
+            "handle": "wepay"
+          },
+          "facebook": {
+            "url": "http://www.facebook.com/Wepay",
+            "handle": "wepay"
+          }
+        },
+        "name": "WePay",
+        "legalName": "WePay, Inc.",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 40.29867172241211,
+            "longitude": -83.06796264648438,
+            "country": "us",
+            "locality": "Delaware",
+            "region": "Ohio",
+            "postalCode": "43015",
+            "streetAddress": "delaware",
+            "regionCode": "OH"
+          },
+          {
+            "latitude": 51.503055572509766,
+            "longitude": -0.01991666667163372,
+            "country": "gb",
+            "locality": "London",
+            "region": "England|London Inner|London (E)|London E14",
+            "postalCode": "E14 5Jp",
+            "streetAddress": "25 Bank Street"
+          },
+          {
+            "latitude": 37.49391174316406,
+            "longitude": -122.22806549072266,
+            "country": "us",
+            "locality": "Redwood City",
+            "region": "California",
+            "postalCode": "94063",
+            "streetAddress": "350 Convention Way, Suite 200",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 37.486324310302734,
+            "longitude": -122.2325210571289,
+            "country": "us",
+            "locality": "Redwood City",
+            "region": "California",
+            "postalCode": "94063",
+            "streetAddress": "350 Convention Way 200",
+            "regionCode": "CA"
+          }
+        ],
+        "rootUrl": "https://go.wepay.com",
+        "updatedAt": "2026-03-09T03:09:40+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "payer.eu",
+        "countries": [
+          "se"
+        ],
+        "primaryCountry": "se",
+        "companySize": "2-10",
+        "industryCategories": [
+          "Financial Services",
+          "Payments",
+          "Software",
+          "Mobile",
+          "Commerce and Shopping"
+        ],
+        "industries": [
+          "FinTech",
+          "Payments",
+          "Software",
+          "Financial Services",
+          "Mobile Payments",
+          "Transaction Processing",
+          "SaaS",
+          "B2B"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "keywords": [
+          "account receivable",
+          "b2b commerce",
+          "b2b e-handel",
+          "b2b faktura",
+          "b2b invoicing",
+          "b2b payments",
+          "betall\u00f6sningar f\u00f6r e-handel",
+          "betalningar online",
+          "bokf\u00f6ring",
+          "direktbanksbetalningar",
+          "e-faktura",
+          "e-handel",
+          "factoring",
+          "fakturering",
+          "invoice payments",
+          "kortbetalningar",
+          "masterpass",
+          "order-to-cash (o2c) automation",
+          "prenumerationsbetalningar",
+          "swish",
+          "white label",
+          "\u00e5terkommande betalningar",
+          "order-to-cash automation",
+          "automate order-to-cash",
+          "payment method",
+          "payment methods",
+          "payments platform",
+          "powerful order-to-cash",
+          "customer experience",
+          "payment service",
+          "ar automation",
+          "customize payment",
+          "leading automation",
+          "customers choose",
+          "order-to-cash",
+          "customer",
+          "business models",
+          "automation",
+          "cash process",
+          "optimizes management",
+          "customers",
+          "cross-company payments",
+          "payment",
+          "payments consultants",
+          "multiple payment",
+          "automate",
+          "local payment",
+          "payments",
+          "streamline online",
+          "pay",
+          "companies",
+          "business",
+          "suppliers",
+          "card payments",
+          "accounts",
+          "provider",
+          "company",
+          "service provider",
+          "core business",
+          "develop business",
+          "api platform",
+          "finance leaders",
+          "provider providing",
+          "management",
+          "standardised deposit",
+          "reduce admin",
+          "revenue streams",
+          "cash",
+          "customer expectations",
+          "limited suppliers",
+          "optimizes",
+          "cross-company",
+          "revenue",
+          "standardized platform",
+          "digital journey",
+          "business focus",
+          "finance",
+          "cloud-based api",
+          "online",
+          "streamline",
+          "technical leaders",
+          "api",
+          "offering",
+          "costly steps",
+          "invoicing processes",
+          "company number",
+          "deposit",
+          "enabling",
+          "admin",
+          "billing",
+          "consultants",
+          "processes",
+          "digital",
+          "changing market",
+          "service",
+          "process",
+          "models",
+          "commercial leaders",
+          "specialized platform",
+          "entire process"
+        ],
+        "employeeCountOcean": 6,
+        "employeeCountLinkedin": 10,
+        "revenue": "1-10M",
+        "yearFounded": 2024,
+        "description": "Pioneering B2B Invoicing As a leading Nordic fintech company, we've gained the trust of major companies like Volvo, Vasakronan, and Beleco by streamlining invoicing and payment processes, reducing errors, and supporting growth. Payer automates order-to-cash (O2C) processes and the entire accounts receivable workflow, including invoicing, distribution, payment collection, and reconciliation. Our white-label, cloud-based platform saves businesses time and enables new business models in B2B commerce. Many companies are held back by internal legacy systems or outdated external suppliers that rely on manual processes and restrict their ability to meet the invoicing flexibility customers now expect. Payer integrates seamlessly with existing systems, eliminating manual work and empowering businesses to meet customer expectations while tapping into new revenue streams. Don't let outdated systems hold back your growth. With Payer, you're just one API call away from solving your invoicing and payment challenges. Payer is leading the way in B2B invoicing. Som ett ledande nordiskt fintech-f\u00f6retag har vi vunnit f\u00f6rtroendet hos stora f\u00f6retag som Volvo, Vasakronan och Beleco genom att effektivisera faktureringsprocesser, minska fel och st\u00f6dja tillv\u00e4xt. Payer automatiserar order-to-cash (O2C) och kundreskontra, inklusive fakturering, distribution, betalningsinl\u00e4sning, p\u00e5minnelsehantering och avst\u00e4mning. V\u00e5r molnbaserade white-label-plattform sparar tid och m\u00f6jligg\u00f6r nya aff\u00e4rsmodeller inom B2B. M\u00e5nga f\u00f6retag hindras av \u00e4ldre system eller f\u00f6r\u00e5ldrade leverant\u00f6rer som f\u00f6rlitar sig p\u00e5 manuella processer och begr\u00e4nsar deras f\u00f6rm\u00e5ga att m\u00f6ta faktureringskrav. Payer integreras med befintliga system, eliminerar manuellt arbete och g\u00f6r det m\u00f6jligt f\u00f6r f\u00f6retag att m\u00f6ta kundernas f\u00f6rv\u00e4ntningar och n\u00e5 nya int\u00e4ktsstr\u00f6mmar. L\u00e5t inte f\u00f6r\u00e5ldrade system hindra din tillv\u00e4xt. Med Payer \u00e4r du bara ett API-anrop bort fr\u00e5n att l\u00f6sa dina fakturerings- och betalningsutmaningar.",
+        "logo": "https://cdn.ocean.io/logos/payer.eu/53bd10aef2ef6e93029484267408db6d07be5a3d.png",
+        "technologies": [
+          "Google Tag Manager",
+          "WordPress",
+          "CookieYes",
+          "Yoast SEO",
+          "MySQL",
+          "RSS",
+          "LiteSpeed",
+          "PHP",
+          "WPML",
+          "WPMU DEV Smush",
+          "jQuery",
+          "TinyMCE",
+          "jQuery Migrate",
+          "HTTP/3",
+          "Google Font API",
+          "Divi"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Databases",
+          "Cookie compliance",
+          "JavaScript libraries",
+          "Tag managers",
+          "Blogs",
+          "WordPress themes",
+          "Font scripts",
+          "Miscellaneous",
+          "Page builders",
+          "SEO",
+          "WordPress plugins",
+          "Web servers",
+          "Translation",
+          "Programming languages",
+          "Rich text editors"
+        ],
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/payer-b2b-payments",
+            "handle": "payer-b2b-payments",
+            "name": "Payer - B2B Invoicing AND Payments",
+            "specialties": [
+              "account receivable",
+              "b2b commerce",
+              "b2b e-handel",
+              "b2b faktura",
+              "b2b invoicing",
+              "b2b payments",
+              "betall\u00f6sningar f\u00f6r e-handel",
+              "betalningar online",
+              "bokf\u00f6ring",
+              "direktbanksbetalningar",
+              "e-faktura",
+              "e-handel",
+              "factoring",
+              "fakturering",
+              "invoice payments",
+              "kortbetalningar",
+              "masterpass",
+              "order-to-cash (o2c) automation",
+              "prenumerationsbetalningar",
+              "swish",
+              "white label",
+              "\u00e5terkommande betalningar"
+            ]
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/PayerFinancialServicesAB/",
+            "handle": "payerfinancialservicesab"
+          }
+        },
+        "name": "Payer Financial Services AB",
+        "legalName": "Payer Financial Services AB",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 59.317039489746094,
+            "longitude": 18.067962646484375,
+            "country": "se",
+            "locality": "Stockholm",
+            "region": "Stockholms Lan",
+            "postalCode": "11847",
+            "streetAddress": "Kvarngatan",
+            "regionCode": "AB"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Business Support",
+            "size": 1
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 2
+          },
+          {
+            "department": "R&D",
+            "size": 2
+          },
+          {
+            "department": "Sales",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://payer.eu",
+        "updatedAt": "2026-03-09T08:44:20+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "dlocal.com",
+        "countries": [
+          "br",
+          "gb",
+          "il",
+          "mt",
+          "us",
+          "uy"
+        ],
+        "primaryCountry": "us",
+        "companySize": "501-1000",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "keywords": [
+          "africa",
+          "alternative payment methods",
+          "argentina",
+          "asia",
+          "brazil",
+          "card issuing",
+          "chile",
+          "china",
+          "colombia",
+          "ecommerce payments",
+          "egypt",
+          "emerging markets",
+          "fx management",
+          "growth markets",
+          "india",
+          "latin america",
+          "marketplaces",
+          "merchant services",
+          "mexico",
+          "morocco",
+          "online payment services",
+          "online payment system",
+          "payins",
+          "payment gateway",
+          "payment processing",
+          "payment service provider: pay-ins and payouts",
+          "payouts",
+          "peru",
+          "technology",
+          "turkey",
+          "uruguay",
+          "local payments",
+          "local payment",
+          "cross-border payment",
+          "payment infrastructure",
+          "payment methods",
+          "payment operations",
+          "payment experience",
+          "payment process",
+          "payment collection",
+          "payments platform",
+          "seamless payments",
+          "payment solutions",
+          "simplifying payments",
+          "tailored payments",
+          "payment",
+          "all-in-one payment",
+          "funds locally",
+          "bank transfer",
+          "local currency",
+          "global merchants",
+          "payments",
+          "cross-border transfers",
+          "multi-currency support",
+          "cash flow",
+          "transactions",
+          "payment types",
+          "payments handbook",
+          "enabling global",
+          "simplifies transactions",
+          "real-time payments",
+          "demerge nigeria",
+          "global enterprises",
+          "cross-border ecommerce",
+          "nigeria",
+          "travel suppliers",
+          "process payments",
+          "paying",
+          "technology-first payments",
+          "receive funds",
+          "countries",
+          "offering local",
+          "multi-currency",
+          "secure payment",
+          "saas business",
+          "transfers",
+          "travel agency",
+          "usdc",
+          "mobile money",
+          "efficient local",
+          "customer",
+          "instant cash",
+          "seamless global",
+          "currency",
+          "payouts enhances",
+          "bookings",
+          "offer customers",
+          "global flows",
+          "bank",
+          "delivery",
+          "secure transactions",
+          "global",
+          "ecommerce",
+          "central bank",
+          "risk-free settlements",
+          "enhances customer",
+          "accept local",
+          "south africa",
+          "high-growth markets",
+          "real-time payouts",
+          "remittance",
+          "secure global",
+          "pay",
+          "high-growth market",
+          "reducing settlement",
+          "cash",
+          "transfer",
+          "customers",
+          "global expansion",
+          "providers",
+          "money",
+          "locally",
+          "suppliers",
+          "business",
+          "receive",
+          "fund real-time",
+          "merchants",
+          "customer satisfaction",
+          "cross-border",
+          "funds",
+          "market",
+          "multiple providers",
+          "consumers",
+          "markets",
+          "online travel",
+          "enterprises",
+          "food delivery"
+        ],
+        "employeeCountOcean": 1343,
+        "employeeCountLinkedin": 1384,
+        "revenue": "100-500M",
+        "yearFounded": 2016,
+        "description": "dLocal started with one goal \u2013 to close the payments innovation gap between global enterprise companies, and customers in emerging economies. We have over 900 payment methods, in more than 40 countries. We are relentlessly focusing on serving our customers and solidifying our position as the preferred infrastructure solution for Global Merchants across Emerging Markets. With the ability to accept local payment methods and facilitate cross-border fund settlement worldwide, our merchants reach billions of underserved consumers in the high-growth markets of Africa, Asia, and Latin America. dLocal offers the ideal payment solutions for global commerce: Payins: Accept local payment methods Payouts: Compliantly send funds cross-border dLocal for Platforms: Unify your platform\u2019s payment solution Defense Suite: Manage fraud effectively Unlock the power of emerging markets.",
+        "phones": [
+          {
+            "number": "+54 9 11 6000-5317",
+            "country": "ar"
+          },
+          {
+            "number": "+55 800 700 0080",
+            "country": "br"
+          },
+          {
+            "number": "+55 800 700 0006",
+            "country": "br"
+          },
+          {
+            "number": "+55 800 575 0085",
+            "country": "br"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/dlocal.com/44aee9e636b318885439732631147a95a26d045f.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Python",
+          "ReadMe",
+          "Hello Bar",
+          "hCaptcha",
+          "Baidu Analytics (\u767e\u5ea6\u7edf\u8ba1)",
+          "HSTS",
+          "Webpack",
+          "Next.js",
+          "Intercom",
+          "Atlassian Bitbucket",
+          "Stackbit",
+          "Loadable-Components",
+          "YouTube",
+          "Underscore.js",
+          "Dealer Spike",
+          "Node.js",
+          "Auth0",
+          "Prototype",
+          "PHP",
+          "Google Analytics",
+          "Tiny Slider",
+          "Cloudflare",
+          "Didomi",
+          "Cloudflare Browser Insights",
+          "reCAPTCHA",
+          "Friendly Captcha",
+          "Cloudflare Turnstile",
+          "HTTP/3",
+          "RequireJS",
+          "jsDelivr",
+          "Hotjar",
+          "Google Font API",
+          "Render",
+          "Acquire Live Chat",
+          "React"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Documentation",
+          "Widgets",
+          "Analytics",
+          "JavaScript frameworks",
+          "Video players",
+          "Security",
+          "Font scripts",
+          "Web frameworks",
+          "Miscellaneous",
+          "Web servers",
+          "Programming languages",
+          "CDN",
+          "Marketing automation",
+          "Advertising",
+          "Tag managers",
+          "Development",
+          "Page builders",
+          "Live chat",
+          "Static site generator",
+          "JavaScript libraries",
+          "PaaS",
+          "Cookie compliance",
+          "Authentication",
+          "RUM"
+        ],
+        "webTraffic": {
+          "visits": 3200000,
+          "pageViews": 7583999,
+          "pagesPerVisit": 2.369999885559082,
+          "bounceRate": 0.3908
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/dlocal",
+            "handle": "dlocal",
+            "name": "dLocal",
+            "specialties": [
+              "africa",
+              "alternative payment methods",
+              "argentina",
+              "asia",
+              "brazil",
+              "card issuing",
+              "chile",
+              "china",
+              "colombia",
+              "ecommerce payments",
+              "egypt",
+              "emerging markets",
+              "fx management",
+              "growth markets",
+              "india",
+              "latin america",
+              "marketplaces",
+              "merchant services",
+              "mexico",
+              "morocco",
+              "online payment services",
+              "online payment system",
+              "payins",
+              "payment gateway",
+              "payment processing",
+              "payment service provider: pay-ins and payouts",
+              "payouts",
+              "peru",
+              "technology",
+              "turkey",
+              "uruguay"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/dLocalPayments",
+            "handle": "dlocalpayments"
+          }
+        },
+        "name": "DLocal",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 44.94252395629883,
+            "longitude": -95.72355651855469,
+            "country": "us",
+            "locality": "Montevideo",
+            "region": "Minnesota",
+            "postalCode": "56265",
+            "streetAddress": "World Tarde Center Free Zone",
+            "regionCode": "MN"
+          },
+          {
+            "latitude": -34.9028205871582,
+            "longitude": -56.13471603393555,
+            "country": "uy",
+            "locality": "Montevideo",
+            "postalCode": "11300",
+            "streetAddress": "Dr. Luis Bonavita 1294"
+          },
+          {
+            "latitude": 37.7812385559082,
+            "longitude": -122.40811157226562,
+            "country": "us",
+            "locality": "San Francisco",
+            "region": "California",
+            "postalCode": "94103",
+            "streetAddress": "Mission Street  981",
+            "regionCode": "CA"
+          },
+          {
+            "latitude": 31.926616668701172,
+            "longitude": 34.79603958129883,
+            "country": "il",
+            "locality": "Nes Ziona",
+            "region": "Center District",
+            "postalCode": "7408022",
+            "streetAddress": "Tel Aviv",
+            "regionCode": "M"
+          },
+          {
+            "latitude": 32.071929931640625,
+            "longitude": 34.77051544189453,
+            "country": "il",
+            "locality": "Tel Aviv-Yafo",
+            "streetAddress": "Bialik St 12"
+          },
+          {
+            "latitude": 51.51561737060547,
+            "longitude": -0.09199830144643784,
+            "country": "gb",
+            "locality": "City of London",
+            "region": "City of London, England",
+            "regionCode": "LND"
+          },
+          {
+            "latitude": 35.90791702270508,
+            "longitude": 14.424150466918945,
+            "country": "mt",
+            "locality": "Mosta",
+            "region": "Mosta",
+            "regionCode": "32"
+          },
+          {
+            "latitude": -20.848907470703125,
+            "longitude": -41.14863967895508,
+            "country": "br",
+            "locality": "Cachoeiro de Itapemirim",
+            "region": "Esp\u00edrito Santo",
+            "postalCode": "29312-200",
+            "streetAddress": "Avenida Domingos Alcino Dadalto  60",
+            "regionCode": "ES"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 211
+          },
+          {
+            "department": "Board",
+            "size": 6
+          },
+          {
+            "department": "Business Support",
+            "size": 67
+          },
+          {
+            "department": "Customer Relations",
+            "size": 129
+          },
+          {
+            "department": "Design",
+            "size": 5
+          },
+          {
+            "department": "Engineering",
+            "size": 54
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 1
+          },
+          {
+            "department": "Healthcare",
+            "size": 2
+          },
+          {
+            "department": "HR",
+            "size": 22
+          },
+          {
+            "department": "Legal",
+            "size": 21
+          },
+          {
+            "department": "Management",
+            "size": 94
+          },
+          {
+            "department": "Manufacturing",
+            "size": 1
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 9
+          },
+          {
+            "department": "Operations",
+            "size": 188
+          },
+          {
+            "department": "Other",
+            "size": 188
+          },
+          {
+            "department": "PR and Communications",
+            "size": 6
+          },
+          {
+            "department": "Procurement",
+            "size": 2
+          },
+          {
+            "department": "Product",
+            "size": 58
+          },
+          {
+            "department": "Quality Control",
+            "size": 17
+          },
+          {
+            "department": "R&D",
+            "size": 289
+          },
+          {
+            "department": "Sales",
+            "size": 21
+          },
+          {
+            "department": "Security",
+            "size": 14
+          }
+        ],
+        "rootUrl": "https://www.dlocal.com/",
+        "fundingRound": {
+          "date": "2021-04-02T00:00:00+02:00",
+          "type": "Series Unknown",
+          "moneyRaisedInUsd": 150000000
+        },
+        "updatedAt": "2025-12-22T06:21:01+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "paytabs.com",
+        "countries": [
+          "ae",
+          "az",
+          "eg",
+          "in",
+          "jo",
+          "sa",
+          "tr"
+        ],
+        "primaryCountry": "ae",
+        "companySize": "201-500",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software",
+          "Commerce and Shopping",
+          "Internet Services",
+          "Professional Services"
+        ],
+        "industries": [
+          "FinTech",
+          "Mobile Payments",
+          "Payments",
+          "Financial Services",
+          "Transaction Processing",
+          "E-Commerce",
+          "Small and Medium Businesses",
+          "E-Commerce Platforms",
+          "Software",
+          "Internet",
+          "Marketplace"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "keywords": [
+          "anti-fraud",
+          "e-commerce",
+          "fraud prevention system",
+          "mcommerce",
+          "mobile payments",
+          "mobilepayments",
+          "next generation payments",
+          "online payment gateway",
+          "onlinepayments",
+          "payment gateway",
+          "payment options",
+          "payment orchestration",
+          "payment processing",
+          "payments",
+          "payments platform",
+          "saas",
+          "secure payment gateway",
+          "social commerce",
+          "social payments",
+          "supermerchants",
+          "switch solutions",
+          "tap to pay",
+          "business online",
+          "ecommerce business",
+          "customer experience",
+          "enhanced customer",
+          "freelancer",
+          "atm management",
+          "ecommerce",
+          "customer service",
+          "entrepreneurs",
+          "e-commerce retail",
+          "freelancer fees",
+          "digital payments",
+          "community forums",
+          "online retail",
+          "seamless transactions",
+          "mobile sdk",
+          "platform empowers",
+          "online",
+          "payment solutions",
+          "online shop",
+          "business",
+          "smes",
+          "retail solutions",
+          "mobile",
+          "customer",
+          "mobile app",
+          "scalable",
+          "business management",
+          "forums",
+          "exceptional customer",
+          "payment methods",
+          "payment links",
+          "retail business",
+          "customers",
+          "community",
+          "gateway platform",
+          "integrate",
+          "atm",
+          "facilitate seamless",
+          "business culture",
+          "merchant",
+          "transactions",
+          "generation payment",
+          "facilitate",
+          "intellectual property",
+          "services",
+          "digital wallets",
+          "payment option",
+          "omnichannel payment",
+          "tech",
+          "reliable payment",
+          "merchants",
+          "paymes social",
+          "digital",
+          "technology",
+          "platform",
+          "business owner",
+          "sharing",
+          "contact",
+          "tech stack",
+          "partner",
+          "service",
+          "management",
+          "social",
+          "powerful merchant",
+          "provide",
+          "retail",
+          "optimize",
+          "integrations",
+          "creating",
+          "payment",
+          "app",
+          "collect",
+          "selling globally",
+          "company",
+          "institutions",
+          "shopper",
+          "favorite payment",
+          "financial institutions",
+          "intellectual",
+          "social media",
+          "edge tech",
+          "international credit",
+          "multiple payment",
+          "seamless sales",
+          "super merchants",
+          "revenue potential",
+          "paymes",
+          "popular schemes",
+          "future",
+          "achieve"
+        ],
+        "employeeCountOcean": 182,
+        "employeeCountLinkedin": 186,
+        "revenue": "10-50M",
+        "yearFounded": 2014,
+        "description": "Welcome to the PayTabs LinkedIn platform. PayTabs is a payments infrastructure company providing exceptional solutions that are simple, secure, and scalable to drive local commerce and power financial inclusion across the region. The company was founded by Saudi entrepreneur Abdulaziz Al Jouf. Having processed the first live payment gateway transaction in 2014, today PayTabs processes transactions in multiple currencies and markets, swiftly and securely. By providing the infrastructure for B2B payment solutions, including digital invoicing for businesses, QR code, social media payments, point of sale and switching platforms, PayTabs facilitates seamless e-commerce and social commerce solutions for merchants, super merchants and governments. For over a decade, PayTabs has custom built and exported a full stack of game changing solutions. These include mobile applications, hospitality, governmental, education, airline, travel, transport, and biller solutions, to interlink the multi-billion-dollar enterprise market chain in the region. In 2021, PayTabs launched PT Touch, the \ufb01rst soft POS solution in the MENA market to transform smart phones into merchant point of sale (POS) terminals. In 2022, PayTabs made a leapfrog move to pioneer next generation payments, by launching its home owned, globally validated unified payments and orchestration platform. PayTabs unified payment processing orchestration enables governments and large-scale originations to become independent payment platforms to serve their industries. In 2022, the company acquired T\u00fcrkiye\u2019s social commerce platform Paymes to complement its existing retail portfolio. In early 2023, PayTabs received payment gateway certification from Saudi Payments. By end of 2023, PayTabs was awarded MENA\u2019s Best Merchant Solution and the glowing recognition of Fintech Company of the year. PayTabs has dedicated offices across the MENA region. The company is an equal opportunities employer.",
+        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHchIlssXYXfA/company-logo_400_400/company-logo_400_400/0/1630564425478/paytabs_holding_company_logo?e=1777507200&t=RRFcAaTqYCAvEl8x0e3XT8D6pD05TMTulBhD-HcPQw8&v=beta",
+        "technologies": [
+          "Cloudflare"
+        ],
+        "technologyCategories": [
+          "CDN"
+        ],
+        "webTraffic": {
+          "visits": 321300,
+          "pageViews": 1175958,
+          "pagesPerVisit": 3.6600000858306885,
+          "bounceRate": 0.4236
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/paytabs-holding-company",
+            "handle": "paytabs-holding-company",
+            "name": "PayTabs Global",
+            "specialties": [
+              "anti-fraud",
+              "e-commerce",
+              "fraud prevention system",
+              "mcommerce",
+              "mobile payments",
+              "mobilepayments",
+              "next generation payments",
+              "online payment gateway",
+              "onlinepayments",
+              "payment gateway",
+              "payment options",
+              "payment orchestration",
+              "payment processing",
+              "payments",
+              "payments platform",
+              "saas",
+              "secure payment gateway",
+              "social commerce",
+              "social payments",
+              "supermerchants",
+              "switch solutions",
+              "tap to pay"
+            ]
+          },
+          "twitter": {
+            "url": "https://www.twitter.com/paytabs",
+            "handle": "paytabs"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/paytabs",
+            "handle": "paytabs"
+          }
+        },
+        "name": "PayTabs",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 25.093524932861328,
+            "longitude": 55.151573181152344,
+            "country": "ae",
+            "locality": "Dubai",
+            "region": "Dubai",
+            "postalCode": "000",
+            "streetAddress": "Palm Jumeirah Monorail Footbridge  CONCORD TOWER 27th Floor, Office No. 2706 - 2707,PO Box: 392542, RERA ORN 13225, Dubai Media City, Dubai, UNITED ARAB EMIRATES",
+            "regionCode": "DU"
+          },
+          {
+            "latitude": 13.051121711730957,
+            "longitude": 80.2247543334961,
+            "country": "in",
+            "locality": "Chennai",
+            "postalCode": "600006",
+            "streetAddress": "#14, 2nd Floor, Haddows Road, 1st Street,",
+            "regionCode": "TN"
+          },
+          {
+            "latitude": 24.70433235168457,
+            "longitude": 46.65388870239258,
+            "country": "sa",
+            "locality": "Riyadh",
+            "region": "Riyadh Region",
+            "postalCode": "11566",
+            "streetAddress": "Al Urubah Road",
+            "regionCode": "01"
+          },
+          {
+            "latitude": 40.375587463378906,
+            "longitude": 49.832801818847656,
+            "country": "az",
+            "locality": "Baku City",
+            "region": "Baku City",
+            "regionCode": "BA"
+          },
+          {
+            "latitude": 41.076602935791016,
+            "longitude": 29.052494049072266,
+            "country": "tr",
+            "locality": "Istanbul",
+            "region": "Istanbul",
+            "regionCode": "34"
+          },
+          {
+            "latitude": 31.961599349975586,
+            "longitude": 35.878719329833984,
+            "country": "jo",
+            "locality": "Amman",
+            "region": "Amman",
+            "regionCode": "AM"
+          },
+          {
+            "latitude": 30.043338775634766,
+            "longitude": 31.23914909362793,
+            "country": "eg",
+            "locality": "Cairo",
+            "region": "Cairo",
+            "postalCode": "11513",
+            "streetAddress": "Al Falaky Street  28",
+            "regionCode": "C"
+          },
+          {
+            "latitude": 24.000247955322266,
+            "longitude": 53.999481201171875,
+            "country": "ae",
+            "locality": "Dubai",
+            "postalCode": "000",
+            "streetAddress": "Al Moosa Tower 2, Plot #335-103,Trade Center1"
+          },
+          {
+            "latitude": 26.283409118652344,
+            "longitude": 50.10917663574219,
+            "country": "sa",
+            "locality": "Dhahran Compound",
+            "region": "Eastern Province",
+            "postalCode": "31433",
+            "streetAddress": "Khobar",
+            "regionCode": "04"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 21
+          },
+          {
+            "department": "Board",
+            "size": 2
+          },
+          {
+            "department": "Business Support",
+            "size": 7
+          },
+          {
+            "department": "Customer Relations",
+            "size": 9
+          },
+          {
+            "department": "Design",
+            "size": 1
+          },
+          {
+            "department": "Engineering",
+            "size": 5
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 1
+          },
+          {
+            "department": "HR",
+            "size": 10
+          },
+          {
+            "department": "Legal",
+            "size": 2
+          },
+          {
+            "department": "Management",
+            "size": 35
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 4
+          },
+          {
+            "department": "Operations",
+            "size": 12
+          },
+          {
+            "department": "Other",
+            "size": 26
+          },
+          {
+            "department": "PR and Communications",
+            "size": 1
+          },
+          {
+            "department": "Product",
+            "size": 6
+          },
+          {
+            "department": "Quality Control",
+            "size": 2
+          },
+          {
+            "department": "R&D",
+            "size": 31
+          },
+          {
+            "department": "Sales",
+            "size": 14
+          },
+          {
+            "department": "Security",
+            "size": 1
+          },
+          {
+            "department": "Supply Chain",
+            "size": 1
+          }
+        ],
+        "rootUrl": "https://paytabs.com",
+        "fundingRound": {
+          "date": "2017-08-21T00:00:00+02:00",
+          "type": "Series B",
+          "moneyRaisedInUsd": 20000000
+        },
+        "updatedAt": "2026-03-08T06:26:21+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "bluesnap.com",
+        "countries": [
+          "gb",
+          "il",
+          "us"
+        ],
+        "primaryCountry": "us",
+        "companySize": "201-500",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software",
+          "Lending and Investments",
+          "Commerce and Shopping"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing",
+          "Credit Cards",
+          "Software",
+          "Point of Sale"
+        ],
+        "linkedinIndustry": "Financial Services",
+        "ecommerce": true,
+        "keywords": [
+          "ar automation",
+          "b2bpayments",
+          "billing & invoicing",
+          "couponing",
+          "cross-border payments",
+          "cross-selling",
+          "digital media",
+          "ecommerce",
+          "embedded payments",
+          "fraud protection",
+          "gaming",
+          "global payments",
+          "mcommerce",
+          "merchant account",
+          "payment gateway",
+          "payment optimization",
+          "payment processing",
+          "recurring",
+          "reporting",
+          "software",
+          "subscription management",
+          "up-selling",
+          "automated payment",
+          "intelligent payment",
+          "modular payment",
+          "payment routing",
+          "payment analytics",
+          "payment management",
+          "payments expertise",
+          "payment solution",
+          "payment processes",
+          "payment challenges",
+          "payment orchestration",
+          "payments expert",
+          "payment operations",
+          "optimized payments",
+          "payment offering",
+          "payment types",
+          "payroc",
+          "payment roi",
+          "payment success",
+          "process payments",
+          "payment",
+          "solve payment",
+          "payment transactions",
+          "receivable automation",
+          "payments experts",
+          "differentiated payment",
+          "payments",
+          "customizable billing",
+          "payments globally",
+          "simplifies payments",
+          "automate accounts",
+          "embedding payments",
+          "accepting payments",
+          "global payment",
+          "embed payments",
+          "platform offers",
+          "automated",
+          "invoice payments",
+          "paid",
+          "automate",
+          "billing plans",
+          "offers modular",
+          "legitimate transactions",
+          "software platform",
+          "transactions",
+          "automation",
+          "modular tech",
+          "receivable process",
+          "platform",
+          "receivable",
+          "cash",
+          "accounts receivable",
+          "cash flow",
+          "chargeback management",
+          "paid faster",
+          "fraud engine",
+          "avoid fees",
+          "routing",
+          "technical debt",
+          "modular",
+          "customer",
+          "improve cash",
+          "streamline operations",
+          "single connection",
+          "preserve revenue",
+          "revenue",
+          "banks",
+          "equifax company",
+          "reduce costs",
+          "connection",
+          "fees",
+          "compliance",
+          "invoice",
+          "debt",
+          "optimization tools",
+          "recurring revenue",
+          "offering",
+          "efficiencies",
+          "accounts",
+          "costs",
+          "banks ensure",
+          "value-added services",
+          "accounting",
+          "streamline",
+          "management solutions",
+          "fraud prevention",
+          "optimized",
+          "services",
+          "lower costs",
+          "customers",
+          "offers",
+          "analytics",
+          "customizable reporting",
+          "systems"
+        ],
+        "employeeCountOcean": 134,
+        "employeeCountLinkedin": 164,
+        "revenue": "100-500M",
+        "yearFounded": 2001,
+        "description": "At BlueSnap, Powered by Payroc, we look at payments a little differently. Our Payment Orchestration Platform helps businesses accept payments globally and is designed to increase revenue and reduces costs. We provide a comprehensive back-end solutions that simplifies the complexity of payments, managing the full process from start to finish. BlueSnap supports payments through multiple sales channels such as online and mobile sales, subscriptions, invoice payments and manual orders through a virtual terminal. And for businesses looking for embedded payments, we offer white-labeled payments for platforms with automated underwriting and onboarding that supports marketplaces and split payments. And with one integration and contract, businesses can sell in over 200 geographies with access to local acquiring in 50 countries, preferred global payment types & currencies buyers want, including popular eWallets, automated accounts receivable, world-class fraud protection and chargeback management, built-in solutions for regulation and tax compliance, and unified global reporting to help businesses grow. About Payroc Founded in 2003, Payroc WorldAccess, LLC, is a global payments ecosystem that helps businesses accept payments and optimize commerce. Payroc ranks among the top merchant acquirers in North America, processing more than $125 billion in volume annually and operating across 50 regions with direct connections to the major card networks. Its proprietary full-stack technology supports vertically tailored card-present, card-not-present, and omnichannel solutions for software providers, financial institutions, and merchants of all sizes. With a focus on innovation, scalability, and award-winning support, Payroc makes payments seamless and drives growth for partners worldwide. For more information, visit payroc.com",
+        "phones": [
+          {
+            "number": "+1 866-312-7733",
+            "country": "us",
+            "primary": true
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/bluesnap.com/96bc97f80be8f08bf60179254d41d56dddf671f4.png",
+        "technologies": [
+          "Google Tag Manager",
+          "WordPress",
+          "Microsoft Advertising",
+          "Shopify",
+          "Priority Hints",
+          "OneTrust",
+          "Dealer Spike",
+          "YouTube",
+          "MySQL",
+          "WP Rocket",
+          "Slick",
+          "Crazy Egg",
+          "RSS",
+          "PHP",
+          "Google Analytics",
+          "jQuery",
+          "Cloudflare",
+          "jQuery Migrate",
+          "HTTP/3",
+          "HSTS",
+          "Cloudflare Bot Management",
+          "HubSpot",
+          "Taboola",
+          "HubSpot CMS Hub",
+          "WooCommerce"
+        ],
+        "technologyCategories": [
+          "Marketing automation",
+          "CMS",
+          "Databases",
+          "Cookie compliance",
+          "Advertising",
+          "Ecommerce",
+          "Programming languages",
+          "Tag managers",
+          "Blogs",
+          "Analytics",
+          "Video players",
+          "Security",
+          "Miscellaneous",
+          "WordPress plugins",
+          "Caching",
+          "JavaScript libraries",
+          "Performance",
+          "CDN"
+        ],
+        "mobileApps": [
+          {
+            "link": "https://apps.apple.com/app/id1188018016",
+            "name": "BlueSnap Inc."
+          }
+        ],
+        "webTraffic": {
+          "visits": 576200,
+          "pageViews": 1838078,
+          "pagesPerVisit": 3.190000057220459,
+          "bounceRate": 0.5039
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/bluesnap",
+            "handle": "bluesnap",
+            "name": "BlueSnap",
+            "specialties": [
+              "ar automation",
+              "b2bpayments",
+              "billing & invoicing",
+              "couponing",
+              "cross-border payments",
+              "cross-selling",
+              "digital media",
+              "ecommerce",
+              "embedded payments",
+              "fraud protection",
+              "gaming",
+              "global payments",
+              "mcommerce",
+              "merchant account",
+              "payment gateway",
+              "payment optimization",
+              "payment processing",
+              "recurring",
+              "reporting",
+              "software",
+              "subscription management",
+              "up-selling"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/bluesnapinc",
+            "handle": "bluesnapinc"
+          },
+          "youtube": {
+            "url": "https://www.youtube.com/user/BlueSnapVideo",
+            "handle": "bluesnapvideo"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/bluesnapmerchants",
+            "handle": "bluesnapmerchants"
+          }
+        },
+        "name": "BlueSnap",
+        "legalName": "Bluesnap, Inc.",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 42.35578536987305,
+            "longitude": -71.05211639404297,
+            "country": "us",
+            "locality": "Boston",
+            "region": "Massachusetts",
+            "postalCode": "02110",
+            "streetAddress": "Purchase Street  1",
+            "regionCode": "MA"
+          },
+          {
+            "latitude": 42.31435012817383,
+            "longitude": -70.97028350830078,
+            "country": "us",
+            "locality": "Boston"
+          },
+          {
+            "latitude": 51.51561737060547,
+            "longitude": -0.09199830144643784,
+            "country": "gb",
+            "locality": "City of London",
+            "region": "City of London, England",
+            "postalCode": "EC4N 7DZ",
+            "streetAddress": "68 King William Street",
+            "regionCode": "LND"
+          },
+          {
+            "latitude": 32.17394256591797,
+            "longitude": 34.80818176269531,
+            "country": "il",
+            "locality": "Herzliya",
+            "postalCode": "4675095",
+            "streetAddress": "60 Medinat HaYehudim Street"
+          },
+          {
+            "latitude": 32.165924072265625,
+            "longitude": 34.80967330932617,
+            "country": "il",
+            "locality": "Herzliya",
+            "streetAddress": "Medinat ha-Yehudim St 60"
+          },
+          {
+            "latitude": 51.511051177978516,
+            "longitude": -0.08661659806966782,
+            "country": "gb",
+            "locality": "London",
+            "postalCode": "Ec4N 7Hr",
+            "streetAddress": "68 King William St"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 17
+          },
+          {
+            "department": "Business Support",
+            "size": 14
+          },
+          {
+            "department": "Customer Relations",
+            "size": 2
+          },
+          {
+            "department": "Editorial Personnel",
+            "size": 1
+          },
+          {
+            "department": "Engineering",
+            "size": 3
+          },
+          {
+            "department": "HR",
+            "size": 2
+          },
+          {
+            "department": "Management",
+            "size": 26
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 2
+          },
+          {
+            "department": "Operations",
+            "size": 2
+          },
+          {
+            "department": "Other",
+            "size": 19
+          },
+          {
+            "department": "Product",
+            "size": 7
+          },
+          {
+            "department": "Quality Control",
+            "size": 12
+          },
+          {
+            "department": "R&D",
+            "size": 31
+          },
+          {
+            "department": "Sales",
+            "size": 6
+          },
+          {
+            "department": "Security",
+            "size": 2
+          }
+        ],
+        "rootUrl": "https://www.bluesnap.com",
+        "fundingRound": {
+          "date": "2019-10-05T00:00:00+02:00",
+          "type": "Debt Financing",
+          "moneyRaisedInUsd": 35000
+        },
+        "updatedAt": "2026-02-25T06:00:40+01:00"
+      },
+      "relevance": "A"
+    },
+    {
+      "company": {
+        "domain": "gocardless.com",
+        "countries": [
+          "au",
+          "de",
+          "fr",
+          "gb",
+          "lv",
+          "us"
+        ],
+        "primaryCountry": "gb",
+        "companySize": "501-1000",
+        "industryCategories": [
+          "Financial Services",
+          "Mobile",
+          "Payments",
+          "Software",
+          "Lending and Investments",
+          "Commerce and Shopping"
+        ],
+        "industries": [
+          "FinTech",
+          "Financial Services",
+          "Mobile Payments",
+          "Payments",
+          "Transaction Processing",
+          "Credit Cards",
+          "Point of Sale",
+          "Debit Cards"
+        ],
+        "linkedinIndustry": "IT Services and IT Consulting",
+        "ecommerce": true,
+        "keywords": [
+          "account-to-account payments",
+          "bacs",
+          "bank pay",
+          "bank to bank payments",
+          "direct bank payments",
+          "direct debit",
+          "one-off payments",
+          "online payments",
+          "open banking",
+          "payment collection",
+          "recurring payments",
+          "payments hassle-free",
+          "pull payments",
+          "payment tool",
+          "automate payments",
+          "invoice payments",
+          "collect payments",
+          "payment",
+          "collecting payments",
+          "reduce payment",
+          "payments data",
+          "payments",
+          "bill payments",
+          "reconciling payments",
+          "payment failures",
+          "payment intelligence",
+          "paying",
+          "payments made",
+          "bank payments",
+          "payments costs",
+          "card fees",
+          "invoices",
+          "failed payments",
+          "hassle-free",
+          "instalment payments",
+          "automatically collect",
+          "existing invoicing",
+          "global payments",
+          "cash flow",
+          "invoicing",
+          "invoice",
+          "fees",
+          "digital wallets",
+          "international payments",
+          "money transmitter",
+          "paid",
+          "bank account",
+          "collects ach",
+          "account",
+          "invoicing software",
+          "invoicing process",
+          "wallets",
+          "card",
+          "receive",
+          "money services",
+          "customer",
+          "low-cost method",
+          "expensive fees",
+          "subscriptions",
+          "licensed money",
+          "paid faster",
+          "fincen-registered money",
+          "collect",
+          "low-cost",
+          "forget expensive",
+          "cash",
+          "customer story",
+          "bank",
+          "ach debit",
+          "customers",
+          "collects",
+          "bank statement",
+          "local bank",
+          "streamline",
+          "automatic retries",
+          "automatically pull",
+          "start collecting",
+          "manageable amounts",
+          "bill",
+          "debit",
+          "easy-to-use online",
+          "costs",
+          "customer hub",
+          "cost",
+          "cards",
+          "collecting",
+          "manageable",
+          "cents",
+          "online form",
+          "save",
+          "checks",
+          "obligations",
+          "consumers",
+          "money",
+          "easy-to-use",
+          "expensive",
+          "accounting system",
+          "automatically",
+          "online",
+          "fincen-registered",
+          "fully automated",
+          "ach pull",
+          "accounting",
+          "one-time setup",
+          "automated",
+          "registration number",
+          "automatic",
+          "seamlessly connect",
+          "registration"
+        ],
+        "employeeCountOcean": 793,
+        "employeeCountLinkedin": 828,
+        "revenue": "100-500M",
+        "yearFounded": 2011,
+        "description": "Welcome to the new era of payments. Collect one-off, automated, or recurring payments \u2013 directly from your customer's bank account to yours. Putting an end to late payments, chasing customers, stress, and expensive fees. It's just cash, flowing from one account to another. Join 100,000 businesses of all sizes, worldwide, who trust us to power their payments.",
+        "emails": [
+          "help@gocardless.com"
+        ],
+        "phones": [
+          {
+            "number": "+1 628-241-0044",
+            "country": "us"
+          }
+        ],
+        "logo": "https://cdn.ocean.io/logos/gocardless.com/52cf90e8ec0a78d2a9e93bdf7f7f037b959939ef.png",
+        "technologies": [
+          "Google Tag Manager",
+          "Chili Piper",
+          "Transcend",
+          "Optimizely",
+          "Python",
+          "Webpack",
+          "Next.js",
+          "Intercom",
+          "Stackbit",
+          "Atlassian Jira",
+          "Quill",
+          "Reddit",
+          "Reddit Ads",
+          "Gatsby",
+          "YouTube",
+          "Salesforce Marketing Cloud Account Engagement",
+          "RSS",
+          "Node.js",
+          "Drift",
+          "Google Analytics",
+          "NEO - Omnichannel Commerce Platform",
+          "HSTS",
+          "Cloudflare",
+          "reCAPTCHA",
+          "HTTP/2",
+          "Cloudflare Bot Management",
+          "Contentful",
+          "Java",
+          "Emotion",
+          "React",
+          "React Bricks"
+        ],
+        "technologyCategories": [
+          "CMS",
+          "Message boards",
+          "Ecommerce",
+          "Analytics",
+          "JavaScript frameworks",
+          "Issue trackers",
+          "Video players",
+          "Security",
+          "Web frameworks",
+          "Miscellaneous",
+          "Web servers",
+          "Rich text editors",
+          "Programming languages",
+          "CDN",
+          "Marketing automation",
+          "Advertising",
+          "Tag managers",
+          "Development",
+          "Page builders",
+          "Live chat",
+          "Static site generator",
+          "Cookie compliance",
+          "Appointment scheduling",
+          "A/B Testing",
+          "Personalisation"
+        ],
+        "webTraffic": {
+          "visits": 1600000,
+          "pageViews": 6959999,
+          "pagesPerVisit": 4.349999904632568,
+          "bounceRate": 0.5356000000000001
+        },
+        "medias": {
+          "linkedin": {
+            "url": "https://www.linkedin.com/company/gocardless",
+            "handle": "gocardless",
+            "name": "GoCardless",
+            "specialties": [
+              "account-to-account payments",
+              "bacs",
+              "bank pay",
+              "bank to bank payments",
+              "direct bank payments",
+              "direct debit",
+              "one-off payments",
+              "online payments",
+              "open banking",
+              "payment collection",
+              "recurring payments"
+            ]
+          },
+          "twitter": {
+            "url": "https://twitter.com/gocardless",
+            "handle": "gocardless"
+          },
+          "facebook": {
+            "url": "https://www.facebook.com/GoCardless/",
+            "handle": "gocardless"
+          }
+        },
+        "name": "GoCardless",
+        "legalName": "Gocardless Ltd",
+        "locations": [
+          {
+            "primary": true,
+            "latitude": 51.519073486328125,
+            "longitude": -0.18285547196865082,
+            "country": "gb",
+            "locality": "London",
+            "region": "England",
+            "postalCode": "W2 6BD",
+            "streetAddress": "Kingdom Street  3",
+            "regionCode": "ENG"
+          },
+          {
+            "latitude": 51.52864074707031,
+            "longitude": -0.10159865021705627,
+            "country": "gb",
+            "locality": "London",
+            "streetAddress": "2, 27 Acer Rd"
+          },
+          {
+            "latitude": 48.858890533447266,
+            "longitude": 2.3200409412384033,
+            "country": "fr",
+            "locality": "Paris",
+            "region": "Paris, Ile-de-France",
+            "regionCode": "IDF"
+          },
+          {
+            "latitude": -37.81424331665039,
+            "longitude": 144.97206115722656,
+            "country": "au",
+            "locality": "Adelaide",
+            "region": "South Australia",
+            "postalCode": "5006",
+            "streetAddress": "Melbourne Street  63",
+            "regionCode": "SA"
+          },
+          {
+            "latitude": 41.77074432373047,
+            "longitude": -74.32954406738281,
+            "country": "us",
+            "locality": "Kerhonkson",
+            "region": "New York",
+            "postalCode": "12446",
+            "streetAddress": "United States Highway 209  6721",
+            "regionCode": "NY"
+          },
+          {
+            "latitude": 48.2042121887207,
+            "longitude": 11.588162422180176,
+            "country": "de",
+            "locality": "Munich",
+            "region": "Bavaria",
+            "postalCode": "80939",
+            "streetAddress": "Ingolst\u00e4dter Stra\u00dfe  172",
+            "regionCode": "BY"
+          },
+          {
+            "latitude": 56.945247650146484,
+            "longitude": 24.11521339416504,
+            "country": "lv",
+            "locality": "Riga",
+            "region": "Riga",
+            "postalCode": "LV-1050",
+            "streetAddress": "Pr\u0101gas iela R\u012bga (Pr\u0101gas iela)",
+            "regionCode": "RIX"
+          },
+          {
+            "latitude": 48.87781524658203,
+            "longitude": 2.294459581375122,
+            "country": "fr",
+            "locality": "Paris",
+            "postalCode": "75017",
+            "streetAddress": "23 Av. Mac-Mahon"
+          },
+          {
+            "latitude": 51.58977508544922,
+            "longitude": -0.06940879672765732,
+            "country": "gb",
+            "locality": "London",
+            "postalCode": "N17 9Ej",
+            "streetAddress": "Green Workshops, 2 Somerset Rd"
+          },
+          {
+            "latitude": 48.87833023071289,
+            "longitude": 2.320963144302368,
+            "country": "fr",
+            "locality": "Paris",
+            "postalCode": "75008",
+            "streetAddress": "7 Rue de Madrid"
+          },
+          {
+            "latitude": 30.26369857788086,
+            "longitude": -97.74370574951172,
+            "country": "us",
+            "locality": "Austin",
+            "region": "Texas",
+            "postalCode": "78701",
+            "streetAddress": "Congress Avenue  111",
+            "regionCode": "TX"
+          }
+        ],
+        "departmentSizes": [
+          {
+            "department": "Accounting and Finance",
+            "size": 81
+          },
+          {
+            "department": "Board",
+            "size": 1
+          },
+          {
+            "department": "Business Support",
+            "size": 26
+          },
+          {
+            "department": "Customer Relations",
+            "size": 92
+          },
+          {
+            "department": "Design",
+            "size": 15
+          },
+          {
+            "department": "Engineering",
+            "size": 57
+          },
+          {
+            "department": "Founder/Owner",
+            "size": 2
+          },
+          {
+            "department": "Healthcare",
+            "size": 1
+          },
+          {
+            "department": "HR",
+            "size": 29
+          },
+          {
+            "department": "Legal",
+            "size": 14
+          },
+          {
+            "department": "Management",
+            "size": 92
+          },
+          {
+            "department": "Marketing and Advertising",
+            "size": 29
+          },
+          {
+            "department": "Operations",
+            "size": 33
+          },
+          {
+            "department": "Other",
+            "size": 74
+          },
+          {
+            "department": "PR and Communications",
+            "size": 6
+          },
+          {
+            "department": "Procurement",
+            "size": 3
+          },
+          {
+            "department": "Product",
+            "size": 41
+          },
+          {
+            "department": "Quality Control",
+            "size": 5
+          },
+          {
+            "department": "R&D",
+            "size": 175
+          },
+          {
+            "department": "Sales",
+            "size": 76
+          },
+          {
+            "department": "Security",
+            "size": 5
+          }
+        ],
+        "rootUrl": "https://gocardless.com/",
+        "fundingRound": {
+          "date": "2022-02-08T00:00:00+01:00",
+          "type": "Series G",
+          "moneyRaisedInUsd": 312000000
+        },
+        "updatedAt": "2025-12-19T05:49:30+01:00"
+      },
+      "relevance": "A"
+    }
+  ],
+  "count": 10
+}
