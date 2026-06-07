@@ -24,10 +24,7 @@ def send_email_via_brevo(email_data: Dict) -> bool:
         "Content-Type": "application/json"
     }
 
-    # Personalized subject line using their name and company
     subject = f"Quick intro — FlowReach x {email_data.get('company_name', 'your company')}"
-
-    # Personalized email body
     html_content = f"""
     <p>Hi {email_data.get('name', 'there')},</p>
 

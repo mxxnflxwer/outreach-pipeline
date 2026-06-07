@@ -28,11 +28,9 @@ def get_email_for_person(person: Dict) -> Tuple[Optional[str], bool]:
     cached = load_from_cache("emails", cache_key)
     if cached is not None:
         cached_email = cached.get("email")
-        # If cache contains a valid, non-empty email, use it.
         if cached_email:
             print(f"[Cache] Hit for {person.get('name')} — skipping API call")
             return cached_email, True
-        # If cache exists but email is null/empty, attempt a fresh lookup.
         print(f"[Cache] Entry for {person.get('name')} has no email — attempting fresh lookup")
 
     prospeo_api_key = os.getenv("PROSPEO_API_KEY")
@@ -48,7 +46,6 @@ def get_email_for_person(person: Dict) -> Tuple[Optional[str], bool]:
             "Content-Type": "application/json"
         }
         
-        # Prospeo requires person data nested inside a "data" object
         if person_id:
             payload = {
                 "only_verified_email": False,

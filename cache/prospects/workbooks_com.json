@@ -1,0 +1,1650 @@
+{
+  "domain": "workbooks.com",
+  "prospects": [
+    {
+      "person": {
+        "person_id": "aaaad46af5bead6deb1d4778",
+        "first_name": "Penny",
+        "last_name": "Lowe",
+        "full_name": "Penny Lowe",
+        "linkedin_url": "https://www.linkedin.com/in/penny-lowe-mba-b521912",
+        "current_job_title": "SVP - North America",
+        "current_job_key": null,
+        "headline": "SVP - North America at Workbooks.com",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "SVP - North America",
+            "company_name": "Workbooks CRM",
+            "logo_url": "b310e64d-d583-40e9-b435-ea3518253676.jpg",
+            "current": true,
+            "start_year": 2019,
+            "start_month": 4,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 86,
+            "departments": [],
+            "seniority": "Vice President",
+            "company_id": "ccccea4fcfae48dfcca83a54",
+            "job_key": "78633568"
+          },
+          {
+            "title": "Head of Service Delivery",
+            "company_name": "Workbooks CRM",
+            "logo_url": "b310e64d-d583-40e9-b435-ea3518253676.jpg",
+            "current": true,
+            "start_year": 2012,
+            "start_month": 3,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 171,
+            "departments": [],
+            "seniority": "Head",
+            "company_id": "ccccea4fcfae48dfcca83a54",
+            "job_key": "71140203"
+          },
+          {
+            "title": "Managing Director - Europe",
+            "company_name": "Bluewolf, an IBM Company",
+            "logo_url": "094041ab-10aa-4b94-a165-5886dec1c380.jpg",
+            "current": false,
+            "start_year": 2008,
+            "start_month": 2,
+            "end_year": 2012,
+            "end_month": 1,
+            "duration_in_months": 47,
+            "departments": [
+              "Chief Executive"
+            ],
+            "seniority": "C-Suite",
+            "company_id": "ccccf2617b88a5bbd912674e",
+            "job_key": "26700243"
+          },
+          {
+            "title": "Director of Business Services",
+            "company_name": "Raytheon|Websense",
+            "logo_url": "7b259a83-7d16-47bd-9938-ca7be2b4a9c5.jpg",
+            "current": false,
+            "start_year": 2007,
+            "start_month": 10,
+            "end_year": 2007,
+            "end_month": 12,
+            "duration_in_months": 2,
+            "departments": [],
+            "seniority": "Director",
+            "company_id": "cccc05a79d7d739abb56f220",
+            "job_key": "27717272"
+          },
+          {
+            "title": "Director of Business Services",
+            "company_name": "SurfControl",
+            "logo_url": null,
+            "current": false,
+            "start_year": 2007,
+            "start_month": 3,
+            "end_year": 2007,
+            "end_month": 10,
+            "duration_in_months": 7,
+            "departments": [],
+            "seniority": "Director",
+            "company_id": "cccc3667bce68632cb0ce2fe",
+            "job_key": "10094997"
+          },
+          {
+            "title": "CRM Director",
+            "company_name": "SurfControl",
+            "logo_url": null,
+            "current": false,
+            "start_year": 2006,
+            "start_month": 7,
+            "end_year": 2007,
+            "end_month": 3,
+            "duration_in_months": 8,
+            "departments": [],
+            "seniority": "Director",
+            "company_id": "cccc3667bce68632cb0ce2fe",
+            "job_key": "54872495"
+          },
+          {
+            "title": "Business Services Manager",
+            "company_name": "BlackSpider Technologies",
+            "logo_url": null,
+            "current": false,
+            "start_year": 2004,
+            "start_month": 3,
+            "end_year": 2006,
+            "end_month": 7,
+            "duration_in_months": 28,
+            "departments": [],
+            "seniority": "Manager",
+            "company_id": "ccccc06ea54e44bd4855efa3",
+            "job_key": "71311592"
+          },
+          {
+            "title": "Service Delivery Manager",
+            "company_name": "BlackSpider Technologies",
+            "logo_url": null,
+            "current": false,
+            "start_year": 2004,
+            "start_month": 3,
+            "end_year": 2006,
+            "end_month": 5,
+            "duration_in_months": 26,
+            "departments": [
+              "Project Management"
+            ],
+            "seniority": "Manager",
+            "company_id": "ccccc06ea54e44bd4855efa3",
+            "job_key": "24089929"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+44 7974 ******",
+          "mobile_national": "07974 ******",
+          "mobile_international": "+44 7974 ******",
+          "mobile_country": "United Kingdom",
+          "mobile_country_code": "GB"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "email": "p*******@workbooks.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Microsoft"
+        },
+        "location": {
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "state": null,
+          "city": null,
+          "time_zone": "Europe/London",
+          "time_zone_offset": 1.0
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "ccccea4fcfae48dfcca83a54",
+        "name": "Workbooks CRM",
+        "website": "https://workbooks.com",
+        "domain": "workbooks.com",
+        "other_websites": [],
+        "description": "Workbooks is a CRM SaaS platform used by growing companies to run their business and engage effectively with their customers.\n\nWorkbooks core CRM services extend beyond sales, marketing and customer services to include powerful marketing automation, event management, order management and fulfilment, invoicing and supplier management functionalities \u2013 at a price which is typically 50-70% less than alternatives like Salesforce or Microsoft.",
+        "description_seo": "Our CRM platform is personalized and fine-tuned precisely to your business goals. If you want a positive relationship with a CRM vendor, we\u2019re here for you.",
+        "description_ai": "PETROtech Resources Company, Inc. provides professional technical personnel and services to the petroleum industry on a consulting basis. They are proud of their reputation for technical excellence within the California energy industry and cater to a broad spectrum of major and independent energy companies.",
+        "type": "Private",
+        "industry": "Software Development",
+        "employee_count": 65,
+        "employee_count_on_prospeo": 51,
+        "employee_range": "51-100",
+        "location": {
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "state": "England",
+          "city": "Reading",
+          "raw_address": "Unit 9 Suttons Business Park, Suttons Park Avenue, Reading, Berkshire RG6 1AZ, GB"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "workbooks.com",
+          "mx_provider": "Microsoft"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/workbooks-com",
+        "twitter_url": "https://x.com/workbooks",
+        "facebook_url": "https://www.facebook.com/workbookscrm",
+        "crunchbase_url": "https://www.crunchbase.com/organization/workbooks",
+        "instagram_url": null,
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+446393851",
+          "phone_hq_national": "6393851",
+          "phone_hq_international": "+446393851",
+          "phone_hq_country": "United Kingdom",
+          "phone_hq_country_code": "GB"
+        },
+        "linkedin_id": null,
+        "founded": 2009,
+        "revenue_range": {
+          "min": 1000000,
+          "max": 5000000
+        },
+        "revenue_range_printed": "1M",
+        "keywords": [
+          "Order Processing",
+          "crm",
+          "Small Business",
+          "Customer Relationship Management",
+          "Customer Services",
+          "Selling",
+          "Data Management",
+          "Marketing",
+          "Business Software",
+          "Marketing Automation",
+          "Online Crm",
+          "Crm Systems",
+          "Business Applications",
+          "Configure Price Quote (Cpq)"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/b310e64d-d583-40e9-b435-ea3518253676.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": true,
+          "has_free_trial": true,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": true,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 1,
+          "total_funding": 2300000,
+          "total_funding_printed": "$2.3M",
+          "latest_funding_date": "2011-08-22T00:00:00",
+          "latest_funding_stage": "Angel",
+          "funding_events": [
+            {
+              "amount": 2300000,
+              "amount_printed": "$2,300,000",
+              "raised_at": "2011-08-22T00:00:00",
+              "stage": "Angel",
+              "link": "https://www.crunchbase.com/funding_round/workbooks-angel--1c53c918"
+            }
+          ]
+        },
+        "technology": {
+          "count": 29,
+          "technology_names": [
+            "WP Rocket",
+            "PWA",
+            "Microsoft 365",
+            "jQuery Migrate",
+            "Survicate",
+            "Apache HTTP Server",
+            "Stripe",
+            "jQuery",
+            "OpenSSL",
+            "PHP",
+            "HSTS",
+            "WordPress",
+            "EWWW Image Optimizer",
+            "Bootstrap",
+            "Twenty Seventeen",
+            "Linkedin Insight Tag",
+            "Yoast SEO",
+            "Google Tag Manager",
+            "Linkedin Ads",
+            "BambooHR",
+            "Sectigo",
+            "Ubuntu",
+            "RSS",
+            "Google Font API",
+            "Formidable Form",
+            "Contact Form 7",
+            "Open Graph",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "WP Rocket",
+              "category": "Caching"
+            },
+            {
+              "name": "PWA",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Microsoft 365",
+              "category": "Email"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Survicate",
+              "category": "Surveys"
+            },
+            {
+              "name": "Apache HTTP Server",
+              "category": "Web servers"
+            },
+            {
+              "name": "Stripe",
+              "category": "Payment processors"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "OpenSSL",
+              "category": "Web server extensions"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "EWWW Image Optimizer",
+              "category": "Performance"
+            },
+            {
+              "name": "Bootstrap",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Twenty Seventeen",
+              "category": "WordPress themes"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Linkedin Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "BambooHR",
+              "category": "Recruitment & staffing"
+            },
+            {
+              "name": "Sectigo",
+              "category": "SSL/TLS certificate authorities"
+            },
+            {
+              "name": "Ubuntu",
+              "category": "Operating systems"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Formidable Form",
+              "category": "Form builders"
+            },
+            {
+              "name": "Contact Form 7",
+              "category": "Form builders"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": null
+      }
+    },
+    {
+      "person": {
+        "person_id": "aaaa1a8ad56a623d2ad87038",
+        "first_name": "Dan",
+        "last_name": "Collins",
+        "full_name": "Dan Collins",
+        "linkedin_url": "https://www.linkedin.com/in/dan-collins-016116",
+        "current_job_title": "CEO",
+        "current_job_key": null,
+        "headline": null,
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "CEO",
+            "company_name": "Workbooks CRM",
+            "logo_url": "b310e64d-d583-40e9-b435-ea3518253676.jpg",
+            "current": true,
+            "start_year": 2018,
+            "start_month": 2,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 100,
+            "departments": [
+              "Chief Executive"
+            ],
+            "seniority": "C-Suite",
+            "company_id": "ccccea4fcfae48dfcca83a54",
+            "job_key": "61496445"
+          },
+          {
+            "title": "Non-Executive Director",
+            "company_name": "BlackSpider Technologies",
+            "logo_url": null,
+            "current": false,
+            "start_year": 2003,
+            "start_month": 1,
+            "end_year": 2006,
+            "end_month": 7,
+            "duration_in_months": 42,
+            "departments": [],
+            "seniority": "Director",
+            "company_id": "ccccc06ea54e44bd4855efa3",
+            "job_key": "64105774"
+          },
+          {
+            "title": "COO",
+            "company_name": "Integralis",
+            "logo_url": "9ea7b2aa-1c91-4468-b4d2-51a6a56743c5.jpg",
+            "current": false,
+            "start_year": 1999,
+            "start_month": null,
+            "end_year": 2001,
+            "end_month": null,
+            "duration_in_months": 24,
+            "departments": [
+              "Operations Executive"
+            ],
+            "seniority": "C-Suite",
+            "company_id": "cccc563325ebff05f2cb59b8",
+            "job_key": "9482887"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+1 860-7**-****",
+          "mobile_national": "(860) 7**-****",
+          "mobile_international": "+1 860-7**-****",
+          "mobile_country": "United States",
+          "mobile_country_code": "US"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "email": "d*********@workbooks.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Microsoft"
+        },
+        "location": {
+          "country": "United States",
+          "country_code": "US",
+          "state": "Connecticut",
+          "city": "Manchester",
+          "time_zone": "America/New_York",
+          "time_zone_offset": -4.0
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "ccccea4fcfae48dfcca83a54",
+        "name": "Workbooks CRM",
+        "website": "https://workbooks.com",
+        "domain": "workbooks.com",
+        "other_websites": [],
+        "description": "Workbooks is a CRM SaaS platform used by growing companies to run their business and engage effectively with their customers.\n\nWorkbooks core CRM services extend beyond sales, marketing and customer services to include powerful marketing automation, event management, order management and fulfilment, invoicing and supplier management functionalities \u2013 at a price which is typically 50-70% less than alternatives like Salesforce or Microsoft.",
+        "description_seo": "Our CRM platform is personalized and fine-tuned precisely to your business goals. If you want a positive relationship with a CRM vendor, we\u2019re here for you.",
+        "description_ai": "PETROtech Resources Company, Inc. provides professional technical personnel and services to the petroleum industry on a consulting basis. They are proud of their reputation for technical excellence within the California energy industry and cater to a broad spectrum of major and independent energy companies.",
+        "type": "Private",
+        "industry": "Software Development",
+        "employee_count": 65,
+        "employee_count_on_prospeo": 51,
+        "employee_range": "51-100",
+        "location": {
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "state": "England",
+          "city": "Reading",
+          "raw_address": "Unit 9 Suttons Business Park, Suttons Park Avenue, Reading, Berkshire RG6 1AZ, GB"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "workbooks.com",
+          "mx_provider": "Microsoft"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/workbooks-com",
+        "twitter_url": "https://x.com/workbooks",
+        "facebook_url": "https://www.facebook.com/workbookscrm",
+        "crunchbase_url": "https://www.crunchbase.com/organization/workbooks",
+        "instagram_url": null,
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+446393851",
+          "phone_hq_national": "6393851",
+          "phone_hq_international": "+446393851",
+          "phone_hq_country": "United Kingdom",
+          "phone_hq_country_code": "GB"
+        },
+        "linkedin_id": null,
+        "founded": 2009,
+        "revenue_range": {
+          "min": 1000000,
+          "max": 5000000
+        },
+        "revenue_range_printed": "1M",
+        "keywords": [
+          "Order Processing",
+          "crm",
+          "Small Business",
+          "Customer Relationship Management",
+          "Customer Services",
+          "Selling",
+          "Data Management",
+          "Marketing",
+          "Business Software",
+          "Marketing Automation",
+          "Online Crm",
+          "Crm Systems",
+          "Business Applications",
+          "Configure Price Quote (Cpq)"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/b310e64d-d583-40e9-b435-ea3518253676.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": true,
+          "has_free_trial": true,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": true,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 1,
+          "total_funding": 2300000,
+          "total_funding_printed": "$2.3M",
+          "latest_funding_date": "2011-08-22T00:00:00",
+          "latest_funding_stage": "Angel",
+          "funding_events": [
+            {
+              "amount": 2300000,
+              "amount_printed": "$2,300,000",
+              "raised_at": "2011-08-22T00:00:00",
+              "stage": "Angel",
+              "link": "https://www.crunchbase.com/funding_round/workbooks-angel--1c53c918"
+            }
+          ]
+        },
+        "technology": {
+          "count": 29,
+          "technology_names": [
+            "WP Rocket",
+            "PWA",
+            "Microsoft 365",
+            "jQuery Migrate",
+            "Survicate",
+            "Apache HTTP Server",
+            "Stripe",
+            "jQuery",
+            "OpenSSL",
+            "PHP",
+            "HSTS",
+            "WordPress",
+            "EWWW Image Optimizer",
+            "Bootstrap",
+            "Twenty Seventeen",
+            "Linkedin Insight Tag",
+            "Yoast SEO",
+            "Google Tag Manager",
+            "Linkedin Ads",
+            "BambooHR",
+            "Sectigo",
+            "Ubuntu",
+            "RSS",
+            "Google Font API",
+            "Formidable Form",
+            "Contact Form 7",
+            "Open Graph",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "WP Rocket",
+              "category": "Caching"
+            },
+            {
+              "name": "PWA",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Microsoft 365",
+              "category": "Email"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Survicate",
+              "category": "Surveys"
+            },
+            {
+              "name": "Apache HTTP Server",
+              "category": "Web servers"
+            },
+            {
+              "name": "Stripe",
+              "category": "Payment processors"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "OpenSSL",
+              "category": "Web server extensions"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "EWWW Image Optimizer",
+              "category": "Performance"
+            },
+            {
+              "name": "Bootstrap",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Twenty Seventeen",
+              "category": "WordPress themes"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Linkedin Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "BambooHR",
+              "category": "Recruitment & staffing"
+            },
+            {
+              "name": "Sectigo",
+              "category": "SSL/TLS certificate authorities"
+            },
+            {
+              "name": "Ubuntu",
+              "category": "Operating systems"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Formidable Form",
+              "category": "Form builders"
+            },
+            {
+              "name": "Contact Form 7",
+              "category": "Form builders"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": null
+      }
+    },
+    {
+      "person": {
+        "person_id": "aaaa694281a2a6a961549a0a",
+        "first_name": "Jamie",
+        "last_name": "Horastead",
+        "full_name": "Jamie Horastead",
+        "linkedin_url": "https://www.linkedin.com/in/jamiehorastead",
+        "current_job_title": "Sales Director",
+        "current_job_key": null,
+        "headline": "Voted 2nd best CRM platform for the mid market",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Sales Director",
+            "company_name": "Workbooks CRM",
+            "logo_url": "b310e64d-d583-40e9-b435-ea3518253676.jpg",
+            "current": true,
+            "start_year": 2022,
+            "start_month": 9,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 45,
+            "departments": [
+              "Other Sales"
+            ],
+            "seniority": "Director",
+            "company_id": "ccccea4fcfae48dfcca83a54",
+            "job_key": "31968528"
+          },
+          {
+            "title": "Account Executive",
+            "company_name": "Workbooks CRM",
+            "logo_url": "b310e64d-d583-40e9-b435-ea3518253676.jpg",
+            "current": false,
+            "start_year": 2019,
+            "start_month": 8,
+            "end_year": 2022,
+            "end_month": 9,
+            "duration_in_months": 37,
+            "departments": [
+              "Account Executive"
+            ],
+            "seniority": "Entry",
+            "company_id": "ccccea4fcfae48dfcca83a54",
+            "job_key": "22246517"
+          },
+          {
+            "title": "Regional Manager - Western Europe",
+            "company_name": "Pisano",
+            "logo_url": "28afe34d-1682-4362-a7cb-88dcfa299b05.jpg",
+            "current": false,
+            "start_year": 2018,
+            "start_month": 1,
+            "end_year": 2019,
+            "end_month": 6,
+            "duration_in_months": 17,
+            "departments": [],
+            "seniority": "Manager",
+            "company_id": "cccc03f28cdabe80ff50260b",
+            "job_key": "73200233"
+          },
+          {
+            "title": "Business Development Manager (XPPS)",
+            "company_name": "Xerox",
+            "logo_url": "dd82ad4e-eb69-4f07-a94a-dead041ff6e9.jpg",
+            "current": false,
+            "start_year": 2010,
+            "start_month": 9,
+            "end_year": 2013,
+            "end_month": 7,
+            "duration_in_months": 34,
+            "departments": [
+              "Sales Development"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc6be7ccb1969643f4a582",
+            "job_key": "28581288"
+          },
+          {
+            "title": "Project Manager",
+            "company_name": "Xerox",
+            "logo_url": "dd82ad4e-eb69-4f07-a94a-dead041ff6e9.jpg",
+            "current": false,
+            "start_year": 2005,
+            "start_month": 4,
+            "end_year": 2009,
+            "end_month": 8,
+            "duration_in_months": 52,
+            "departments": [
+              "Project Management"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc6be7ccb1969643f4a582",
+            "job_key": "85865380"
+          },
+          {
+            "title": "Pursuit Project Manager",
+            "company_name": "Xerox",
+            "logo_url": "dd82ad4e-eb69-4f07-a94a-dead041ff6e9.jpg",
+            "current": false,
+            "start_year": 2005,
+            "start_month": 4,
+            "end_year": 2010,
+            "end_month": 8,
+            "duration_in_months": 64,
+            "departments": [
+              "Project Management"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc6be7ccb1969643f4a582",
+            "job_key": "58483688"
+          },
+          {
+            "title": "Distribution Sales Manager",
+            "company_name": "Samsung Electronics",
+            "logo_url": "d4b95321-62c1-42a3-87c4-7fc09609c236.jpg",
+            "current": false,
+            "start_year": 2003,
+            "start_month": 7,
+            "end_year": 2005,
+            "end_month": 3,
+            "duration_in_months": 20,
+            "departments": [
+              "Channel Sales",
+              "Supply Chain"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3e402b6cb76e5ae545b5",
+            "job_key": "59397260"
+          },
+          {
+            "title": "Distribution Sales Manager",
+            "company_name": "Samsung Electronics",
+            "logo_url": "d4b95321-62c1-42a3-87c4-7fc09609c236.jpg",
+            "current": false,
+            "start_year": 2003,
+            "start_month": null,
+            "end_year": 2005,
+            "end_month": 3,
+            "duration_in_months": 24,
+            "departments": [
+              "Channel Sales",
+              "Supply Chain"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc3e402b6cb76e5ae545b5",
+            "job_key": "83896563"
+          },
+          {
+            "title": "Distribution Account Manager",
+            "company_name": "Xerox",
+            "logo_url": "dd82ad4e-eb69-4f07-a94a-dead041ff6e9.jpg",
+            "current": false,
+            "start_year": 2000,
+            "start_month": 2,
+            "end_year": 2003,
+            "end_month": 6,
+            "duration_in_months": 40,
+            "departments": [
+              "Account Management",
+              "Supply Chain"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc6be7ccb1969643f4a582",
+            "job_key": "83725666"
+          },
+          {
+            "title": "Business Development Executive",
+            "company_name": "Xerox",
+            "logo_url": "dd82ad4e-eb69-4f07-a94a-dead041ff6e9.jpg",
+            "current": false,
+            "start_year": 1998,
+            "start_month": null,
+            "end_year": 2000,
+            "end_month": 2,
+            "duration_in_months": 24,
+            "departments": [
+              "Sales Development"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc6be7ccb1969643f4a582",
+            "job_key": "37691035"
+          },
+          {
+            "title": "Business Development Executive",
+            "company_name": "Xerox",
+            "logo_url": "dd82ad4e-eb69-4f07-a94a-dead041ff6e9.jpg",
+            "current": false,
+            "start_year": 1998,
+            "start_month": 5,
+            "end_year": 2000,
+            "end_month": 2,
+            "duration_in_months": 21,
+            "departments": [
+              "Sales Development"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc6be7ccb1969643f4a582",
+            "job_key": "959344"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+1 813-7**-****",
+          "mobile_national": "(813) 7**-****",
+          "mobile_international": "+1 813-7**-****",
+          "mobile_country": "United States",
+          "mobile_country_code": "US"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "email": "j********@workbooks.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Microsoft"
+        },
+        "location": {
+          "country": "United States",
+          "country_code": "US",
+          "state": "Pennsylvania",
+          "city": "Reading",
+          "time_zone": "America/New_York",
+          "time_zone_offset": -4.0
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "ccccea4fcfae48dfcca83a54",
+        "name": "Workbooks CRM",
+        "website": "https://workbooks.com",
+        "domain": "workbooks.com",
+        "other_websites": [],
+        "description": "Workbooks is a CRM SaaS platform used by growing companies to run their business and engage effectively with their customers.\n\nWorkbooks core CRM services extend beyond sales, marketing and customer services to include powerful marketing automation, event management, order management and fulfilment, invoicing and supplier management functionalities \u2013 at a price which is typically 50-70% less than alternatives like Salesforce or Microsoft.",
+        "description_seo": "Our CRM platform is personalized and fine-tuned precisely to your business goals. If you want a positive relationship with a CRM vendor, we\u2019re here for you.",
+        "description_ai": "PETROtech Resources Company, Inc. provides professional technical personnel and services to the petroleum industry on a consulting basis. They are proud of their reputation for technical excellence within the California energy industry and cater to a broad spectrum of major and independent energy companies.",
+        "type": "Private",
+        "industry": "Software Development",
+        "employee_count": 65,
+        "employee_count_on_prospeo": 51,
+        "employee_range": "51-100",
+        "location": {
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "state": "England",
+          "city": "Reading",
+          "raw_address": "Unit 9 Suttons Business Park, Suttons Park Avenue, Reading, Berkshire RG6 1AZ, GB"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "workbooks.com",
+          "mx_provider": "Microsoft"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/workbooks-com",
+        "twitter_url": "https://x.com/workbooks",
+        "facebook_url": "https://www.facebook.com/workbookscrm",
+        "crunchbase_url": "https://www.crunchbase.com/organization/workbooks",
+        "instagram_url": null,
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+446393851",
+          "phone_hq_national": "6393851",
+          "phone_hq_international": "+446393851",
+          "phone_hq_country": "United Kingdom",
+          "phone_hq_country_code": "GB"
+        },
+        "linkedin_id": null,
+        "founded": 2009,
+        "revenue_range": {
+          "min": 1000000,
+          "max": 5000000
+        },
+        "revenue_range_printed": "1M",
+        "keywords": [
+          "Order Processing",
+          "crm",
+          "Small Business",
+          "Customer Relationship Management",
+          "Customer Services",
+          "Selling",
+          "Data Management",
+          "Marketing",
+          "Business Software",
+          "Marketing Automation",
+          "Online Crm",
+          "Crm Systems",
+          "Business Applications",
+          "Configure Price Quote (Cpq)"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/b310e64d-d583-40e9-b435-ea3518253676.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": true,
+          "has_free_trial": true,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": true,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 1,
+          "total_funding": 2300000,
+          "total_funding_printed": "$2.3M",
+          "latest_funding_date": "2011-08-22T00:00:00",
+          "latest_funding_stage": "Angel",
+          "funding_events": [
+            {
+              "amount": 2300000,
+              "amount_printed": "$2,300,000",
+              "raised_at": "2011-08-22T00:00:00",
+              "stage": "Angel",
+              "link": "https://www.crunchbase.com/funding_round/workbooks-angel--1c53c918"
+            }
+          ]
+        },
+        "technology": {
+          "count": 29,
+          "technology_names": [
+            "WP Rocket",
+            "PWA",
+            "Microsoft 365",
+            "jQuery Migrate",
+            "Survicate",
+            "Apache HTTP Server",
+            "Stripe",
+            "jQuery",
+            "OpenSSL",
+            "PHP",
+            "HSTS",
+            "WordPress",
+            "EWWW Image Optimizer",
+            "Bootstrap",
+            "Twenty Seventeen",
+            "Linkedin Insight Tag",
+            "Yoast SEO",
+            "Google Tag Manager",
+            "Linkedin Ads",
+            "BambooHR",
+            "Sectigo",
+            "Ubuntu",
+            "RSS",
+            "Google Font API",
+            "Formidable Form",
+            "Contact Form 7",
+            "Open Graph",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "WP Rocket",
+              "category": "Caching"
+            },
+            {
+              "name": "PWA",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Microsoft 365",
+              "category": "Email"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Survicate",
+              "category": "Surveys"
+            },
+            {
+              "name": "Apache HTTP Server",
+              "category": "Web servers"
+            },
+            {
+              "name": "Stripe",
+              "category": "Payment processors"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "OpenSSL",
+              "category": "Web server extensions"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "EWWW Image Optimizer",
+              "category": "Performance"
+            },
+            {
+              "name": "Bootstrap",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Twenty Seventeen",
+              "category": "WordPress themes"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Linkedin Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "BambooHR",
+              "category": "Recruitment & staffing"
+            },
+            {
+              "name": "Sectigo",
+              "category": "SSL/TLS certificate authorities"
+            },
+            {
+              "name": "Ubuntu",
+              "category": "Operating systems"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Formidable Form",
+              "category": "Form builders"
+            },
+            {
+              "name": "Contact Form 7",
+              "category": "Form builders"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": null
+      }
+    },
+    {
+      "person": {
+        "person_id": "aaaa8423e088e0cb420adcb7",
+        "first_name": "Philip",
+        "last_name": "Wray",
+        "full_name": "Philip Wray",
+        "linkedin_url": "https://www.linkedin.com/in/philipwray23",
+        "current_job_title": "Chief Financial Officer",
+        "current_job_key": null,
+        "headline": "CFO for Workbooks CRM; Volunteer Finance Director at Ascot Utd FC and Finance Governor at Winkfield St Mary\u2019s School",
+        "linkedin_member_id": null,
+        "last_job_change_detected_at": null,
+        "job_history": [
+          {
+            "title": "Chief Financial Officer",
+            "company_name": "Workbooks CRM",
+            "logo_url": "b310e64d-d583-40e9-b435-ea3518253676.jpg",
+            "current": true,
+            "start_year": 2024,
+            "start_month": 4,
+            "end_year": null,
+            "end_month": null,
+            "duration_in_months": 26,
+            "departments": [
+              "Finance Executive",
+              "Financial Planning, Strategy & Analysis"
+            ],
+            "seniority": "C-Suite",
+            "company_id": "ccccea4fcfae48dfcca83a54",
+            "job_key": "97567468"
+          },
+          {
+            "title": "Group Finance Director",
+            "company_name": "VivoPower",
+            "logo_url": null,
+            "current": false,
+            "start_year": 2023,
+            "start_month": 9,
+            "end_year": 2024,
+            "end_month": 4,
+            "duration_in_months": 7,
+            "departments": [
+              "Finance & Banking"
+            ],
+            "seniority": "Director",
+            "company_id": "cccc1eb0d15e7cf1c3fa7432",
+            "job_key": "21793986"
+          },
+          {
+            "title": "EMEA Finance Director",
+            "company_name": "Tektronix",
+            "logo_url": "7dd3180c-fbd9-46f2-b1dc-fe9fbf67729c.jpg",
+            "current": false,
+            "start_year": 2018,
+            "start_month": 7,
+            "end_year": 2023,
+            "end_month": 4,
+            "duration_in_months": 57,
+            "departments": [
+              "Finance & Banking"
+            ],
+            "seniority": "Director",
+            "company_id": "cccc084f6e278396f5e4c4d9",
+            "job_key": "24320487"
+          },
+          {
+            "title": "European Business Controller",
+            "company_name": "Tektronix",
+            "logo_url": "7dd3180c-fbd9-46f2-b1dc-fe9fbf67729c.jpg",
+            "current": false,
+            "start_year": 2011,
+            "start_month": 6,
+            "end_year": 2018,
+            "end_month": 6,
+            "duration_in_months": 84,
+            "departments": [
+              "Accounting"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc084f6e278396f5e4c4d9",
+            "job_key": "24998837"
+          },
+          {
+            "title": "Financial controller",
+            "company_name": "Invensys - Acquired by Schneider Electric",
+            "logo_url": "9165e240-2b77-4d87-8162-8355c905c9df.jpg",
+            "current": false,
+            "start_year": 2008,
+            "start_month": 9,
+            "end_year": 2010,
+            "end_month": 2,
+            "duration_in_months": 17,
+            "departments": [
+              "Accounting",
+              "Finance & Banking"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc2cd148a017d10db371a7",
+            "job_key": "8907445"
+          },
+          {
+            "title": "Financial Controller",
+            "company_name": "Robertshaw",
+            "logo_url": "1af68085-3d5d-4633-be02-1419c4ea4fba.jpg",
+            "current": false,
+            "start_year": 2008,
+            "start_month": null,
+            "end_year": 2010,
+            "end_month": null,
+            "duration_in_months": 24,
+            "departments": [
+              "Accounting",
+              "Finance & Banking"
+            ],
+            "seniority": "Manager",
+            "company_id": "ccccb1237a7f39c92f1b1d9a",
+            "job_key": "20969068"
+          },
+          {
+            "title": "Statutory Reporting Manager",
+            "company_name": "Invensys - Acquired by Schneider Electric",
+            "logo_url": "9165e240-2b77-4d87-8162-8355c905c9df.jpg",
+            "current": false,
+            "start_year": 2006,
+            "start_month": 11,
+            "end_year": 2008,
+            "end_month": 8,
+            "duration_in_months": 21,
+            "departments": [
+              "Financial Reporting"
+            ],
+            "seniority": "Manager",
+            "company_id": "cccc2cd148a017d10db371a7",
+            "job_key": "38819352"
+          },
+          {
+            "title": "Group Accountant",
+            "company_name": "Invensys - Acquired by Schneider Electric",
+            "logo_url": "9165e240-2b77-4d87-8162-8355c905c9df.jpg",
+            "current": false,
+            "start_year": 2004,
+            "start_month": null,
+            "end_year": 2006,
+            "end_month": null,
+            "duration_in_months": 24,
+            "departments": [
+              "Accounting"
+            ],
+            "seniority": "Entry",
+            "company_id": "cccc2cd148a017d10db371a7",
+            "job_key": "49103819"
+          }
+        ],
+        "mobile": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "mobile": "+44 7900 ******",
+          "mobile_national": "07900 ******",
+          "mobile_international": "+44 7900 ******",
+          "mobile_country": "United Kingdom",
+          "mobile_country_code": "GB"
+        },
+        "email": {
+          "status": "VERIFIED",
+          "revealed": false,
+          "email": "p*********@workbooks.com",
+          "verification_method": "SMTP",
+          "email_mx_provider": "Microsoft"
+        },
+        "location": {
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "state": "England",
+          "city": "Bracknell",
+          "time_zone": "Europe/London",
+          "time_zone_offset": 1.0
+        },
+        "skills": []
+      },
+      "company": {
+        "company_id": "ccccea4fcfae48dfcca83a54",
+        "name": "Workbooks CRM",
+        "website": "https://workbooks.com",
+        "domain": "workbooks.com",
+        "other_websites": [],
+        "description": "Workbooks is a CRM SaaS platform used by growing companies to run their business and engage effectively with their customers.\n\nWorkbooks core CRM services extend beyond sales, marketing and customer services to include powerful marketing automation, event management, order management and fulfilment, invoicing and supplier management functionalities \u2013 at a price which is typically 50-70% less than alternatives like Salesforce or Microsoft.",
+        "description_seo": "Our CRM platform is personalized and fine-tuned precisely to your business goals. If you want a positive relationship with a CRM vendor, we\u2019re here for you.",
+        "description_ai": "PETROtech Resources Company, Inc. provides professional technical personnel and services to the petroleum industry on a consulting basis. They are proud of their reputation for technical excellence within the California energy industry and cater to a broad spectrum of major and independent energy companies.",
+        "type": "Private",
+        "industry": "Software Development",
+        "employee_count": 65,
+        "employee_count_on_prospeo": 51,
+        "employee_range": "51-100",
+        "location": {
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "state": "England",
+          "city": "Reading",
+          "raw_address": "Unit 9 Suttons Business Park, Suttons Park Avenue, Reading, Berkshire RG6 1AZ, GB"
+        },
+        "sic_codes": [
+          "737"
+        ],
+        "naics_codes": [],
+        "email_tech": {
+          "domain": "workbooks.com",
+          "mx_provider": "Microsoft"
+        },
+        "linkedin_url": "https://www.linkedin.com/company/workbooks-com",
+        "twitter_url": "https://x.com/workbooks",
+        "facebook_url": "https://www.facebook.com/workbookscrm",
+        "crunchbase_url": "https://www.crunchbase.com/organization/workbooks",
+        "instagram_url": null,
+        "youtube_url": null,
+        "phone_hq": {
+          "phone_hq": "+446393851",
+          "phone_hq_national": "6393851",
+          "phone_hq_international": "+446393851",
+          "phone_hq_country": "United Kingdom",
+          "phone_hq_country_code": "GB"
+        },
+        "linkedin_id": null,
+        "founded": 2009,
+        "revenue_range": {
+          "min": 1000000,
+          "max": 5000000
+        },
+        "revenue_range_printed": "1M",
+        "keywords": [
+          "Order Processing",
+          "crm",
+          "Small Business",
+          "Customer Relationship Management",
+          "Customer Services",
+          "Selling",
+          "Data Management",
+          "Marketing",
+          "Business Software",
+          "Marketing Automation",
+          "Online Crm",
+          "Crm Systems",
+          "Business Applications",
+          "Configure Price Quote (Cpq)"
+        ],
+        "logo_url": "https://prospeo-static-assets.s3.us-east-1.amazonaws.com/company_logo/b310e64d-d583-40e9-b435-ea3518253676.jpg",
+        "attributes": {
+          "is_b2b": true,
+          "has_demo": true,
+          "has_free_trial": true,
+          "has_downloadable": false,
+          "has_mobile_apps": false,
+          "has_online_reviews": true,
+          "has_pricing": true
+        },
+        "funding": {
+          "count": 1,
+          "total_funding": 2300000,
+          "total_funding_printed": "$2.3M",
+          "latest_funding_date": "2011-08-22T00:00:00",
+          "latest_funding_stage": "Angel",
+          "funding_events": [
+            {
+              "amount": 2300000,
+              "amount_printed": "$2,300,000",
+              "raised_at": "2011-08-22T00:00:00",
+              "stage": "Angel",
+              "link": "https://www.crunchbase.com/funding_round/workbooks-angel--1c53c918"
+            }
+          ]
+        },
+        "technology": {
+          "count": 29,
+          "technology_names": [
+            "WP Rocket",
+            "PWA",
+            "Microsoft 365",
+            "jQuery Migrate",
+            "Survicate",
+            "Apache HTTP Server",
+            "Stripe",
+            "jQuery",
+            "OpenSSL",
+            "PHP",
+            "HSTS",
+            "WordPress",
+            "EWWW Image Optimizer",
+            "Bootstrap",
+            "Twenty Seventeen",
+            "Linkedin Insight Tag",
+            "Yoast SEO",
+            "Google Tag Manager",
+            "Linkedin Ads",
+            "BambooHR",
+            "Sectigo",
+            "Ubuntu",
+            "RSS",
+            "Google Font API",
+            "Formidable Form",
+            "Contact Form 7",
+            "Open Graph",
+            "MySQL",
+            "Priority Hints"
+          ],
+          "technology_list": [
+            {
+              "name": "WP Rocket",
+              "category": "Caching"
+            },
+            {
+              "name": "PWA",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Microsoft 365",
+              "category": "Email"
+            },
+            {
+              "name": "jQuery Migrate",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "Survicate",
+              "category": "Surveys"
+            },
+            {
+              "name": "Apache HTTP Server",
+              "category": "Web servers"
+            },
+            {
+              "name": "Stripe",
+              "category": "Payment processors"
+            },
+            {
+              "name": "jQuery",
+              "category": "JavaScript libraries"
+            },
+            {
+              "name": "OpenSSL",
+              "category": "Web server extensions"
+            },
+            {
+              "name": "PHP",
+              "category": "Programming languages"
+            },
+            {
+              "name": "HSTS",
+              "category": "Security"
+            },
+            {
+              "name": "WordPress",
+              "category": "Blogs"
+            },
+            {
+              "name": "EWWW Image Optimizer",
+              "category": "Performance"
+            },
+            {
+              "name": "Bootstrap",
+              "category": "UI frameworks"
+            },
+            {
+              "name": "Twenty Seventeen",
+              "category": "WordPress themes"
+            },
+            {
+              "name": "Linkedin Insight Tag",
+              "category": "Analytics"
+            },
+            {
+              "name": "Yoast SEO",
+              "category": "SEO"
+            },
+            {
+              "name": "Google Tag Manager",
+              "category": "Tag managers"
+            },
+            {
+              "name": "Linkedin Ads",
+              "category": "Advertising"
+            },
+            {
+              "name": "BambooHR",
+              "category": "Recruitment & staffing"
+            },
+            {
+              "name": "Sectigo",
+              "category": "SSL/TLS certificate authorities"
+            },
+            {
+              "name": "Ubuntu",
+              "category": "Operating systems"
+            },
+            {
+              "name": "RSS",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "Google Font API",
+              "category": "Font scripts"
+            },
+            {
+              "name": "Formidable Form",
+              "category": "Form builders"
+            },
+            {
+              "name": "Contact Form 7",
+              "category": "Form builders"
+            },
+            {
+              "name": "Open Graph",
+              "category": "Miscellaneous"
+            },
+            {
+              "name": "MySQL",
+              "category": "Databases"
+            },
+            {
+              "name": "Priority Hints",
+              "category": "Performance"
+            }
+          ]
+        },
+        "job_postings": null
+      }
+    }
+  ],
+  "count": 4
+}

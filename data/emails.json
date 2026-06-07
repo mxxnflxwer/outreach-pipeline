@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "name": "Troy Muise",
+    "title": "CEO & Co-Founder",
+    "company_domain": "salesboom.com",
+    "company_name": "Salesboom",
+    "linkedin_url": "https://www.linkedin.com/in/crmsoftware",
+    "email": "tmuise@salesboom.com",
+    "location": "Canada"
+  },
+  {
+    "name": "Josh Banks",
+    "title": "Vice President, Professional Services",
+    "company_domain": "salesboom.com",
+    "company_name": "Salesboom",
+    "linkedin_url": "https://www.linkedin.com/in/salesboomcloudcrm",
+    "email": "jbanks@salesboom.com",
+    "location": "Canada"
+  },
+  {
+    "name": "Tom Stefano",
+    "title": "VP of Professional Services",
+    "company_domain": "salesboom.com",
+    "company_name": "Salesboom",
+    "linkedin_url": "https://www.linkedin.com/in/tomstefano",
+    "email": "tom@salesboom.com",
+    "location": "United States"
+  }
+]

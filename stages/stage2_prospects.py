@@ -47,15 +47,13 @@ def get_prospects_for_domain(domain: str) -> Tuple[Optional[List[Dict]], bool]:
         }
         
         response = requests.post(url, headers=headers, json=payload, timeout=10)
-        
-        # NO_RESULTS means no people found — not a real error
+
         if not response.ok:
             try:
                 body = response.json()
                 if body.get("error_code") == "NO_RESULTS":
                     print(f"⚠ No results found for {domain} — skipping")
                     return {"results": []}
-                # Rate limit — wait longer before retrying
                 if body.get("error_code") == "Rate limit exceeded" or response.status_code == 429:
                     print(f"⚠ Rate limit hit for {domain} — waiting {RATE_LIMIT_SLEEP}s...")
                     time.sleep(RATE_LIMIT_SLEEP)
@@ -63,7 +61,6 @@ def get_prospects_for_domain(domain: str) -> Tuple[Optional[List[Dict]], bool]:
                 pass
             print(f"Prospeo error response: {response.text}")
             response.raise_for_status()
-        
         return response.json()
 
     result = retry_with_backoff(make_api_call, max_retries=3)

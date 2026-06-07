@@ -39,17 +39,14 @@ def main():
 
     print(f"\nStarting outreach pipeline for: {seed_domain}")
     print(f"Dry run: {'enabled' if dry_run else 'disabled'}")
-
-    # Stage 1
     domains = run_stage1(seed_domain)
     if domains is None:
         print("✗ Pipeline stopped: Stage 1 failed.")
         return
-    # Apply domain cap if requested
+    
+    
     if args.max_domains and isinstance(domains, list):
         domains = domains[: args.max_domains]
-
-    # Stage 2 — run unless explicitly skipped with --skip-stage2
     if args.skip_stage2:
         print("\n[Stage 2] Skipping — using existing data/prospects.json")
         from utils.helpers import load_json_file
@@ -59,16 +56,14 @@ def main():
         if prospects is None:
             print("✗ Pipeline stopped: Stage 2 failed.")
             return
-    # Apply prospects cap if requested
+    
     if args.max_prospects and isinstance(prospects, list):
         prospects = prospects[: args.max_prospects]
-
-    # Stage 3
     enriched_emails = run_stage3(prospects)
     if enriched_emails is None:
         print("✗ Pipeline stopped: Stage 3 failed.")
         return
-    # Apply email cap if requested — overwrite saved file with truncated list
+    
     if args.max_emails and isinstance(enriched_emails, list):
         from utils.helpers import save_json_file
         enriched_emails = enriched_emails[: args.max_emails]
