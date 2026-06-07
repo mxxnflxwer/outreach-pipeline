@@ -1,13 +1,17 @@
 # Outreach Pipeline
 
-A simple Python CLI pipeline that automates cold outreach preparation.
+A Python CLI tool that automates cold outreach — from a single seed domain to personalized emails sent, with zero manual steps.
 
 ## What it does
 
-1. Finds lookalike companies for a seed domain using Ocean.io
-2. Finds decision makers with LinkedIn URLs using Prospeo
-3. Resolves LinkedIn URLs to verified work emails using Eazyreach
-4. Reviews the final enriched list and optionally sends emails through Brevo
+1. **Ocean.io** — Finds lookalike companies for a seed domain
+2. **Prospeo (Search)** — Finds C-suite and VP decision makers with LinkedIn URLs
+3. **Prospeo (Enrich)** — Resolves each person to a verified work email
+4. **Brevo** — Sends personalized outreach emails after confirmation
+
+> Note: Eazyreach was evaluated for Stage 3 but does not expose a public API.
+> Prospeo's Enrich endpoint was used instead — it performs the same function
+> (LinkedIn profile → verified work email) and integrates cleanly into the pipeline.
 
 ## Project structure
 
@@ -17,62 +21,69 @@ A simple Python CLI pipeline that automates cold outreach preparation.
 - `stages/` - one file per pipeline stage
 - `utils/helpers.py` - caching, retry logic, and helpers
 - `data/` - intermediate JSON output files
-- `cache/` - shared response cache for lookalikes, prospects, and emails
+- `cache/` - shared response cache across runs (lookalikes, prospects, emails)
 - `templates/` - email template file
 
 ## Setup
 
 1. Create a Python environment:
-
 ```bash
 python -m venv .venv
-.venv/bin/activate   # macOS / Linux
-.venv\\Scripts\\activate  # Windows PowerShell
+.venv/bin/activate       # macOS / Linux
+.venv\Scripts\activate   # Windows PowerShell
 ```
 
 2. Install dependencies:
-
 ```bash
 pip install -r requirements.txt
 ```
 
 3. Copy `.env.example` to `.env` and add your API keys:
-
 ```bash
 copy .env.example .env
 ```
 
 ## Environment variables
 
-Set these values in `.env`:
+Set these in `.env`:
 
-- `OCEAN_API_KEY`
-- `PROSPEO_API_KEY`
-- `EAZYREACH_API_KEY`
-- `BREVO_API_KEY`
+| Variable | Description |
+|----------|-------------|
+| `OCEAN_API_KEY` | Ocean.io API token |
+| `PROSPEO_API_KEY` | Prospeo API key (used for both search and enrich) |
+| `BREVO_API_KEY` | Brevo API key for sending emails |
+| `SENDER_NAME` | Your name shown in outreach emails |
+| `SENDER_EMAIL` | Verified sender email address in Brevo |
 
 ## Usage
 
-Run the pipeline for a seed domain:
-
+Run the full pipeline:
 ```bash
 python main.py stripe.com
 ```
 
-Run in dry-run mode to execute all stages without sending emails:
-
+Dry run — executes all stages but skips sending emails:
 ```bash
 python main.py stripe.com --dry-run
 ```
 
+Skip Stage 2 and use existing `data/prospects.json`:
+```bash
+python main.py stripe.com --skip-stage2
+```
+
 ## Output files
 
-- `data/domains.json` - Stage 1 lookalikes
-- `data/prospects.json` - Stage 2 prospects
-- `data/emails.json` - Stage 3 enriched email records
+| File | Contents |
+|------|----------|
+| `data/domains.json` | Stage 1 — lookalike company domains |
+| `data/prospects.json` | Stage 2 — decision makers with LinkedIn URLs |
+| `data/emails.json` | Stage 3 — enriched records with verified emails |
 
-## Notes
+## Features
 
-- Caching is shared across runs in the `cache/` directory
-- API calls retry up to 3 times with exponential backoff
-- The pipeline skips individual failures without crashing the entire process
+- **Caching** — results saved locally and reused across runs, even across different seed domains
+- **Retry logic** — every API call retries up to 3 times with exponential backoff
+- **Graceful failure** — individual failures are logged and skipped without crashing the pipeline
+- **Safety checkpoint** — shows full enriched list before sending any emails
+- **Dry run mode** — test the full pipeline without sending emails
